@@ -20,8 +20,7 @@ description: "Personal homepage of Dr. Duncan Hull in the Department of Computer
 #cover-image: cover.png
 # hacky way to include an image
 #cover-image: images/cover.jpg
-#url: 'https\://bookdown.org/yihui/bookdown/'
-#github-repo: rstudio/bookdown
+url: 'https\://www.cs.man.ac.uk/~hull'
 
 ---
 
@@ -39,9 +38,9 @@ If you are an [employer][Employers] who would like to recruit a summer intern, p
 
 ## Background {-}
 
-My background is a mixture of Natural Science ([Plant Sciences, BSc](http://www.plantsciences.manchester.ac.uk/)) and Computer Science (MSc & PhD). I’ve worked as a consultant and developer of web applications for various organisations including [BBC Monitoring](https://en.wikipedia.org/wiki/BBC_Monitoring), The [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) and the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS). While working on the [Apache Taverna](https://en.wikipedia.org/wiki/Apache_Taverna), [myGrid](https://en.wikipedia.org/wiki/MyGrid) and [Refine project](http://www.nactem.ac.uk/pathtext/) I completed a [PhD](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.497578) and [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) in [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) at the University of Manchester. More recently, I was also employed as a software engineer of a biochemical database ([Chemical Entities of Biological Interest: ChEBI](https://www.ebi.ac.uk/chebi/)) run by the European Bioinformatics Institute ([ebi.ac.uk](https://www.ebi.ac.uk)) in Cambridge, UK.
+My background is a mixture of Natural Science ([Plant Sciences, BSc](http://www.plantsciences.manchester.ac.uk/)) and Computer Science (MSc & PhD). I’ve worked as a consultant and developer of web applications for various organisations including [BBC Monitoring](https://en.wikipedia.org/wiki/BBC_Monitoring), The [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) and the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS). While working on the [Apache Taverna](https://en.wikipedia.org/wiki/Apache_Taverna), [myGrid](https://en.wikipedia.org/wiki/MyGrid) and [Refine project](http://www.nactem.ac.uk/pathtext/) I completed a [PhD](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.497578) and [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) in [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) at the University of Manchester. More recently, I was also employed as a software engineer of a biochemical database ([Chemical Entities of Biological Interest: ChEBI](https://www.ebi.ac.uk/chebi/)) at the European Bioinformatics Institute ([ebi.ac.uk](https://www.ebi.ac.uk)) in Cambridge, UK.
 
-I have taught various flavours of Science to primary & secondary school children, sixth formers, undergraduates & postgraduates in England and India.  More details at [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull).
+I have taught various flavours of Science to primary & secondary school children, sixth formers, undergraduates & postgraduates in England and India. More details at [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull).
 
 ## Tools {-}
-This website is written in [R markdown](https://rmarkdown.rstudio.com/) and built using [bookdown](https://bookdown.org) and [knitr](https://en.wikipedia.org/wiki/Knitr) in [RStudio](https://www.rstudio.com/), with the [source available on github](https://github.com/dullhunk/hulled). I could have (should have?) used [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io), but opted for bookdown because it is much ~~less bloated~~ easier to use. 🔨
+This website is written in [R markdown](https://rmarkdown.rstudio.com/) and built using [bookdown](https://bookdown.org), [gitbook](https://www.gitbook.com), [knitr](https://en.wikipedia.org/wiki/Knitr) and [RStudio](https://www.rstudio.com/). The [source is available on github](https://github.com/dullhunk/hulled). I could have (should have?) used [blogdown](https://bookdown.org/yihui/blogdown/) and [Hugo](https://gohugo.io), but opted for bookdown because it is much ~~less bloated~~ easier to use. 🔨
