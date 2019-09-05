@@ -1,0 +1,25 @@
+# Employers and recruiters
+
+
+We work with a range of employers from the smallest startup to the largest multi-national corporations, and are always looking for more organisations that can offer students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the Unviersity of Manchester is one of the most targetted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com).
+
+## Recruiting students
+
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or  [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer).
+
+If you're looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+
+## Careers fairs
+
+Employers can exhibit at several careers fairs at the University of Manchseter. For our annual Computer Science careers fair in the Kilburn building, please contact the careers and placements officer mabel.yau@manchester.ac.uk
+
+The central careers service also organises the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see
+the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/) and a smaller careers fair in Fallowfield in May.
+
+## Industry Club
+
+The Department has an Industiral Advisory Board (IAB) and an industry club, the latter of which is open to anyone my subscribing to our mailing list. Send an email with the subject SUBSCRIBE to CS-INDUSTRYCLUB@LISTSERV.MANCHESTER.AC.UK to receive bi-annual updates on work we are doing that is relevant to employers.
+
+## The Wednesday Waggle
+
+During term time, we highlight events and vacancies from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) to students via the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about)

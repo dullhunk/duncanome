@@ -1,0 +1,374 @@
+\documentclass[12pt,]{book}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Dr.~Duncan Hull},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{natbib}
+\bibliographystyle{apalike}
+\usepackage{longtable,booktabs}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\usepackage[normalem]{ulem}
+% avoid problems with \sout in headers with hyperref:
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\providecommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+
+  \title{Dr.~Duncan Hull}
+    \pretitle{\vspace{\droptitle}\centering\huge}
+  \posttitle{\par}
+    \author{}
+    \preauthor{}\postauthor{}
+    \date{}
+    \predate{}\postdate{}
+  
+\usepackage{booktabs}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{about}{%
+\chapter*{About}\label{about}}
+\addcontentsline{toc}{chapter}{About}
+
+\begin{center}\includegraphics[width=0.25\linewidth]{images/me-blue} \end{center}
+
+I am a lecturer in the \href{https://www.cs.manchester.ac.uk/}{Department of Computer Science} at the \href{https://www.manchester.ac.uk}{University of Manchester} where I lead the \href{https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/}{Industrial Experience (IE)} program. Every year, around 100 of our undergraduate students spend a year in industry as intercalated part of their degree.
+
+I teach on various undergraduate courses, tutorials and supervise final year and masters extended projects. I serve as \href{http://studentnet.cs.manchester.ac.uk/ugt/year2/}{second year tutor} and employability tutor.
+
+If you are an employer who would like to recruit a summer intern, placement student or graduate please get in touch. During term time, we highlight opportunities from a wide range of sources via the \href{https://waggle.cs.manchester.ac.uk/waggle/about}{Wednesday Waggle}, a weekly newsletter edited by Mabel Yau and myself.
+
+\hypertarget{background}{%
+\section*{Background}\label{background}}
+\addcontentsline{toc}{section}{Background}
+
+My background is a mixture of Natural Science (\href{http://www.plantsciences.manchester.ac.uk/}{Plant Sciences, BSc}) and Computer Science (MSc \& PhD). I've worked as a consultant and developer of web applications for various organisations including \href{https://en.wikipedia.org/wiki/BBC_Monitoring}{BBC Monitoring}, The \href{https://en.wikipedia.org/wiki/Ford_Motor_Company}{Ford Motor Company} and the \href{https://en.wikipedia.org/wiki/National_Health_Service}{National Health Service} (NHS). While working on the \href{https://en.wikipedia.org/wiki/Apache_Taverna}{Apache Taverna}, \href{https://en.wikipedia.org/wiki/MyGrid}{myGrid} and \href{http://www.nactem.ac.uk/pathtext/}{Refine project} I completed a \href{https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.497578}{PhD} and \href{https://en.wikipedia.org/wiki/Postdoctoral_researcher}{postdoc} in \href{https://en.wikipedia.org/wiki/Bioinformatics}{Bioinformatics} at the University of Manchester. More recently, I was also employed as a software engineer (\href{https://www.ebi.ac.uk/chebi/}{Chemical Entities of Biological Interest: ChEBI}) of a biochemical database by the European Bioinformatics Institute (\href{https://www.ebi.ac.uk}{ebi.ac.uk}) on the \href{https://en.wikipedia.org/wiki/Wellcome_Genome_Campus}{Wellcome Trust Genome Campus} in Cambridge, UK.
+
+I have taught various flavours of Science to primary \& secondary school children, sixth formers, undergraduates \& postgraduates in England and India. More details at \href{https://uk.linkedin.com/in/duncanhull}{linkedin.com/in/duncanhull}.
+
+\hypertarget{tools}{%
+\section*{Tools}\label{tools}}
+\addcontentsline{toc}{section}{Tools}
+
+This website is built using \href{https://bookdown.org}{bookdown}, \href{https://rmarkdown.rstudio.com/}{R markdown} and \href{https://en.wikipedia.org/wiki/Knitr}{knitr} in \href{https://www.rstudio.com/}{RStudio}, and the \href{https://github.com/dullhunk/hulled}{source is on github}. I could have (should have?) used \href{https://bookdown.org/yihui/blogdown/}{blogdown} and \href{https://gohugo.io}{Hugo}, but opted for bookdown because it is much \sout{less bloated} easier to use (IMHO).
+
+\hypertarget{students-and-tutees}{%
+\chapter{Students and tutees}\label{students-and-tutees}}
+
+During \href{https://www.manchester.ac.uk/discover/key-dates/}{term time} I teach 🎓 on a variety of undergraduate and postgraduate courses including:
+
+\hypertarget{all-years-debug-your-cv}{%
+\section{All years: Debug your CV}\label{all-years-debug-your-cv}}
+
+\begin{itemize}
+\tightlist
+\item
+  You can drop-in to my weekly CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to debug your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sesions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the \emph{Debug your CV} guide useful at \href{http://git.io/mycv}{git.io/mycv}. Outside of term time, you'll need to book an appointment.
+\end{itemize}
+
+\hypertarget{first-year}{%
+\section{First year}\label{first-year}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/}{First year team projects: COMP101} led by \href{http://www.cs.man.ac.uk/~sattler/}{Ulrike Sattler}
+\item
+  Mentoring one group of six first year students
+\item
+  Organise first year guest lectures, which mostly run in the second semester, February to May
+\end{itemize}
+
+\hypertarget{second-year}{%
+\section{Second year}\label{second-year}}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/}{Second year software engineering: COMP23311} led by \href{http://www.cs.man.ac.uk/~embury/}{Suzanne Embury}
+\item
+  Lab organiser for the \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{software engineering mentoring program}
+\item
+  Leading second year tutorials COMP2CARS and being a second year tutor to a group of six students
+\end{itemize}
+
+\hypertarget{penultimate-year}{%
+\section{Penultimate year}\label{penultimate-year}}
+
+\begin{itemize}
+\tightlist
+\item
+  Course leader for ``with industrial experience'', (IE) an elective year in industry.
+\end{itemize}
+
+\hypertarget{final-year}{%
+\section{Final year}\label{final-year}}
+
+\begin{itemize}
+\tightlist
+\item
+  Supervising final year educational projects based in secondary schools in Manchester, see \href{https://git.io/computinged}{git.io/computinged}.
+\end{itemize}
+
+\hypertarget{masters}{%
+\section{Masters}\label{masters}}
+
+\begin{itemize}
+\tightlist
+\item
+  Supervising \href{https://www.cs.manchester.ac.uk/study/masters/}{Master of Science} projects in Data Science, particularly subjects relating to Wikipedia, Wikdiata and the use of chatbots.
+\end{itemize}
+
+\hypertarget{extra-curricular}{%
+\section{Extra-curricular}\label{extra-curricular}}
+
+\begin{itemize}
+\tightlist
+\item
+  Organise, facilitate and promote extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic \href{https://www.studenthack.com}{studenthack.com} and \href{https://greatunihack.com}{greatunihack.com} since they started in 2014. These \href{https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000}{hackathons} are organised by \href{https://www.unicsmcr.com/}{UniCS}, (formerly known as HackSoc and CSSoc).
+\end{itemize}
+
+\hypertarget{employers-and-recruiters}{%
+\chapter{Employers and recruiters}\label{employers-and-recruiters}}
+
+We work with a range of employers from the smallest startup to the largest multi-national corporations, and are always looking for more organisations that can offer students a stimulating environment to work in. According to \href{https://www.highfliers.co.uk}{highfliers.co.uk}, the Unviersity of Manchester is one of the most targetted Universities in the UK by the \href{https://www.top100graduateemployers.com}{Times Top 100 Graduate Employers}.
+
+\hypertarget{recruiting-students}{%
+\section{Recruiting students}\label{recruiting-students}}
+
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or \href{https://uk.linkedin.com/in/mabel-yau}{Mabel Yau} (careers and placements officer).
+
+If you're looking to recruit students from related degree disciplines like \href{https://www.physics.manchester.ac.uk/}{Physics}, \href{https://www.maths.manchester.ac.uk/}{Maths} and \href{https://www.eee.manchester.ac.uk/}{EEE} you should talk to the Careers Service centrally at \href{http://www.careers.manchester.ac.uk/}{careers.manchester.ac.uk}
+
+\hypertarget{careers-fairs}{%
+\section{Careers fairs}\label{careers-fairs}}
+
+Employers can exhibit at several careers fairs at the University of Manchseter. For our annual Computer Science careers fair in the Kilburn building, please contact the careers and placements officer \href{mailto:mabel.yau@manchester.ac.uk}{\nolinkurl{mabel.yau@manchester.ac.uk}}
+
+The central careers service also organises the big careers fair in \href{https://www.manchestercentral.co.uk/}{Manchester Central} every autumn, see
+the \href{http://www.careers.manchester.ac.uk/events/bigcareersfair/}{Big Careers Fair} and a smaller careers fair in Fallowfield in May.
+
+\hypertarget{industry-club}{%
+\section{Industry Club}\label{industry-club}}
+
+The Department has an Industiral Advisory Board (IAB) and an industry club, the latter of which is open to anyone my subscribing to our mailing list. Send an email with the subject SUBSCRIBE to \href{mailto:CS-INDUSTRYCLUB@LISTSERV.MANCHESTER.AC.UK}{\nolinkurl{CS-INDUSTRYCLUB@LISTSERV.MANCHESTER.AC.UK}} to receive bi-annual updates on work we are doing that is relevant to employers.
+
+\hypertarget{the-wednesday-waggle}{%
+\section{The Wednesday Waggle}\label{the-wednesday-waggle}}
+
+During term time, we highlight events and vacancies from a \href{http://dullhunk.github.io/where-can-I-look-for-jobs.html}{wide range of sources} to students via the \href{https://waggle.cs.manchester.ac.uk/waggle/about}{Wednesday Waggle}
+
+\hypertarget{research-and-publications}{%
+\chapter{Research and publications}\label{research-and-publications}}
+
+My research interests are in Computer Science Education (CSE) and Wikipedia. 🔬
+
+\hypertarget{sigcse}{%
+\section{SIGCSE}\label{sigcse}}
+
+In the UK we have only been teaching Computer Science to undergradudates \href{http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml}{for 50 short years}, so there's lots of open questions about how to teach the practical aspects of the subject.
+
+\begin{itemize}
+\tightlist
+\item
+  I'm a member of \href{https://en.wikipedia.org/wiki/Association_for_Computing_Machinery}{Association for Computing Machinery} (ACM) Special Interest Group (SIG) in Computer Science Education (\href{https://sigcse.org}{SIGCSE.org}).
+\item
+  As part of that I founded and chair a \href{https://duncan.hull.name/2019/07/17/sigcse-journal-club/}{journal club} for educators in Manchester, if you'd like to join us, subscribe to the mailing list at \href{mailto:SIGCSE-JOURNAL-CLUB@LISTSERV.MANCHESTER.AC.UK}{\nolinkurl{SIGCSE-JOURNAL-CLUB@LISTSERV.MANCHESTER.AC.UK}}
+\item
+  I'm serving on the program committee for \href{http://community.dur.ac.uk/cep.conference}{Computing Education \& Practice (CEP)} at Durham University.
+\end{itemize}
+
+\hypertarget{code-club}{%
+\section{Code Club}\label{code-club}}
+
+I lead an after school \href{https://codeclub.org}{CodeClub}, part of a global network of free coding clubs for 9-13 year olds.
+
+\hypertarget{wikipedia}{%
+\section{Wikipedia}\label{wikipedia}}
+
+Wikipedia (and its sister project \href{https://www.wikidata.org}{wikidata.org}) are great tools for improving your digital skills and communication skills, regardless of your level of computer literacy. As long serving editor of Wikipedia since 2004, I organise and participate in \href{https://en.wikipedia.org/wiki/Edit-a-thon}{edit-a-thons} to train and recruit new Wikipedia editors in collaboration with other volunteers. More information at:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://wiki-loves-scientists.org.uk/}{wiki-loves-scientists.org.uk}
+\item
+  \href{https://en.wikipedia.org/wiki/User:Duncan.Hull}{en.wikipedia.org/wiki/User:Duncan.Hull}
+\end{itemize}
+
+\hypertarget{informal-publications}{%
+\section{Informal publications}\label{informal-publications}}
+
+Informal publications can be found on my sporadically updated blog
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://duncan.hull.name/lablog/}{duncan.hull.name/lablog}
+\end{itemize}
+
+\hypertarget{formal-publications}{%
+\section{Formal publications}\label{formal-publications}}
+
+Formal peer-reviewed publications can be found on DBLP, ORCID and Google Scholar\ldots{}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://dblp.org/pid/h/DuncanHull}{dblp.org/pid/h/DuncanHull}
+\item
+  \href{https://orcid.org/0000-0003-2387-503X}{orcid.org/0000-0003-2387-503X}
+\item
+  \href{https://scholar.google.com/citations?user=iDJ-t7IAAAAJ}{scholar.google.com/citations?user=iDJ-t7IAAAAJ}
+\end{itemize}
+
+\ldots{}and even wikidata:
+
+\begin{itemize}
+\tightlist
+\item
+  \href{https://www.wikidata.org/wiki/Q47012855}{wikidata.org/wiki/Q47012855}
+\end{itemize}
+
+\hypertarget{vertical-tutorials}{%
+\chapter{Vertical tutorials}\label{vertical-tutorials}}
+
+Starting in September 2019, we are experimenting with running a vertical tutoring system for undergraduate students. The idea is fairly widespread in secondary education (see \href{https://www.verticaltutoring.org/}{verticaltutoring.org}), but as far as we know has not been used fully in higher education.
+
+Extending the idea of Peer Assisted Study Sessions (PASS) \href{http://www.pass.manchester.ac.uk}{pass.manchester.ac.uk}, vertical tutoring creates tutorial groups with a representative of several years and combined with alumni.
+
+Watch this space for updates!
+
+\hypertarget{contact}{%
+\chapter{Contact}\label{contact}}
+
+You can contact me using the details below 👨‍💻 :
+
+\hypertarget{office}{%
+\section{Office}\label{office}}
+
+\begin{itemize}
+\tightlist
+\item
+  🏢 Room LF25, Kilburn Building: \href{http://bit.ly/directions-to-kilburn-building}{bit.ly/directions-to-kilburn-building}
+\item
+  📥 email: \href{mailto:duncan.hull@manchester.ac.uk}{\nolinkurl{duncan.hull@manchester.ac.uk}}
+\item
+  ☎️ telephone: +44 161 275 6186
+\end{itemize}
+
+Also Mabel Yau, careers and placements officer 👩‍💻 :
+
+\begin{itemize}
+\tightlist
+\item
+  🏢 Room LF26, Kilburn Building:
+\item
+  📥 email: \href{mailto:mabel.yau@manchester.ac.uk}{\nolinkurl{mabel.yau@manchester.ac.uk}}
+\item
+  ☎️ telephone: +44 161 275 6140
+\end{itemize}
+
+\hypertarget{online}{%
+\section{Online}\label{online}}
+
+\begin{itemize}
+\tightlist
+\item
+  Slack, search for ``Duncan Hull'' or my work email
+\item
+  LinkedIn \href{https://uk.linkedin.com/in/duncanhull}{linkedin.com/in/duncanhull}
+\item
+  Blog \href{https://duncan.hull.name}{duncan.hull.name}
+\item
+  Github \href{https://github.com/dullhunk}{github.com/dullhunk}
+\item
+  Twitter \href{https://twitter.com/dullhunk}{twitter.com/dullhunk}
+\end{itemize}
+
+\hypertarget{postal-address}{%
+\section{Postal address}\label{postal-address}}
+
+Send post 🐌 to :
+
+Dr.~Duncan Hull\\
+Department of Computer Science\\
+Kilburn Building\\
+The University of Manchester\\
+Oxford Road\\
+Manchester\\
+M13 9PL
+
+\bibliography{hulld.bib}
+
+
+\end{document}

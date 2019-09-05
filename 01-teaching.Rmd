@@ -1,0 +1,38 @@
+# Students and tutees
+
+During [term time](https://www.manchester.ac.uk/discover/key-dates/) I teach 🎓 on a variety of undergraduate and postgraduate courses including:
+
+
+## All years: Debug your CV
+
+* You can drop-in to my weekly CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to debug your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sesions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). Outside of term time, you'll need to book an appointment.
+
+## First year
+
+* [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)
+* Mentoring one group of six first year students
+* Organise first year guest lectures, which mostly run in the second semester, February to May
+
+## Second year
+
+* [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/)
+* Lab organiser for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
+* Leading second year tutorials COMP2CARS and being a second year tutor to a group of six students
+
+## Penultimate year
+
+* Course leader for "with industrial experience", (IE) an elective year in industry.
+
+
+## Final year
+
+* Supervising final year educational projects based in secondary schools in Manchester, see [git.io/computinged](https://git.io/computinged).
+
+## Masters
+
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Data Science, particularly subjects relating to Wikipedia, Wikdiata and the use of chatbots.
+
+
+## Extra-curricular
+
+* Organise, facilitate and promote extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since they started in 2014. These [hackathons](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000) are organised by [UniCS](https://www.unicsmcr.com/), (formerly known as HackSoc and CSSoc).

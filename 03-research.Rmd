@@ -1,0 +1,36 @@
+# Research and publications
+
+My research interests are in Computer Science Education (CSE) and Wikipedia. 🔬
+
+## SIGCSE
+In the UK we have only been teaching Computer Science to undergradudates [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach the practical aspects of the subject.
+
+* I'm a member of [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)).
+* As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list at SIGCSE-JOURNAL-CLUB@LISTSERV.MANCHESTER.AC.UK
+* I'm serving on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) at Durham University.
+
+## Code Club
+I lead an after school [CodeClub](https://codeclub.org), part of a global network of free coding clubs for 9-13 year olds.
+
+## Wikipedia
+Wikipedia (and its sister project [wikidata.org](https://www.wikidata.org)) are great tools for improving your digital skills and communication skills, regardless of your level of computer literacy. As long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) to train and recruit new Wikipedia editors in collaboration with other volunteers. More information at:
+
+* [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)
+* [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
+
+
+## Informal publications
+Informal publications can be found on my sporadically updated blog
+
+* [duncan.hull.name/lablog](https://duncan.hull.name/lablog/)
+
+## Formal publications
+Formal peer-reviewed publications can be found on DBLP, ORCID and Google Scholar...
+
+* [dblp.org/pid/h/DuncanHull](https://dblp.org/pid/h/DuncanHull)
+* [orcid.org/0000-0003-2387-503X](https://orcid.org/0000-0003-2387-503X)
+* [scholar.google.com/citations?user=iDJ-t7IAAAAJ](https://scholar.google.com/citations?user=iDJ-t7IAAAAJ)
+
+...and even wikidata:
+
+* [wikidata.org/wiki/Q47012855](https://www.wikidata.org/wiki/Q47012855)
