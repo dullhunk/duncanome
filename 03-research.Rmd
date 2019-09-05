@@ -1,12 +1,12 @@
-# Research and publications
+# Research {#research}
 
-My research interests are in Computer Science Education (CSE) and Wikipedia. 🔬
+My research interests are in Computer Science Education (CSE) and Wikipedia. I am particularly interested in better teaching methods that prepare students for the wide range of careers they go onto after graduation.
 
 ## SIGCSE
-In the UK we have only been teaching Computer Science to undergradudates [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach the practical aspects of the subject.
+In the UK we have only been teaching Computer Science to undergraduates [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach the practical and theoretical aspects of the subject.
 
 * I'm a member of [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)).
-* As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list at SIGCSE-JOURNAL-CLUB@LISTSERV.MANCHESTER.AC.UK
+* As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list by emailing listserv@listserv.manchester.ac.uk with the text **subscribe sigcse-journal-club yourfirstname yoursecondname** in the body of your message 
 * I'm serving on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) at Durham University.
 
 ## Code Club

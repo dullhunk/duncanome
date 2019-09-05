@@ -1,4 +1,4 @@
-# Employers and recruiters
+# Employers {#employers}
 
 We work with a wide range of employers from the tiniest startup to the largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the Unviersity of Manchester is one of the most targetted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com).
 
@@ -9,15 +9,17 @@ If you are recruiting computer scientists and software engineers as a summer int
 If you are looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
 
 ## Careers fairs
-As an employer, you can exhibit at several careers fairs at the University of Manchester. For our annual Computer Science careers fair in the Kilburn building, please contact the careers and placements officer mabel.yau@manchester.ac.uk
+As an employer, you can exhibit at several careers fairs at the University of Manchester. For our annual Computer Science careers fair in the Kilburn building, please [contact the careers and placements officer Mabel Yau][Contact].
 
 The central careers service also organises the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see
 the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/) and a smaller careers fair in Fallowfield in May.
 
 ## Industry Club
 
-The Department has an Industiral Advisory Board (IAB) and an industry club, the latter of which is open to anyone my subscribing to our mailing list. Send an email with the subject SUBSCRIBE to CS-INDUSTRYCLUB@LISTSERV.MANCHESTER.AC.UK to receive bi-annual updates on work we are doing that is relevant to employers.
+Employers are welcome to join our industry club mailing list by sending an email to listserv@listserv.manchester.ac.uk with the the text **subscribe cs-industryclub yourfirstname yoursecondname** in the body of your message.
+
+You will receive two to three updates per year and an invitation to our industry club meetings which usually happen every year. We promise not to spam you or sell your details on to third parties.
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) to students via the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about)
+During term time, we highlight events and vacancies from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) to students via the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about). If you have vacancies or events you would like our students to know about, [get in touch][Contact].
