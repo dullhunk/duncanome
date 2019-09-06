@@ -1,18 +1,23 @@
 # Employers {#employers}
 
-We work with a wide range of employers from the tiniest startup to the largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the Unviersity of Manchester is one of the most targetted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com).
+We work with a wide range of employers from the tiniest startup to the largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is one of the most targeted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). We're keen to do better, for example, by engaging more with new employers, especially those in Manchester (see [git.io/manc](https://git.io/manc)).
 
 ## Recruiting students
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or  [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer).
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or  [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students.
 
-If you are looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+If you are looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), [MACE](https://www.mace.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
 
 ## Careers fairs
-As an employer, you can exhibit at several careers fairs at the University of Manchester. For our annual Computer Science careers fair in the Kilburn building, please [contact the careers and placements officer Mabel Yau][Contact].
+Our annual Computer Science careers fair is held the Kilburn building in autumn, we typically have around 30 employers exhibited over two days.
 
-The central careers service also organises the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see
-the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/) and a smaller careers fair in Fallowfield in May.
+We also run drop-in sessions where employers can come in and set up a stand in the foyer to talk to students informally on their way to and from lectures, usually during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these, please [contact the careers and placements officer Mabel Yau][Contact].
+
+The central careers service also organises  
+
+* the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
+
+* a smaller careers fair in Fallowfield [Armitage centre](http://www.sport.manchester.ac.uk/facilities/armitage/) in May
 
 ## Industry Club
 

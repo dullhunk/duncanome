@@ -1,11 +1,10 @@
 # Students {#teaching}
 
-During [term time](https://www.manchester.ac.uk/discover/key-dates/) I teach 🎓on a variety of undergraduate and postgraduate courses including:
-
+I teach 🎓 on a variety of undergraduate and postgraduate courses including:
 
 ## All years: debug your CV
 
-* You can drop-in to my weekly CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to **debug** your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sesions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). Outside of term time, you'll need to book an appointment.
+* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to **debug** your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sesions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). Outside of term time, you'll need to book an appointment.
 
 ## First year
 
@@ -29,7 +28,7 @@ During [term time](https://www.manchester.ac.uk/discover/key-dates/) I teach �
 
 ## Masters
 
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Data Science, particularly subjects relating to Wikipedia, Wikdiata and the use of chatbots.
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This often includes research using Wikipedia, Wikdiata and chatbots. 🤖
 
 
 ## Extra-curricular
