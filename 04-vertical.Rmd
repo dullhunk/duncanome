@@ -1,14 +1,29 @@
 # Vertical tutoring
 
-Starting in September 2019, I am leading an experiment with a vertical tutoring system for undergraduate students. The idea is fairly widespread in secondary education (see [verticaltutoring.org](https://www.verticaltutoring.org/)), but as far as we know has not been used fully in higher education.
+Starting in September 2019, we are experimenting with a vertical tutoring system for undergraduate students. The idea is  widespread in secondary education (see [verticaltutoring.org](https://www.verticaltutoring.org/)), but as far as we know has not been used in higher education.
 
-Extending the idea of Peer Assisted Study Sessions (PASS) [pass.manchester.ac.uk](http://www.pass.manchester.ac.uk), vertical tutoring creates tutorial groups with a representative from _one of each_ of several years and combined with alumni. For example, a vertical tutor group could contain:
-
-* One first year student
-* One second year student
-* One student out on placement
-* One final year student
-* One member of our alumni  
+Extending the idea of Peer Assisted Study Sessions (PASS) [pass.manchester.ac.uk](http://www.pass.manchester.ac.uk), vertical tutoring creates tutorial groups with a representative from _one of each_ year of undergraduate study combined with alumni.
 
 ## Full stack mentoring
-This is a work in progress. Watch this space for updates!
+A vertical tutor group will typically contain five members as shown in Figure~\@ref(fig:vertical-fig). The group meets physically and virtually via a slack channel which consists of:
+
+1. One first year student
+2. One second year student
+3. One penultimate year student (out on industrial placement)
+4. One final year student
+5. One member of our alumni via [network.manchester.ac.uk](https://www.network.manchester.ac.uk/)
+
+Vertical tutor groups meet twice per semester. It is very unlikely that a free timetable slot for all years and alumni can be found during normal office hours, because of the complexities of timetabling. So evenings will be likely to work best. Where possible, tutor groups will meet face to face, with remote members (e.g. placement students and alumni) typically joining virtually by slack or similar.
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='Conventional horizontal tutor groups (shown in black) bring together a group of students in the same year. For example, year 1 students meet as a group once per week during term time. Vertical tutor groups (shown in red) are made of of one student from each year and an alumni. Vertical tutor groups extend the idea of PASS, to full stack mentoring, crossing all levels'}
+knitr::include_graphics("images/vertical-tutor-groups.png")
+```
+
+## What is good for?
+Vertical tutoring is an attractive idea but does it actually work? If so, how? What is it useful for? We would like to find out:
+
+1. If there is any appetite for vertical tutoring amongst students and alumni
+2. How it could work e.g. with slack.com or discordapp.com etc?
+3. How many times can/should vertical tutor groups meet? Twice per semester? More frequently? Less frequently?
+4. What are suitable topics for discussion in a vertical tutorial? Careers, mental health, networking etc
+6. What kind of specialist groups could be useful e.g. all female group , research focussed tutorial group (with MSc & PhD student), ordinary “vanilla” group etc

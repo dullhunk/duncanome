@@ -4,23 +4,26 @@ You can contact us using the the details below
 
 ## Office
 
+From the Byte cafe, our office can be found in the Kilburn building, past the [Student Support Office](https://studentnet.cs.manchester.ac.uk/student-services/) (SSO), through the double doors, down the ramp.
+
 **Dr. Duncan Hull, Lecturer** 👨‍💻
 
-* 🏢 Room LF25, Kilburn Building: [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
-* 📥 email:	duncan.hull@manchester.ac.uk
+* 🏢 Room LF25, Kilburn Building:
+* 📥 email:	duncan.hull ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6186
 * 🌐 [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 
 **Mabel Yau, Careers and placements officer** 👩‍💻
 
 * 🏢 Room LF26, Kilburn Building:
-* 📥 email:	mabel.yau@manchester.ac.uk
+* 📥 email:	mabel.yau ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6140
 * 🌐 [linkedin.com/in/mabel-yau](https://uk.linkedin.com/in/mabel-yau)
 
+
 ## Elsewhere
 
-I can also be found on:
+You can also find me on [t'interwebs](https://www.google.com/search?q=interweb) at:
 
 * Slack: search for "Duncan Hull" or my work email
 * Skype: search for "duncanhull"
@@ -32,10 +35,27 @@ I can also be found on:
 
 Send post 🐌 to :
 
-Dr. Duncan Hull  
-Department of Computer Science  
-Kilburn Building  
+Dr. Duncan Hull, Lecturer    
+Department of Computer Science, Kilburn Building  
 The University of Manchester  
 Oxford Road  
-Manchester  
-M13 9PL  
+Manchester, M13 9PL  
+
+## How to get to the Kilburn buiding
+
+It takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). The official postcode (M13 9PL) takes you to University Place next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) below which are more accurate.
+
+* Directions [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
+* There are two ground floor entrances to the Kilburn building, North and South
+  + North entrance: [what3words.com/port.museum.rips](https://what3words.com/port.museum.rips)
+  + South entrance: [what3words.com/common.wiping.email](https://what3words.com/common.wiping.email)
+* There is no reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
+* See also [cs.manchester.ac.uk/about/maps-and-travel/](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
+
+## Nearest car parks
+
+If you are driving, the nearest car parks are:  
+
+* **University Car Park B** [Manchester Aquatics Centre Car Park](https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/), NCP [M13  9SS](http://maps.google.co.uk/maps?q=M13+9SS)
+* **University Car Park D** Booth Street West Car Park, [M15 6AR](http://maps.google.co.uk/maps?q=M15+6AR), access via Higher Cambridge Street
+* See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)

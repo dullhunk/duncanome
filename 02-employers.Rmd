@@ -1,6 +1,11 @@
 # Employers {#employers}
 
-We work with a wide range of employers from the tiniest startup to the largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is one of the most targeted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). We're keen to do better, for example, by engaging more with new employers, especially those in Manchester (see [git.io/manc](https://git.io/manc)).
+We work with a wide range of employers from the bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating environment to work in. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is one of the most targeted Universities in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). We can do better, for example, by engaging more with new employers, especially those in Manchester (see [git.io/manc](https://git.io/manc)).
+
+```{r echo = FALSE, fig.align = "center", out.width = "40%"}
+knitr::include_graphics("images/industry-club-black.png")
+```
+
 
 ## Recruiting students
 
@@ -16,8 +21,8 @@ We also run drop-in sessions where employers can come in and set up a stand in t
 The central careers service also organises  
 
 * the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
-
 * a smaller careers fair in Fallowfield [Armitage centre](http://www.sport.manchester.ac.uk/facilities/armitage/) in May
+* many other employer events on campus during term time
 
 ## Industry Club
 

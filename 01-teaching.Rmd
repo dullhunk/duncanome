@@ -1,10 +1,15 @@
 # Students {#teaching}
 
-I teach 🎓 on a variety of undergraduate and postgraduate courses including:
+I teach, mentor, tutor and lecture on a variety of undergraduate and postgraduate courses shown below.
+
+```{r echo = FALSE, fig.align = "center", out.width = "75%", fig.cap='Question everything, or _[Nullius in verba](https://en.wikipedia.org/wiki/Nullius_in_verba)_ as the say at the Royal Society. Picture via [flickr.com/photos/dullhunk/202872717](https://www.flickr.com/photos/dullhunk/202872717). Attribution 2.0 Generic (CC BY 2.0)'}
+knitr::include_graphics("images/question-everything.jpg")
+```
 
 ## All years: debug your CV
 
-* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to **debug** your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sesions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). Outside of term time, you'll need to book an appointment.
+* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to **debug** your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sessions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv).
+* Outside of term time, it's best to book an appointmetn
 
 ## First year
 
