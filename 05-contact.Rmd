@@ -23,7 +23,7 @@ From the Byte cafe, our office can be found in the Kilburn building, past the [S
 
 ## Elsewhere
 
-You can also find me on [t'interwebs](https://www.google.com/search?q=interweb) at:
+You can get in touch via t'internet at:
 
 * Slack: search for "Duncan Hull" or my work email
 * Skype: search for "duncanhull"
@@ -41,15 +41,15 @@ The University of Manchester
 Oxford Road  
 Manchester, M13 9PL  
 
-## How to get to the Kilburn buiding
+## Kilburn building directions
 
-It takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). The official postcode (M13 9PL) takes you to University Place next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) below which are more accurate.
+From the train stations, it takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). Our official postcode (M13 9PL) takes you to [University Place](http://www.conference.manchester.ac.uk/venues/search/details/?property=10) next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) below which are more accurate:
 
-* Directions [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
+* Google map of the Kilburn building [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
 * There are two ground floor entrances to the Kilburn building, North and South
   + North entrance: [what3words.com/port.museum.rips](https://what3words.com/port.museum.rips)
   + South entrance: [what3words.com/common.wiping.email](https://what3words.com/common.wiping.email)
-* There is no reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
+* There is no formal reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
 * See also [cs.manchester.ac.uk/about/maps-and-travel/](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
 
 ## Nearest car parks

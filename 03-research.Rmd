@@ -1,22 +1,31 @@
 # Research {#research}
 
-My research interests are in Computer Science Education (CSE) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). I am particularly interested in better [teaching and learning methods](https://www.manchester.ac.uk/study/undergraduate/teaching-learning/) that help students to develop skills they need for the wide range of careers they go onto after graduation. This includes "hard" technical and "soft" non-technical skills.
+My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). I'm interested in methods for delivering high quality learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), live music, [live coding](https://en.wikipedia.org/wiki/Live_coding) and [Wikipedia editing][wikipedia].
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support some of the claims made about pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
+```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
 knitr::include_graphics("images/wikipedian_protester.png")
 ```
 
 ## SIGCSE
-In the UK we have only been teaching Computer Science to undergraduates [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach both the practical and theoretical aspects of the subject. To that end:
+Computer Science has only been taught to undergraduates in the UK [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach both the practical and theoretical aspects of the subject. To that end:
 
 * I'm an active member of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)).
 * As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list by emailing listserv@listserv.manchester.ac.uk with the text **subscribe sigcse-journal-club yourfirstname yoursecondname** in the body of your message
 * I'm serving on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) conference at Durham University in 2020.
 
-## Code Club
+## Industrial mentoring
+
+Since we started the [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
+
+## Vertical tutoring
+
+We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring] for details.
+
+
+## Code Club {#codeclub}
 I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. The aim is to have fun using scratch, python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [Micro:bits](https://microbit.org/), [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) and [CodeBug](http://www.codebug.org.uk/) etc.
 
-## Wikipedia
+## Wikipedia {#wikipedia}
 Wikipedia (and its sister project [wikidata.org](https://www.wikidata.org)) are great tools for improving digital skills and communication skills, regardless of your age or level of computer literacy. As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. More information at:
 
 * [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)

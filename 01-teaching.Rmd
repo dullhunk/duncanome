@@ -1,31 +1,34 @@
 # Students {#teaching}
 
-I teach, mentor, tutor and lecture on a variety of undergraduate and postgraduate courses shown below.
+I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me in the labs, my office and the lecture theatre. 🎭
 
-```{r echo = FALSE, fig.align = "center", out.width = "75%", fig.cap='Question everything, or _[Nullius in verba](https://en.wikipedia.org/wiki/Nullius_in_verba)_ as the say at the Royal Society. Picture via [flickr.com/photos/dullhunk/202872717](https://www.flickr.com/photos/dullhunk/202872717). Attribution 2.0 Generic (CC BY 2.0)'}
+```{r echo = FALSE, fig.align = "center", out.width = "75%", fig.cap='Question everything, or _[Nullius in verba](https://en.wikipedia.org/wiki/Nullius_in_verba)_ as the say at the Royal Society'}
 knitr::include_graphics("images/question-everything.jpg")
 ```
 
 ## All years: debug your CV
 
-* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time. Whatever stage you are at, it is a good idea to **debug** your CV, LinkedIn, job search, life etc before you show it to a potential employer. These sessions are open to undergraduate (BSc, BEng) and postgradautes (MSc and PhD). If you haven't written a CV, résumé or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv).
-* Outside of term time, it's best to book an appointmetn
+* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time.
+* If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv).
+* Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)"
+* Outside of term time, it's best to book an appointment
 
 ## First year
 
-* [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)
+* Teaching on [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)
 * Mentoring one group of six first year students
-* Organise first year guest lectures, which mostly run in the second semester, February to May
+* Organising first year guest lectures, which mostly run in the second semester, February to May
 
 ## Second year
 
-* [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/)
-* Lab organiser for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
-* Leading second year tutorials COMP2CARS and being a second year tutor to a group of six students
+* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/)
+* Organising the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
+* Leading second year tutorials COMP2CARS which focus on wellbeing and working out your next steps.
 
 ## Penultimate year
 
-* Course leader for "with industrial experience" (IE), an elective and intercalated year in industry.
+* Leading the course for "with industrial experience" (IE), an elective and intercalated year in industry.
+* Visiting students on placement
 
 ## Final year
 
@@ -33,9 +36,8 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Masters
 
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This often includes research using Wikipedia, Wikdiata and chatbots. 🤖
-
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This usually involves research using Wikipedia, Wikdata and chatbots. 🤖
 
 ## Extra-curricular
 
-* Organise, facilitate and promote extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since they started in 2014. These [hackathons](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000) are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formerly known as HackSoc and CSSoc.
+* Organising, facilitating and promoting extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These [hackathons](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000) are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formerly known as HackSoc and CSSoc.
