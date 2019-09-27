@@ -13,15 +13,14 @@ If you are recruiting computer scientists and software engineers as a summer int
 If you are looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), [MACE](https://www.mace.manchester.ac.uk/), [Materials](https://www.materials.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
 
 ## Careers fairs
-Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that are students will be interested in.
-
-If you aren't able to exhibit at our careers fair, we also run drop-in sessions where employers can come in and set up a stand in the foyer to talk to students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau][Contact].
-
-The central careers service also organises:  
+Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. The central careers service also organises:  
 
 * the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
 * a smaller careers fair in Fallowfield [Armitage centre](http://www.sport.manchester.ac.uk/facilities/armitage/) in May
 * hundreds of other employer events on campus during term time
+
+## Drop-in sessions
+If you aren't able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau][Contact].
 
 ## Industry Club
 
@@ -33,11 +32,15 @@ All employers are welcome to join our industry club mailing list by sending an e
 
 The mailing list is low-traffic, typically two to three updates per year and an invitation to our annual industry club meeting. We promise not to spam you or sell your email details on to third parties.
 
+## Industrial mentoring
+The [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) allows employers meet students during code review sessions.
+
+
 ## The Wednesday Waggle
 
 During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about). If you have vacancies or events you would like our students to know about, [get in touch with us][Contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
 
-## Buzzing! 🐝
+## Buzzin' our kid! 🐝
 
 At peak times, we can get **very busy** with many concurrent employer events on campus. Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 
