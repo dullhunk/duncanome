@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). I'm interested in methods that can deliver high quality learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), live music, [live coding](https://en.wikipedia.org/wiki/Live_coding), [Wikipedia editing][wikipedia] and more.
+My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011] I'm interested in methods that can deliver high quality learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), live music, [live coding](https://en.wikipedia.org/wiki/Live_coding), [Wikipedia editing][wikipedia] and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -23,10 +23,10 @@ We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutorin
 
 
 ## Code Club {#codeclub}
-I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. The aim is to have fun using scratch, python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [Micro:bits](https://microbit.org/), [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) and [CodeBug](http://www.codebug.org.uk/) etc.
+I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using scratch, python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [Micro:bits](https://microbit.org/), [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) and [CodeBug](http://www.codebug.org.uk/) etc.
 
 ## Wikipedia {#wikipedia}
-Wikipedia (and its sister project [wikidata.org](https://www.wikidata.org)) are powerful tools for improving digital skills and communication skills, regardless of your age or level of computer literacy. As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. More information at:
+Wikipedia (and its sister project [wikidata.org](https://www.wikidata.org)) [@Vrandecic2014] are powerful tools for improving digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018] [@goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors.[@goodbadugly] [@troubled]  More information at:
 
 * [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)

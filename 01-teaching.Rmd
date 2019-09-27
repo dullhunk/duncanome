@@ -10,7 +10,7 @@ knitr::include_graphics("images/question-everything.jpg")
 
 * You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time.
 * If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv).
-* Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)"
+* Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
 * Outside of term time, it's best to book an appointment
 
 ## First year
@@ -36,8 +36,8 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Masters
 
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This usually involves research using Wikipedia, Wikdata and chatbots. 🤖
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This usually involves research using Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) and chatbots. 🤖
 
 ## Extra-curricular
 
-* Organising, facilitating and promoting extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These [hackathons](https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000) are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formerly known as HackSoc and CSSoc.
+* Organising, facilitating and promoting extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@hafb] are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formerly known as HackSoc and CSSoc.

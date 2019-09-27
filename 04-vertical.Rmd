@@ -1,6 +1,6 @@
 # Vertical tutoring
 
-We are currently piloting a vertical tutoring (VT) system for undergraduate students. VT is already widespread in secondary education (see [verticaltutoring.org](https://www.verticaltutoring.org/)), but as far as we know has not been used in higher education.
+We are currently piloting a vertical tutoring (VT) system for undergraduate students. VT is already widespread in secondary education (see [verticaltutoring.org](https://www.verticaltutoring.org/)), [@vtbernard] but as far as we know has not been used in higher education.
 
 Extending the idea of Peer Assisted Study Sessions (PASS) [pass.manchester.ac.uk](http://www.pass.manchester.ac.uk), vertical tutoring creates tutorial groups with a representative from _one of each_ year of undergraduate study combined with alumni.
 
