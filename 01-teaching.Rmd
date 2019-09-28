@@ -32,7 +32,7 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Final year
 
-* Supervising final year educational projects based in secondary schools in Manchester, see [git.io/computinged](https://git.io/computinged).
+* Supervising final year educational projects based in secondary schools in Manchester, see [coding their future](coding their future). [@computinged]
 
 ## Masters
 

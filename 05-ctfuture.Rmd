@@ -1,6 +1,6 @@
 # Coding their future
 
-**Coding their future** is a collaboration & partnership between your school and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester to improve and support Computer Science education at key stages 3 and 4. [@afterthereboot] [@cambridgegcse]
+**Coding their future** is a collaboration & partnership between your school and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester to improve and support Computer Science education at key stages 3 and 4. [@afterthereboot] [@shutdownrestart] [@cambridgegcse]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%"}
 knitr::include_graphics("images/schools-banner.jpg")
@@ -57,9 +57,9 @@ Formal supervision and mentoring is undertaken by the university (Duncan and Dav
 
 ## Guidance for students
 
-So why would you, an undergraduate student, want to work on an education project in secondary school? The UK government would like Computer Science should be taught in all secondary schools in the UK.[@afterthereboot] However, in many UK schools there is a shortage of teachers who are trained in Computer Science, consequently, many teachers find themselves being asked to teach a subject they may know little about.[@shutdownrestart]
+So why would you, an undergraduate student, want to work on an education project in secondary school? The UK government would like Computer Science should be taught in all secondary schools in the UK. [@afterthereboot] However, in many UK schools there is a shortage of teachers who are trained in Computer Science, consequently, many teachers find themselves being asked to teach a subject they may know little about. [@shutdownrestart]
 
-Undergraduate students can make a significant difference here, by supporting teachers in the classroom to create and deliver new classroom resources in Computer Science.[@computinged] In addition, you will be able to:
+Undergraduate students can make a significant difference here, by supporting teachers in the classroom to create and deliver new classroom resources in Computer Science. [@computinged] In addition, undergraduate students  will have the chance to:
 
 * develop leadership skills in the classroom
 * gain valuable experience of working on “real world” problems in a stimulating environment
@@ -79,7 +79,7 @@ We have carefully selected schools in Manchester that are relatively easy for yo
 
 You will be expected to work closely with the teacher to develop resources that
 
-* engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually key stage 3 and/or 4, ages 11-16.
+* engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually [key stage 3](https://en.wikipedia.org/wiki/Key_Stage_3), [key stage 4](https://en.wikipedia.org/wiki/Key_Stage_4) or [key stage 5](https://en.wikipedia.org/wiki/Key_Stage_5) ages 11-18.
 * complement the schools current provision for computer science in the school
 
 In order to achieve this, you will need to attend a series of education and outreach events, as part of the programme and sign up and complete the Science, Technology, Engineering & Mathematics (STEMnet) ambassador training (which includes DBS checks) supplied by the Museum of Science and Industry (MOSI) in Manchester.
