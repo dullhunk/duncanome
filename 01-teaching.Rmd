@@ -32,11 +32,11 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Final year
 
-* Supervising final year educational projects based in secondary schools in Manchester, see [coding their future](coding their future). [@computinged]
+* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future]. [@computinged]
 
 ## Masters
 
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. This usually involves research using Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) and chatbots. 🤖
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves some combination of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
 ## Extra-curricular
 

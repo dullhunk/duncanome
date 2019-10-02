@@ -1,11 +1,11 @@
 # Coding their future
 
-**Coding their future** is a collaboration & partnership between your school and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester to improve and support Computer Science education at key stages 3 and 4. [@afterthereboot] [@shutdownrestart] [@cambridgegcse]
+**Coding their future** is a collaboration & partnership secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. The aim is to improve and support Computer Science education at key stages 3, 4 and 5. [@afterthereboot] [@shutdownrestart] [@cambridgegcse]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%"}
 knitr::include_graphics("images/schools-banner.jpg")
 ```
-We provide schools with a final year student who can teach Computer Science in your school or college as a teaching assistant. In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
+The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant. In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
 
 * [Fairfield High School for Girls](http://www.fairfieldhigh.tameside.sch.uk/), Droylsden
 * [University Technical College (UTC) $@$MediaCityUK](http://www.utcmediacityuk.org.uk/), Salford

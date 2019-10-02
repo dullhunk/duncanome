@@ -1,6 +1,5 @@
-# Employers {#employers}
-
-We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2019], the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/) (see [git.io/manc](https://git.io/manc)).
+# Employers
+We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk) [@highfliers2019] [@times100] [@Birchall2019], the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%"}
 knitr::include_graphics("images/industry-club-wide.png")
@@ -8,16 +7,24 @@ knitr::include_graphics("images/industry-club-wide.png")
 
 ## Recruiting students
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students.
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* AA including A* in mathematics) is comparable to other leading universities in the [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) as shown in the table below.
 
-If you are looking to recruit students from related degree disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), [MACE](https://www.mace.manchester.ac.uk/), [Materials](https://www.materials.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+
+University | Entry tariff  | Students per year
+----------- | ----------- | --------
+[Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A | ~100
+[Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A | ~50
+[Imperial](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A A| ~200
+[Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A A | ~250
+
+If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), [MACE](https://www.mace.manchester.ac.uk/), [Materials](https://www.materials.manchester.ac.uk/) and [EEE](https://www.eee.manchester.ac.uk/) you should talk to the Careers Service centrally at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
 
 ## Careers fairs
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. The central careers service also organises:  
 
 * the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
 * a smaller careers fair in Fallowfield [Armitage centre](http://www.sport.manchester.ac.uk/facilities/armitage/) in May
-* hundreds of other employer events on campus during term time
+* hundreds of other employer events on campus during term time [@highfliers2019]
 
 ## Drop-in sessions
 If you aren't able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau][Contact].
@@ -40,7 +47,7 @@ The [Industrial mentoring scheme for software engineers](https://www.cs.manchest
 
 During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about). If you have vacancies or events you would like our students to know about, [get in touch with us][Contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
 
-## Buzzin' our kid! 🐝
+## Buzzing! 🐝
 
 At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2019] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 

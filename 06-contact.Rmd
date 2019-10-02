@@ -2,8 +2,8 @@
 
 You can contact us using the the details below
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%"}
-knitr::include_graphics("images/beescape.png")
+```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the Princess Parkway by [tankpetrol.com](http://tankpetrol.com/)", out.width = "100%"}
+knitr::include_graphics("images/turingicon.jpg")
 ```
 
 ## Office
@@ -44,11 +44,11 @@ You can get in touch via t'internet at:
 
 Send post 🐌 to :
 
-Dr. Duncan Hull, Lecturer
-Department of Computer Science, Kilburn Building
-The University of Manchester
-Oxford Road
-Manchester, M13 9PL
+Dr. Duncan Hull, Lecturer  
+Department of Computer Science, Kilburn Building  
+The University of Manchester  
+Oxford Road  
+Manchester, M13 9PL  
 
 ## Kilburn building directions
 
