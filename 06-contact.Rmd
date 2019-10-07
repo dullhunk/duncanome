@@ -1,8 +1,8 @@
 # Contact
 
-You can contact us using the the details below
+You can contact us using the details below, which include directions and parking information.
 
-```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the Princess Parkway by [tankpetrol.com](http://tankpetrol.com/)", out.width = "100%"}
+```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) in Manchester by [tankpetrol.com](http://tankpetrol.com/)", out.width = "100%"}
 knitr::include_graphics("images/turingicon.jpg")
 ```
 

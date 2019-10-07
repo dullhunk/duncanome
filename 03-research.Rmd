@@ -7,7 +7,7 @@ knitr::include_graphics("images/wikipedian_protester.png")
 ```
 
 ## SIGCSE
-Computer Science has only been taught to undergraduates in the UK [for 50 short years](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml), so there's lots of open questions about how to teach both the practical and theoretical aspects of the subject. To that end:
+Computer Science has only been taught to undergraduates in the UK for 50 short years [@babygrowsup], so there's lots of open questions about how to teach both the practical and theoretical aspects of the subject. To that end:
 
 * I'm an active member of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)).
 * As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list by emailing listserv@listserv.manchester.ac.uk with the text **subscribe sigcse-journal-club yourfirstname yoursecondname** in the body of your message
@@ -17,27 +17,26 @@ Computer Science has only been taught to undergraduates in the UK [for 50 short 
 
 Since we started the [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
 
+Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don’t *need* to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the codebase (https://stendhalgame.org/) we happen to be using. Mentors are typically software engineers, both junior and senior.
+
 ## Vertical tutoring
-
-We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring] for details.
-
+We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring] for details. [@vtbernard; @druryvert]
 
 ## Code Club {#codeclub}
-I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [Micro:bits](https://microbit.org/), [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) and [CodeBug](http://www.codebug.org.uk/) etc.
+I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980, @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
 
 ## Wikipedia {#wikipedia}
-Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014] [@Turki2019] are powerful tools for improving digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018] [@goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors.[@goodbadugly] [@troubled]  More information at:
+Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018; @goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors.[@goodbadugly; @troubled]  More information at:
 
 * [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 
-## Informal publications
+## Publications
 Informal publications can be found on my sporadically updated blog
 
 * [duncan.hull.name/lablog](https://duncan.hull.name/lablog/)
 
-## Formal publications
 Formal peer-reviewed publications can be found on DBLP, ORCID and Google Scholar...
 
 * [dblp.org/pid/h/DuncanHull](https://dblp.org/pid/h/DuncanHull)

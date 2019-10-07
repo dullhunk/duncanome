@@ -1,24 +1,29 @@
 # Coding their future
 
-**Coding their future** is a collaboration & partnership secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. The aim is to improve and support Computer Science education at key stages 3, 4 and 5. [@afterthereboot] [@shutdownrestart] [@cambridgegcse]
+Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aim is to improve and support Computer Science education at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Undergraduate students in computer science regularly work with schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020]"}
 knitr::include_graphics("images/schools-banner.jpg")
 ```
-The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant. In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
+The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
 
 * [Fairfield High School for Girls](http://www.fairfieldhigh.tameside.sch.uk/), Droylsden
 * [University Technical College (UTC) $@$MediaCityUK](http://www.utcmediacityuk.org.uk/), Salford
 * [Manchester Communication Academy](https://www.manchestercommunicationacademy.com/), Harpurhey
 * [The Barlow RC High School](https://thebarlowrchigh.co.uk/), Didsbury
 * [Cheadle Hulme High School](https://www.chhs.org.uk/), Stockport
+* [Knutsford Academy](https://www.knutsfordacademy.org.uk/), Knutsford
 * [Altrincham Grammar School for Girls](http://www.aggs.trafford.sch.uk/), Trafford
 * [Altrincham Grammar School for Boys](https://www.agsb.co.uk/), Trafford
 * [Manchester Grammar School](https://www.mgs.org/), Fallowfield
 
-The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (retired 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, to find out more, see [guidance for teachers][guidance for teachers] and [guidance for students][guidance for students] below.
+The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson] To find out more, see [guidance for teachers][guidance for teachers] and [guidance for students][guidance for students] below.
 
 ## Guidance for teachers
+
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap="An abundance of free software and relatively cheap new hardware like the [Raspberry Pi](https://www.raspberrypi.org) [@raspberrypi], [Microbit](https://microbit.org), [@Sentance2017] and [Arduino](https://www.arduino.cc) [@arduino] has opened up lots of new possibilities for teaching Computer Science. Picture via Alex Bate. [@SnazzyRPi]"}
+knitr::include_graphics("images/raspberrypi.png")
+```
 
 Our aim is to support the teaching and learning of Computer Science in your school and to help engage schoolchildren in the subject. This page describes what we can provide you with and what we expect to get in return.
 
@@ -27,7 +32,7 @@ Our aim is to support the teaching and learning of Computer Science in your scho
 The University of Manchester will provide your school or college with at least one student ambassador with some relevant training who has completed two years of study in Computer Science and has:
 
 * A good knowledge of, and enthusiasm for Computer Science
-* Completed DBS clearance
+* Completed [Disclosure and Barring Service](https://www.gov.uk/government/organisations/disclosure-and-barring-service) (DBS) clearance
 * An interest in teaching and working with young people
 * Achieved a minimum of a 2:1 or 1st class degree in their second year
 
@@ -57,6 +62,10 @@ Formal supervision and mentoring is undertaken by the university (Duncan and Dav
 
 ## Guidance for students
 
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "A lecture theatre full of first year students"}
+knitr::include_graphics("images/studentspanorama.png")
+```
+
 So why would you, an undergraduate student, want to work on an education project in secondary school? The UK government would like Computer Science should be taught in all secondary schools in the UK. [@afterthereboot] However, in many UK schools there is a shortage of teachers who are trained in Computer Science, consequently, many teachers find themselves being asked to teach a subject they may know little about. [@shutdownrestart]
 
 Undergraduate students can make a significant difference here, by supporting teachers in the classroom to create and deliver new classroom resources in Computer Science. [@computinged] In addition, undergraduate students  will have the chance to:
@@ -71,7 +80,7 @@ make yourself more employable by doing all of the above
 
 ### Who is involved?
 
-Initially, the number of undergraduate students involved in these projects will be less than ten. We also require that you will have a minimum of a 2:1 or 1st in your second year exams. Projects are supervised by Dr. Duncan Hull with additional supervision from an experienced member of teaching staff at a participating school.
+Initially, the number of undergraduate students involved in these projects will be less than ten. We also require that you will have a minimum of a 2:1 or 1st in your second year exams. Projects are co-supervised by Duncan with additional supervision from an experienced member of teaching staff at a participating school.
 
 We have carefully selected schools in Manchester that are relatively easy for you to get to, are already teaching Computer Science and have supportive staff and teachers in place to help you. You will be expected to work directly with school children with the support of the teaching staff in your school. Schools we have worked with are all the Manchester area.
 
@@ -82,9 +91,7 @@ You will be expected to work closely with the teacher to develop resources that
 * engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually [key stage 3](https://en.wikipedia.org/wiki/Key_Stage_3), [key stage 4](https://en.wikipedia.org/wiki/Key_Stage_4) or [key stage 5](https://en.wikipedia.org/wiki/Key_Stage_5) ages 11-18.
 * complement the schools current provision for computer science in the school
 
-In order to achieve this, you will need to attend a series of education and outreach events, as part of the programme and sign up and complete the Science, Technology, Engineering & Mathematics (STEMnet) ambassador training (which includes DBS checks) supplied by the Museum of Science and Industry (MOSI) in Manchester.
-
-During the project you will be spending a significant amount of time in the classroom, visiting your school at least once every two weeks throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi’s, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics etc. In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool.
+During the project you will be spending a significant amount of time in the classroom, visiting your school every week during school term time throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi’s, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics, music, [@Aaron2016] and algorithms [@Kubica2012] etc. In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool. Remember that you don't actually need a computer, see [Computer Science Unplugged](https://csunplugged.org): Computer Science without a Computer. [@Bell2018]
 
 All deliverables for standard final year projects will be expected of these projects including:
 
@@ -92,8 +99,8 @@ All deliverables for standard final year projects will be expected of these proj
 * demonstration of the resource being used in the classroom
 * final written report
 
-Assessments for these projects will be as for standard projects, but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
+Assessments for these projects will be as for standard projects, [@COMP30030; @COMP30040] but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
 ### When do the projects start and finish?
 
-Projects start in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull][Contact].
+Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull][Contact].

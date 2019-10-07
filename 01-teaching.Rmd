@@ -36,8 +36,12 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Masters
 
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves some combination of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
-## Extra-curricular
+## Extracurricular
 
-* Organising, facilitating and promoting extra-curricular activities, usually off-timetable (for example Wednesday afternoons, evenings and weekends). I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@hafb] are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formerly known as HackSoc and CSSoc.
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://twitter.com/bbcbreakfast) with the winning team of the BBC / Barclays University technology challenge in MediaCityUK, Salford"}
+knitr::include_graphics("images/bbcbreakfastsofa.png")
+```
+
+* Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@Briscoe; @Warner2017; @goodbadugly; @troubled] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends. I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons [@hafb] are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc and CSSoc. Many other hackathons exist. 

@@ -1,6 +1,6 @@
 # Vertical tutoring
 
-We are currently piloting a vertical tutoring (VT) system for undergraduate students. VT is already widespread in secondary education, [@vtbernard] [@druryvert] but as far as we know has not been widely used in higher education.
+We are currently piloting a vertical tutoring (VT) system for undergraduate students. VT is already widespread in secondary education, [@vtbernard; @druryvert] but as far as we know has not been widely used in higher education.
 
 Extending the idea of Peer Assisted Study Sessions (PASS) [pass.manchester.ac.uk](http://www.pass.manchester.ac.uk), vertical tutoring creates tutorial groups with a representative from _one of each_ year of undergraduate study combined with alumni.
 
@@ -26,7 +26,9 @@ Vertical tutoring is an attractive idea but does it actually work? If so, how? W
 2. How it could work e.g. with [slack.com](https://slack.com) or [discord](https://discordapp.com/) etc?
 3. How many times can/should vertical tutor groups meet? Twice per semester? More frequently? Less frequently?
 4. What are suitable topics for discussion in a vertical tutorial? Careers, wellbeing, networking etc
-6. What kind of specialist groups could be useful e.g. all female groups, research focussed tutorial groups (with MSc & PhD students), ordinary “vanilla” groups etc
+5. What kind of specialist groups could be useful e.g. all female groups, research focussed tutorial groups (with MSc & PhD students), ordinary “vanilla” groups etc
+6. How much can we breakdown entrenched year groups that persist throughout education [@kills1]
+7. What might the benefits be? [@kills2]
 
 As this is an experiment, students have been selected on a voluntary basis. If you're a student or former student and would like to get involved, let me know.
 
