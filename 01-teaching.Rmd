@@ -15,13 +15,13 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## First year
 
-* Teaching on [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/)
+* Teaching on [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120]
 * Mentoring one group of six first year students
 * Organising first year guest lectures, which mostly run in the second semester, February to May
 
 ## Second year
 
-* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/)
+* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311]
 * Organising the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Leading second year tutorials COMP2CARS which focus on wellbeing and working out your next steps.
 
@@ -44,4 +44,5 @@ knitr::include_graphics("images/question-everything.jpg")
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
-* Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@Briscoe; @Warner2017; @goodbadugly; @troubled] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends. I'm proud to have served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons [@hafb] are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc and CSSoc. Many other hackathons exist. 
+* Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
+* Served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]

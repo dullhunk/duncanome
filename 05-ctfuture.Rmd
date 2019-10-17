@@ -2,20 +2,22 @@
 
 Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aim is to improve and support Computer Science education at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Undergraduate students in computer science regularly work with schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020]"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Undergraduate students in computer science regularly work with schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/)"}
 knitr::include_graphics("images/schools-banner.jpg")
 ```
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
 
 * [Fairfield High School for Girls](http://www.fairfieldhigh.tameside.sch.uk/), Droylsden
+* [Trinity CofE High School](https://www.trinityhigh.com), Central Manchester
 * [University Technical College (UTC) $@$MediaCityUK](http://www.utcmediacityuk.org.uk/), Salford
-* [Manchester Communication Academy](https://www.manchestercommunicationacademy.com/), Harpurhey
+* [Manchester Communication Academy](https://www.manchestercommunicationacademy.com/), Harpurhey  
 * [The Barlow RC High School](https://thebarlowrchigh.co.uk/), Didsbury
-* [Cheadle Hulme High School](https://www.chhs.org.uk/), Stockport
+* [Cheadle Hulme High School](https://www.chhs.org.uk/), (CHHS) Stockport (not to be confused with the private [Cheadle Hulme School](https://www.cheadlehulmeschool.co.uk/))
+* [Laurus Cheadle Hulme](https://www.lauruscheadlehulme.org.uk/), Stockport
 * [Knutsford Academy](https://www.knutsfordacademy.org.uk/), Knutsford
 * [Altrincham Grammar School for Girls](http://www.aggs.trafford.sch.uk/), Trafford
 * [Altrincham Grammar School for Boys](https://www.agsb.co.uk/), Trafford
-* [Manchester Grammar School](https://www.mgs.org/), Fallowfield
+* [Manchester Grammar School](https://www.mgs.org/) (MGS), Fallowfield
 
 The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see [guidance for teachers][guidance for teachers] and [guidance for students][guidance for students] below.
 
