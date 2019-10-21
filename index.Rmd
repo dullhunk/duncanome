@@ -24,7 +24,7 @@ url: 'https\://www.cs.man.ac.uk/~hulld'
 
 ---
 
-# Hello! {-}
+# Hello 👋 {-}
 ```{r echo = FALSE, fig.align = "center", out.width = "40%"}
 knitr::include_graphics("images/me-blue.jpg")
 ```
