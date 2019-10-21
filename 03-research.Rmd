@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE)^[There are at least two synonyms (labels) for this in Google scholar: [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) and [Computing Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computing_education), take your pick.] and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver high quality learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [live coding](https://en.wikipedia.org/wiki/Live_coding), [Wikipedia editing][wikipedia] and more.
+My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE)^[There are at least two synonyms (labels) for this in Google scholar: [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) and [Computing Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computing_education), take your pick.] and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that have potential to deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [live coding](https://en.wikipedia.org/wiki/Live_coding), [Wikipedia editing][wikipedia] and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -26,12 +26,12 @@ We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutorin
 I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [Scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980; @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
 
 ## Wikipedia {#wikipedia}
-Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018; @goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. [@Hodson2015; @goodbadugly; @troubled; @findingada2019]  Some examples include:
+Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018; @goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. [@Hodson2015; @goodbadugly; @troubled; @findingada2019]  Some recent examples include:
 
-1. 2019-10-19 [Learn to edit Wikipedia, University of Manchester](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), Sackville Street Building
-2. 2019-10-12 [The Pankhurst Centre and Ada. National College for Digital Skills](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639)
-3. 2017-
-4. 2015-
+1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester
+2. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester
+3. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London
+4. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1
 
 More information on past and future events like this can be found at:
 
@@ -52,7 +52,7 @@ We are called *Tuning Complete* because technically speaking we are [Turing Comp
 🤓 Mathematical geekery [@plusmaths]   
 🤓 Computer geekery [@Aaron2016]
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have a fluid, agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he promised he would in rehearsals'}
+```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have a fluid, agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he _promised_  he would in rehearsals'}
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
 

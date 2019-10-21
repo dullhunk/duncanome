@@ -40,9 +40,9 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Extracurricular
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://twitter.com/bbcbreakfast) with the winning team of the BBC / Barclays University technology challenge in MediaCityUK, Salford"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://twitter.com/bbcbreakfast) with the winning team of the BBC / Barclays University technology challenge in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
 * Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
-* Served as a judge of the fantastic [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
+* Served as a judge for [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]

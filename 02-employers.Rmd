@@ -1,5 +1,5 @@
 # Employers
-We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2019; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc]
+We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2019; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Any employer recruiting our students is welcome to join our industry club, see details below"}
 knitr::include_graphics("images/industry-club-wide.png")
@@ -57,4 +57,21 @@ knitr::include_graphics("images/high-fliers-table.png")
 ```
 
 ## Employability
-We're working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last 10 years the Department has tripled the number of our students going on year long placements in industry, but  there's still more we can do to improve the employability of our graduates. If you'd like to help our graduate become more employable, get in touch.
+We're working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last 10 years the Department has tripled the number of our students going on year long placements in industry.
+
+year placement started | No. of Computer Science undergraduate students on placement  
+----------- | -----------
+2011 | 42  
+2012 | 45  
+2013 | 70  
+2014 | 54  
+2015 | 70  
+2016 | 65  
+2017 | 100  
+2018 | 97  
+2019 | 110  
+
+In 2019 our students have secured year long placements at Accenture, Agilent Technologies, Amazon (2), AND Digital, Apadmi (5), Arggo, ARM (5), Autodesk, AVL Powertrain, BAML, BBC (2), Biorelate, BJSS, Bloomberg (2), BMW Mini, Bsquare Controls (2), BT, Cantarus (3), Celtra, CERN (3), Codethink, d3t, Elysian Systems, Feral Interactive (2), Fidelity, FiveAI, HMRC, IBM (2), Imagination Technologies, Intel (4), ISA Software (2), JP Morgan (4), Keysight Technologies, KPMG (1), Matillion (4), McAfee (2), Mentor Graphics (4), Monoprix, Morgan Stanley (2), NCC Group, Nokia, Nomura, Novacoast (2), Ocado (3), PA Consulting, PwC, Schlumberger, ServiceNow, Siemens (3), Soda Software, SteamaCo, The Hut Group (10)
+The Start Up Factory (2), Uber, Visa and Vodafone.
+
+There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, get in touch.
