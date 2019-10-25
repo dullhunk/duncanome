@@ -1,5 +1,5 @@
 # Employers
-We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2019; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester]
+We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2019; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester; @manchattan]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Any employer recruiting our students is welcome to join our industry club, see details below"}
 knitr::include_graphics("images/industry-club-wide.png")
@@ -18,7 +18,11 @@ Institute | UCAS entry tariff  | CS Students per year
 [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A A| ~200
 [University of Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A | ~50
 
-If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to staff in those departments or the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+A demographic breakdown of our students in Computer Science is show in Figure~\@ref(fig:pie-fig). If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to staff in those departments or the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+
+```{r pie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Where our undergraduate students come from: As of October 2019 we have 877 undergraduate Computer Science students divided between UK/EU (shown in green), EU not UK (shown in orange) and non-EU overseas (shown in yellow)"}
+knitr::include_graphics("images/ugstudentspiechart.png")
+```
 
 ## Careers fairs
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. We give priority to employers that offer internships, placements and graduate roles and have contributed to our community through the activities described on this page. The central careers service also organises:  
@@ -44,9 +48,13 @@ The mailing list is low-traffic, typically two to three updates per year and an 
 The [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) allows employers meet students during code review sessions.
 
 
-## The Wednesday Waggle 🐝
+## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about). This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us][Contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us][Contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
+
+## Thriving Community
+
+There is a thriving community of engineers and [entrepreneurs](https://www.manchesterentrepreneurs.co.uk/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back from the community if they donate their valuable time and expertise to the community.
 
 ## Buzzing!
 
@@ -57,7 +65,11 @@ knitr::include_graphics("images/high-fliers-table.png")
 ```
 
 ## Employability
-We're working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last 10 years the Department has tripled the number of our students going on year long placements in industry.
+We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry. This is a win-win-win situtation for:
+
+1. **Students**: because students benefit from a broader education, and develop social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment. This is known as the [winning personality](https://www.suttontrust.com/research-paper/a-winning-personality-confidence-aspirations-social-mobility/) [@winningpersonality]
+2. **Employers**: because placements are a cost-effective way for employers to recruit (and retain) graduate talent
+3. **Universities** because Universities produce better graduates, who earn more, get better jobs and are more likely to find a fulfilling career path [@winningpersonality]
 
 year placement started | No. of Computer Science undergraduate students on placement  
 ----------- | -----------
@@ -74,4 +86,4 @@ year placement started | No. of Computer Science undergraduate students on place
 In 2019 our students have secured year long placements at Accenture, Agilent Technologies, Amazon (2), AND Digital, Apadmi (5), Arggo, ARM (5), Autodesk, AVL Powertrain, BAML, BBC (2), Biorelate, BJSS, Bloomberg (2), BMW Mini, Bsquare Controls (2), BT, Cantarus (3), Celtra, CERN (3), Codethink, d3t, Elysian Systems, Feral Interactive (2), Fidelity, FiveAI, HMRC, IBM (2), Imagination Technologies, Intel (4), ISA Software (2), JP Morgan (4), Keysight Technologies, KPMG (1), Matillion (4), McAfee (2), Mentor Graphics (4), Monoprix, Morgan Stanley (2), NCC Group, Nokia, Nomura, Novacoast (2), Ocado (3), PA Consulting, PwC, Schlumberger, ServiceNow, Siemens (3), Soda Software, SteamaCo, The Hut Group (10)
 The Start Up Factory (2), Uber, Visa and Vodafone.
 
-There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, get in touch.
+There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch][Contact].

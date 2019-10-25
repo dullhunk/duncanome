@@ -1,10 +1,10 @@
 # Coding their future
 
-Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aim are to
+Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
 
 * improve and support Computer Science education at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
-* [widen participation in higher education](https://www.manchester.ac.uk/discover/social-responsibility/widening-participation/), especially in under-represented groups. [@wideningparticipation]
-* enable our students to improve and develop their leadership skills
+* [widen participation in higher education](https://www.manchester.ac.uk/discover/social-responsibility/widening-participation/), especially in under-represented groups. [@wideningparticipation; @classceiling; @nicebutdim; @breakintoelite]
+* enable our undergraduate students to develop their leadership and communication skills
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Undergraduate students in computer science regularly work with schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020; @m20202] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/)"}
 knitr::include_graphics("images/schools-banner.jpg")
@@ -23,7 +23,7 @@ The University provides schools with a final year student who can teach Computer
 * [Altrincham Grammar School for Boys](https://www.agsb.co.uk/), Trafford
 * [Manchester Grammar School](https://www.mgs.org/) (MGS), Fallowfield
 
-The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see [guidance for teachers][guidance for teachers] and [guidance for students][guidance for students] below.
+The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
 
 ## Guidance for teachers
 
@@ -95,7 +95,7 @@ We have carefully selected schools in Manchester that are relatively easy for yo
 You will be expected to work closely with the teacher to develop resources that
 
 * engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually [key stage 3](https://en.wikipedia.org/wiki/Key_Stage_3), [key stage 4](https://en.wikipedia.org/wiki/Key_Stage_4) or [key stage 5](https://en.wikipedia.org/wiki/Key_Stage_5) ages 11-18.
-* complement the schools current provision for computer science in the school
+* complement **and extend** the schools current provision for computer science in the school
 
 During the project you will be spending a significant amount of time in the classroom, visiting your school every week during school term time throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi’s, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics, music, [@Aaron2016] and algorithms [@Kubica2012] etc. In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool. Remember that you don't actually need a computer, see [Computer Science Unplugged](https://csunplugged.org): Computer Science without a Computer. [@Bell2018]
 

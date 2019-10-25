@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE)^[There are at least two synonyms (labels) for this in Google scholar: [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) and [Computing Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computing_education), take your pick.] and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that have potential to deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [live coding](https://en.wikipedia.org/wiki/Live_coding), [Wikipedia editing][wikipedia] and more.
+My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (CSE)^[There are at least two synonyms (labels) for this in Google scholar: [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) and [Computing Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computing_education), take your pick.] and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [coding their future], [Wikipedia editing][wikipedia] and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -26,12 +26,12 @@ We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutorin
 I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [Scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980; @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
 
 ## Wikipedia {#wikipedia}
-Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018; @goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. [@Hodson2015; @goodbadugly; @troubled; @findingada2019]  Some recent examples include:
+Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy. [@Proffitt2018; @goodfaith] As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. Some recent examples include:
 
-1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester
+1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
 2. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester
-3. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London
-4. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1
+3. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London [@goodbadugly]
+4. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1 [@troubled; @Hodson2015]
 
 More information on past and future events like this can be found at:
 
@@ -39,26 +39,26 @@ More information on past and future events like this can be found at:
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 ## Tuning complete
-Tuning complete is a [boy band](https://en.wikipedia.org/wiki/Boy_band) from Manchester, Lancashire whose lineup includes:
+Tuning complete are a [boy band](https://en.wikipedia.org/wiki/Boy_band) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/). Our current lineup includes:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
-* [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) (six string and bass)
-* [Justin Timberlake](https://en.wikipedia.org/wiki/Justin_Timberlake) (lead vocals, lead dancer)
-* myself (MC, [sonic-pi](https://sonic-pi.net/) and embarassing dad dancing) [@daddancing]
+* [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): six string guitar and bass
+* [Justin Timberlake](https://en.wikipedia.org/wiki/Justin_Timberlake): lead vocals, lead dancer
+* myself: MC, [synth / drum machine](https://sonic-pi.net/) and embarassing dad dancing [@daddancing]
 
-We are called *Tuning Complete* because technically speaking we are [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness). [@Turing1937; @turingcomplete] Artistically, this means that what we lack in youth, good looks, fame, fortune, fanbase and back catalogue we compensate for with:
+We are called *Tuning Complete* because technically speaking we are [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness). [@Turing1937; @turingcomplete] Artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
 
 🤓 Musical geekery [@musicnmaths]  
 🤓 Mathematical geekery [@plusmaths]   
 🤓 Computer geekery [@Aaron2016]
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have a fluid, agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he _promised_  he would in rehearsals'}
+```{r beatles-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have an agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he _promised_  he would in rehearsals'}
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
 
-We played our debut gig to a packed theatre of over 200 second year undergraduate computer science students in the [Department of Chemistry](https://en.wikipedia.org/wiki/Department_of_Chemistry,_University_of_Manchester) in September 2019 and are currently planning future live events while writing a [lucrative Christmas hit single](https://en.wikipedia.org/wiki/List_of_Christmas_hit_singles_in_the_United_Kingdom) working title: [#LivingTheDream](https://twitter.com/hashtag/LivingTheDream). If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs. Kilburn. She currently divides her time between the [Kilburn building](https://www.cs.manchester.ac.uk/about/maps-and-travel/) and the [Manchester Womens' Institute](https://www.manchesterwi.org.uk/).
+We played our debut gigs to packed theatres of over 200 second year & first year undergraduate computer science students in the autumn of 2019 and are currently planning future live events while writing a lucrative hit single, working title: [#LivingTheDream](https://twitter.com/hashtag/LivingTheDream). If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs. Kilburn shown in Figure~\@ref(fig:mrskilburn-fig).
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bookings must be approved and scheduled by her office. Please do not approach band members directly with gig requests or offers of marriage, we are all taken!'}
+```{r mrskilburn-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bookings must be approved and scheduled by her office. Please do not approach band members directly with gig requests or offers of marriage, we are all answered for!'}
 knitr::include_graphics("images/mrs-kilburn.png")
 ```
 
