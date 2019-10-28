@@ -8,8 +8,8 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## All years: debug your CV
 
-* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time.
-* If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv).
+* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time, Thursdays from, 9.30am to 11am or catch me in LF31 on every Friday between 9am and 11am.
+* If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
 * Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
 * Outside of term time, it's best to book an appointment
 
@@ -28,7 +28,7 @@ knitr::include_graphics("images/question-everything.jpg")
 ## Penultimate year
 
 * Leading the course for "with industrial experience" (IE), an elective and intercalated year in industry.
-* Visiting students on placement
+* Visiting students on placement, either face to face or via telecon
 
 ## Final year
 

@@ -52,9 +52,9 @@ The [Industrial mentoring scheme for software engineers](https://www.cs.manchest
 
 During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us][Contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
 
-## Thriving Community
+## Join the community
 
-There is a thriving community of engineers and [entrepreneurs](https://www.manchesterentrepreneurs.co.uk/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back from the community if they donate their valuable time and expertise to the community.
+There is a thriving community of engineers and [entrepreneurs](https://www.manchesterentrepreneurs.co.uk/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back.
 
 ## Buzzing!
 
