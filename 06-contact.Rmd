@@ -2,7 +2,7 @@
 
 You can contact us using the details below, which include directions and parking information.
 
-```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) in Manchester by [tankpetrol.com](http://tankpetrol.com/) [@manturing]", out.width = "100%"}
+```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). Turing is, as [Jonathan Swinton](https://www.manturing.net/jonathan) puts it, the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial) and Alan Turing Way [@turingway]", out.width = "100%"}
 knitr::include_graphics("images/turingicon.jpg")
 ```
 
@@ -72,4 +72,6 @@ If you are driving, the nearest car parks are:
 * **University Car Park B** [Manchester Aquatics Centre Car Park](https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/), NCP [M13  9SS](http://maps.google.co.uk/maps?q=M13+9SS)
 * **University Car Park D** Booth Street West Car Park, [M15 6AR](http://maps.google.co.uk/maps?q=M15+6AR), access via Higher Cambridge Street
 * See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
-.
+
+
+Last updated `r Sys.Date()`

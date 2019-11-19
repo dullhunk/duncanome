@@ -27,7 +27,7 @@ The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://w
 
 ## Guidance for teachers
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap="An abundance of free software and relatively cheap new hardware like the [Raspberry Pi](https://www.raspberrypi.org) [@raspberrypi], [Microbit](https://microbit.org), [@Sentance2017] and [Arduino](https://www.arduino.cc) [@arduino] has opened up lots of new possibilities for teaching Computer Science. Picture via Alex Bate. [@SnazzyRPi]"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap="An abundance of free software and relatively cheap new hardware like the [Raspberry Pi](https://www.raspberrypi.org) [@raspberrypi], [Microbit](https://microbit.org), [@Sentance2017] [Makey Makey](https://makeymakey.com) [@nevertooold; @makeymakey;] [Crumble Controller](https://redfernelectronics.co.uk/crumble/) and [Arduino](https://www.arduino.cc) [@arduino] has opened up lots of new possibilities for teaching Computer Science. Picture via Alex Bate. [@SnazzyRPi]"}
 knitr::include_graphics("images/raspberrypi.png")
 ```
 
@@ -97,7 +97,7 @@ You will be expected to work closely with the teacher to develop resources that
 * engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually [key stage 3](https://en.wikipedia.org/wiki/Key_Stage_3), [key stage 4](https://en.wikipedia.org/wiki/Key_Stage_4) or [key stage 5](https://en.wikipedia.org/wiki/Key_Stage_5) ages 11-18.
 * complement **and extend** the schools current provision for computer science in the school
 
-During the project you will be spending a significant amount of time in the classroom, visiting your school every week during school term time throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi’s, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics, music, [@Aaron2016] and algorithms [@Kubica2012] etc. In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool. Remember that you don't actually need a computer, see [Computer Science Unplugged](https://csunplugged.org): Computer Science without a Computer. [@Bell2018]
+During the project you will be spending a significant amount of time in the classroom, visiting your school every week during school term time throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi’s, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics, music, [@Aaron2016] algorithms [@Kubica2012] or even just the command line [@conquerthecommandline] etc.^[Conquer the command line is part of the The MagPi essentials series, there are lots of others like it you may find useful on using the camera module, gaming in python, simple electronics and more at https://store.rpipress.cc] In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool. Remember that you don't actually need a computer, see [Computer Science Unplugged](https://csunplugged.org): Computer Science without a Computer. [@Bell2018]
 
 All deliverables for standard final year projects will be expected of these projects including:
 

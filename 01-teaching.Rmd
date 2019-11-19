@@ -40,7 +40,7 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## Extracurricular
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://twitter.com/bbcbreakfast) with the winning team of the BBC / Barclays University technology challenge in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://en.wikipedia.org/wiki/BBC_Breakfast) with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
