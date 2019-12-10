@@ -18,9 +18,10 @@ Institute | UCAS entry tariff  | CS Students per year
 [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A A| ~200
 [University of Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A | ~50
 
-A demographic breakdown of our students in Computer Science is show in Figure~\@ref(fig:pie-fig). If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:
-* staff in those departments and/or
-* the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)
+A demographic breakdown of our students in Computer Science is show in Figure~\@ref(fig:pie-fig). If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:  
+
+* staff in those departments and/or  
+* the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)  
 
 ```{r pie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Where our undergraduate students come from: As of October 2019 we have 877 undergraduate Computer Science students divided between UK/EU (shown in green), EU not UK (shown in orange) and non-EU overseas (shown in yellow)"}
 knitr::include_graphics("images/ugstudentspiechart.png")
@@ -75,9 +76,9 @@ knitr::include_graphics("images/high-fliers-table.png")
 ## Employability
 We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry. This is a win-win-win situtation for:
 
-1. **Students**: benefit from a broader education, and develop social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment. This is known as the [winning personality](https://www.suttontrust.com/research-paper/a-winning-personality-confidence-aspirations-social-mobility/) [@winningpersonality]
+1. **Students**: benefit from a broader education, and develop social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment. This is known as the [winning personality](https://www.suttontrust.com/research-paper/a-winning-personality-confidence-aspirations-social-mobility/) [@winningpersonality].
 2. **Employers**: placements are a cost-effective way for employers to recruit (and retain) graduate talent
-3. **Universities**: produce better graduates[@Mandilaras2004] with broader and deeper skills, who earn more and get better jobs [@winningpersonality]
+3. **Universities**: produce better graduates [@Mandilaras2004] with broader and deeper skills, who earn more and get better jobs [@winningpersonality]. Well paid placements can also facilitate social mobility. [@Wang2018]
 
 year placement started | No. of Computer Science undergraduate students on placement  
 ----------- | -----------
