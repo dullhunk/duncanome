@@ -36,10 +36,11 @@ Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki20
 
 As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. Some recent examples include:
 
+1. 2019-11-22 [Training of Trainers (ToT) workshop, University of Glasgow](https://duncan.hull.name/2019/12/10/glasgow/)
 1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
-2. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester
-3. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London [@goodbadugly]
-4. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1 [@troubled; @Hodson2015]
+1. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester
+1. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London [@goodbadugly]
+1. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1 [@troubled; @Hodson2015]
 
 More information on past and future events like this can be found at:
 
