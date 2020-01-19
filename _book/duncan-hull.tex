@@ -1,36 +1,56 @@
-\documentclass[12pt,]{book}
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  12pt,
+]{book}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
 \fi
-% use upquote if available, for straight quotes in verbatim environments
+% Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-% use microtype if available
-\IfFileExists{microtype.sty}{%
-\usepackage{microtype}
-\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
-\usepackage{hyperref}
-\hypersetup{unicode=true,
-            pdftitle={Dr.~Duncan Hull, University of Manchester},
-            pdfborder={0 0 0},
-            breaklinks=true}
-\urlstyle{same}  % don't use monospace font for urls
-\usepackage{natbib}
-\bibliographystyle{apalike}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Dr.~Duncan Hull, University of Manchester},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
-\usepackage{graphicx,grffile}
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -39,54 +59,24 @@
 % margins by default, and it is still possible to overwrite the defaults
 % using explicit options in \includegraphics[width, height, ...]{}
 \setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
 \usepackage[normalem]{ulem}
-% avoid problems with \sout in headers with hyperref:
+% Avoid problems with \sout in headers with hyperref
 \pdfstringdefDisableCommands{\renewcommand{\sout}{}}
-\IfFileExists{parskip.sty}{%
-\usepackage{parskip}
-}{% else
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-% Redefines (sub)paragraphs to behave more like sections
-\ifx\paragraph\undefined\else
-\let\oldparagraph\paragraph
-\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
-\fi
-\ifx\subparagraph\undefined\else
-\let\oldsubparagraph\subparagraph
-\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
-\fi
-
-%%% Use protect on footnotes to avoid problems with footnotes in titles
-\let\rmarkdownfootnote\footnote%
-\def\footnote{\protect\rmarkdownfootnote}
-
-%%% Change title format to be more compact
-\usepackage{titling}
-
-% Create subtitle command for use in maketitle
-\providecommand{\subtitle}[1]{
-  \posttitle{
-    \begin{center}\large#1\end{center}
-    }
-}
-
-\setlength{\droptitle}{-2em}
-
-  \title{Dr.~Duncan Hull, University of Manchester}
-    \pretitle{\vspace{\droptitle}\centering\huge}
-  \posttitle{\par}
-    \author{}
-    \preauthor{}\postauthor{}
-    \date{}
-    \predate{}\postdate{}
-  
 \usepackage{booktabs}
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{Dr.~Duncan Hull, University of Manchester}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
@@ -123,21 +113,21 @@ Born in \href{https://en.wikipedia.org/wiki/Bath,_Somerset}{Bath, Somerset} and 
 \section*{Tools}\label{tools}}
 \addcontentsline{toc}{section}{Tools}
 
-This website\footnote{last updated 2020-01-06} is published using \href{https://bookdown.org}{bookdown} and built with \href{https://rmarkdown.rstudio.com/}{R markdown}, \href{https://en.wikipedia.org/wiki/R_(programming_language)}{the R language}, \href{https://www.gitbook.com}{gitbook}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://en.wikipedia.org/wiki/LaTeX}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://www.rstudio.com/}{RStudio}, \href{https://code.visualstudio.com/}{Visual Studio Code} and TLC. Thanks to \href{https://yihui.name/}{Yihui Xie} for the excellent tools and documentation. The \href{https://github.com/dullhunk/hulled}{source is available on github}, but you'll be better off reading the \emph{friendly} manual \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}} first. If you're viewing this on an iPhone or iPad, there is \href{https://github.com/rstudio/bookdown/issues/60}{known bug with the menu bar at the top of this page} which means the menu might not display properly. I could have (should have?) used \href{https://bookdown.org/yihui/blogdown/}{blogdown} and \href{https://gohugo.io}{Hugo}, but opted for bookdown because it is much \sout{less bloated} easier to use. 🔨
+This website\footnote{last updated 2020-01-17} is published using \href{https://bookdown.org}{bookdown} and built with \href{https://rmarkdown.rstudio.com/}{R markdown}, \href{https://en.wikipedia.org/wiki/R_(programming_language)}{the R language}, \href{https://www.gitbook.com}{gitbook}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://en.wikipedia.org/wiki/LaTeX}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://www.rstudio.com/}{RStudio}, \href{https://code.visualstudio.com/}{Visual Studio Code} and TLC. Thanks to \href{https://yihui.name/}{Yihui Xie} for the excellent tools and documentation. The \href{https://github.com/dullhunk/hulled}{source is available on github}, but you'll be better off reading the \emph{friendly} manual \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}} first. If you're viewing this on an iPhone or iPad, there is \href{https://github.com/rstudio/bookdown/issues/60}{known bug with the menu bar at the top of this page} which means the menu might not display properly. I could have (should have?) used \href{https://bookdown.org/yihui/blogdown/}{blogdown} and \href{https://gohugo.io}{Hugo}, but opted for bookdown because it is much \sout{less bloated} easier to use. 🔨
 
 \hypertarget{teaching}{%
 \chapter{Students}\label{teaching}}
 
 I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me in the labs, my office and the lecture theatre. 🎭
 
-\textbackslash{}begin\{figure\}
+\textbackslash begin\{figure\}
 
 \{\centering \includegraphics[width=0.75\linewidth]{images/question-everything}
 
 \}
 
-\textbackslash{}caption\{Question everything, or \emph{\href{https://en.wikipedia.org/wiki/Nullius_in_verba}{Nullius in verba}} as the say at the Royal Society\}\label{fig:unnamed-chunk-2}
-\textbackslash{}end\{figure\}
+\textbackslash caption\{Question everything, or \emph{\href{https://en.wikipedia.org/wiki/Nullius_in_verba}{Nullius in verba}} as the say at the Royal Society\}\label{fig:unnamed-chunk-2}
+\textbackslash end\{figure\}
 
 \hypertarget{all-years-debug-your-cv}{%
 \section{All years: debug your CV}\label{all-years-debug-your-cv}}
@@ -212,14 +202,14 @@ I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and 
 \hypertarget{extracurricular}{%
 \section{Extracurricular}\label{extracurricular}}
 
-\textbackslash{}begin\{figure\}
+\textbackslash begin\{figure\}
 
 \{\centering \includegraphics[width=1\linewidth]{images/bbcbreakfastsofa}
 
 \}
 
-\textbackslash{}caption\{Posing on the \href{https://en.wikipedia.org/wiki/BBC_Breakfast}{BBC Breakfast Sofa} with the winning team of the BBC / Barclays University Technology Challenge (UTC) in \href{https://en.wikipedia.org/wiki/MediaCityUK}{MediaCityUK}, Salford\}\label{fig:unnamed-chunk-3}
-\textbackslash{}end\{figure\}
+\textbackslash caption\{Posing on the \href{https://en.wikipedia.org/wiki/BBC_Breakfast}{BBC Breakfast Sofa} with the winning team of the BBC / Barclays University Technology Challenge (UTC) in \href{https://en.wikipedia.org/wiki/MediaCityUK}{MediaCityUK}, Salford\}\label{fig:unnamed-chunk-3}
+\textbackslash end\{figure\}
 
 \begin{itemize}
 \tightlist
@@ -253,15 +243,15 @@ If you are recruiting computer scientists and software engineers as a summer int
 Institute & UCAS entry tariff & CS Students per year\tabularnewline
 \midrule
 \endhead
-\href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A & \textasciitilde{}100\tabularnewline
-\href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A & \textasciitilde{}150\tabularnewline
-\href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A A & \textasciitilde{}250\tabularnewline
-\href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A A & \textasciitilde{}200\tabularnewline
-\href{http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A & \textasciitilde{}50\tabularnewline
+\href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A & \textasciitilde100\tabularnewline
+\href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A & \textasciitilde150\tabularnewline
+\href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A A & \textasciitilde250\tabularnewline
+\href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A A & \textasciitilde200\tabularnewline
+\href{http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A & \textasciitilde50\tabularnewline
 \bottomrule
 \end{longtable}
 
-A demographic breakdown of our students in Computer Science is show in Figure\textasciitilde{}\ref{fig:pie-fig}. If you are looking to recruit science and engineering students from other disciplines like \href{https://www.physics.manchester.ac.uk/}{Physics}, \href{https://www.maths.manchester.ac.uk/}{Maths}, \href{https://www.chemistry.manchester.ac.uk/}{Chemistry}, Mechnical, Aerospace \& Civil Engineering (\href{https://www.mace.manchester.ac.uk/}{MACE}), \href{https://www.materials.manchester.ac.uk/}{Materials Science} and Electrical \& Electronic Engineering (\href{https://www.eee.manchester.ac.uk/}{EEE}) you should talk to:
+A demographic breakdown of our students in Computer Science is show in Figure\textasciitilde\ref{fig:pie-fig}. If you are looking to recruit science and engineering students from other disciplines like \href{https://www.physics.manchester.ac.uk/}{Physics}, \href{https://www.maths.manchester.ac.uk/}{Maths}, \href{https://www.chemistry.manchester.ac.uk/}{Chemistry}, Mechnical, Aerospace \& Civil Engineering (\href{https://www.mace.manchester.ac.uk/}{MACE}), \href{https://www.materials.manchester.ac.uk/}{Materials Science} and Electrical \& Electronic Engineering (\href{https://www.eee.manchester.ac.uk/}{EEE}) you should talk to:
 
 \begin{itemize}
 \tightlist
@@ -317,7 +307,7 @@ The \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial
 \hypertarget{the-wednesday-waggle}{%
 \section{The Wednesday Waggle}\label{the-wednesday-waggle}}
 
-During term time, we highlight events and vacancies for Computer Science students from a \href{http://dullhunk.github.io/where-can-I-look-for-jobs.html}{wide range of sources} in a weekly newsletter called the \href{https://waggle.cs.manchester.ac.uk/waggle/about}{Wednesday Waggle} 🐝. This goes out to around \textasciitilde{}1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, \protect\hyperlink{contact}{get in touch with us} or \href{http://www.careers.manchester.ac.uk/aboutus/contact/}{contact the careers service}.
+During term time, we highlight events and vacancies for Computer Science students from a \href{http://dullhunk.github.io/where-can-I-look-for-jobs.html}{wide range of sources} in a weekly newsletter called the \href{https://waggle.cs.manchester.ac.uk/waggle/about}{Wednesday Waggle} 🐝. This goes out to around \textasciitilde1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, \protect\hyperlink{contact}{get in touch with us} or \href{http://www.careers.manchester.ac.uk/aboutus/contact/}{contact the careers service}.
 
 \hypertarget{join-the-community}{%
 \section{Join the community}\label{join-the-community}}
@@ -433,14 +423,14 @@ There's still more we can do to improve the employability of our graduates. If y
 
 My research interests are in \href{https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:computer_science_education}{Computer Science Education} (aka \href{https://scholar.google.com/citations?view_op=search_authors\&hl=en\&mauthors=label:computing_education}{Computing Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{JohnBiggs2011, Fry2014} I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like \protect\hyperlink{vertical-tutoring-1}{vertical tutoring}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuning-complete}{live music}, \protect\hyperlink{coding-their-future}{working with schools}, editing Wikipedia and more.
 
-\textbackslash{}begin\{figure\}
+\textbackslash begin\{figure\}
 
 \{\centering \includegraphics[width=0.7\linewidth]{images/wikipedian_protester}
 
 \}
 
-\textbackslash{}caption\{Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. \emph{Wikipedian Protester} cartoon by \href{https://en.wikipedia.org/wiki/Randall_Munroe}{Randall Munroe} at \href{https://xkcd.com/285/}{xkcd.com/285} Creative Commons Attribution-NonCommercial 2.5 License\}\label{fig:unnamed-chunk-7}
-\textbackslash{}end\{figure\}
+\textbackslash caption\{Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. \emph{Wikipedian Protester} cartoon by \href{https://en.wikipedia.org/wiki/Randall_Munroe}{Randall Munroe} at \href{https://xkcd.com/285/}{xkcd.com/285} Creative Commons Attribution-NonCommercial 2.5 License\}\label{fig:unnamed-chunk-7}
+\textbackslash end\{figure\}
 
 \hypertarget{sigcse}{%
 \section{SIGCSE}\label{sigcse}}
@@ -529,7 +519,7 @@ More information on past and future events like this can be found at:
 \hypertarget{tuning-complete}{%
 \section{Tuning complete}\label{tuning-complete}}
 
-Tuning complete are a \href{https://en.wikipedia.org/wiki/Boy_band}{boy band} from \href{https://duncan.hull.name/2019/07/05/mancashire/}{Manchester, Lancashire 🌹}. Our current lineup includes:
+Tuning complete are a \href{https://en.wikipedia.org/wiki/Boy_band}{boy band} from \href{https://duncan.hull.name/2019/07/05/mancashire/}{Manchester, Lancashire 🌹}, named after the famous Computer Scientist \href{https://en.wikipedia.org/wiki/Alan_Turing}{Alan Tuning}. We use his eponymous \href{https://en.wikipedia.org/wiki/Turing_machine}{Tuning machine} and \href{https://en.wikipedia.org/wiki/Turing_test}{Tuning test} in our live performances. As of 2020, our lineup includes the following artists:
 
 \begin{itemize}
 \tightlist
@@ -543,22 +533,22 @@ Tuning complete are a \href{https://en.wikipedia.org/wiki/Boy_band}{boy band} fr
   Duncan Hull: MC, \href{https://sonic-pi.net/}{synth / drum machine} and embarassing dad dancing \citep{daddancing}
 \end{itemize}
 
-We are called \emph{Tuning Complete} because technically speaking we are \href{https://en.wikipedia.org/wiki/Turing_completeness}{Turing Complete}. \citep{Turing1937, turingcomplete} Artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
+We are called \emph{Tuning Complete} because theoretically we are \href{https://en.wikipedia.org/wiki/Turing_completeness}{Turing Complete}. \citep{Turing1937, turingcomplete} Practically and artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
 
 🤓 Musical geekery \citep{musicnmaths}\\
 🤓 Mathematical geekery \citep{plusmaths}\\
 🤓 Computer geekery \citep{Aaron2016}
 
-\textbackslash{}begin\{figure\}
+\textbackslash begin\{figure\}
 
 \{\centering \includegraphics[width=0.7\linewidth]{images/tuning-complete}
 
 \}
 
-\textbackslash{}caption\{Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have an agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he \emph{promised} he would in rehearsals\}\label{fig:beatles-fig}
-\textbackslash{}end\{figure\}
+\textbackslash caption\{Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberlake and me. We have an agile and constantly evolving membership model which means we are still waiting for Justin to turn up like he \emph{promised} he would in rehearsals\}\label{fig:beatles-fig}
+\textbackslash end\{figure\}
 
-We played our debut gigs to packed theatres of over 200 second year \& first year undergraduate computer science students in the autumn of 2019 and are currently planning future live events while writing a lucrative hit single, working title: \href{https://twitter.com/hashtag/LivingTheDream}{\#LivingTheDream}. If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs.~Kilburn shown in Figure\textasciitilde{}\ref{fig:mrskilburn-fig}.
+We played our debut gigs to packed theatres of over 200 second year \& first year undergraduate computer science students in the autumn of 2019 and are currently planning future live events while writing a (hopefully) lucrative hit single, working title: \href{https://twitter.com/hashtag/LivingTheDream}{\#LivingTheDream}. If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs.~Kilburn shown in Figure\textasciitilde\ref{fig:mrskilburn-fig}.
 
 \begin{figure}
 
@@ -630,7 +620,7 @@ Extending the idea of Peer Assisted Study Sessions (PASS) \href{http://www.pass.
 \hypertarget{full-stack-mentoring}{%
 \section{Full stack mentoring}\label{full-stack-mentoring}}
 
-A vertical tutor group will typically contain five members as shown in Figure\textasciitilde{}\ref{fig:vertical-fig}. The group meets physically where possible, or virtually via a slack channel which consists of:
+A vertical tutor group will typically contain five members as shown in Figure\textasciitilde\ref{fig:vertical-fig}. The group meets physically where possible, or virtually via a slack channel which consists of:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -894,14 +884,14 @@ Projects start annually in September and are handed at Easter time, see final ye
 
 You can contact us using the details below, which include directions and parking information.
 
-\textbackslash{}begin\{figure\}
+\textbackslash begin\{figure\}
 
 \{\centering \includegraphics[width=1\linewidth]{images/turingicon}
 
 \}
 
-\textbackslash{}caption\{Paying homage to \href{https://en.wikipedia.org/wiki/Alan_Turing}{Alan Turing} at a mural on the \href{https://en.wikipedia.org/wiki/A5103_road}{Princess Parkway} by \href{http://tankpetrol.com/}{tankpetrol.com}. Turing is, as \href{https://www.manturing.net/jonathan}{Jonathan Swinton} puts it, the ``patron saint of Manchester'' \citep{manturing}. As a \href{https://en.wikipedia.org/wiki/Symbols_of_Manchester}{Manchester icon}, he is commemorated locally by the \href{https://en.wikipedia.org/wiki/Alan_Turing_Building}{Alan Turing building}, the \href{https://en.wikipedia.org/wiki/Alan_Turing_Memorial}{Alan Turing Memorial} and Alan Turing Way \citep{turingway}\}\label{fig:unnamed-chunk-11}
-\textbackslash{}end\{figure\}
+\textbackslash caption\{Paying homage to \href{https://en.wikipedia.org/wiki/Alan_Turing}{Alan Turing} at a mural on the \href{https://en.wikipedia.org/wiki/A5103_road}{Princess Parkway} by \href{http://tankpetrol.com/}{tankpetrol.com}. Turing is, as \href{https://www.manturing.net/jonathan}{Jonathan Swinton} puts it, the ``patron saint of Manchester'' \citep{manturing}. As a \href{https://en.wikipedia.org/wiki/Symbols_of_Manchester}{Manchester icon}, he is commemorated locally by the \href{https://en.wikipedia.org/wiki/Alan_Turing_Building}{Alan Turing building}, the \href{https://en.wikipedia.org/wiki/Alan_Turing_Memorial}{Alan Turing Memorial} and Alan Turing Way \citep{turingway}\}\label{fig:unnamed-chunk-11}
+\textbackslash end\{figure\}
 
 \hypertarget{office}{%
 \section{Office}\label{office}}
@@ -1022,9 +1012,8 @@ If you are driving, the nearest car parks are:
   See \href{https://www.estates.manchester.ac.uk/services/operationalservices/carparking/}{estates.manchester.ac.uk/services/operationalservices/carparking}
 \end{itemize}
 
-Last updated 2020-01-06
+Last updated 2020-01-17
 
-\bibliography{hulld.bib}
-
+  \bibliography{hulld.bib}
 
 \end{document}

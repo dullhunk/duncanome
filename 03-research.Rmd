@@ -47,15 +47,16 @@ More information on past and future events like this can be found at:
 * [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
+
 ## Tuning complete
-Tuning complete are a [boy band](https://en.wikipedia.org/wiki/Boy_band) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/). Our current lineup includes:
+Tuning complete are a [boy band](https://en.wikipedia.org/wiki/Boy_band) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) and [Tuning test](https://en.wikipedia.org/wiki/Turing_test) in our live performances. As of 2020, our lineup includes the following artists:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
 * [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): six string guitar and bass
 * [Justin Timberlake](https://en.wikipedia.org/wiki/Justin_Timberlake): lead vocals, lead dancer
 * Duncan Hull: MC, [synth / drum machine](https://sonic-pi.net/) and embarassing dad dancing [@daddancing]
 
-We are called *Tuning Complete* because technically speaking we are [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness). [@Turing1937; @turingcomplete] Artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
+We are called *Tuning Complete* because theoretically we are [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness). [@Turing1937; @turingcomplete] Practically and artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
 
 🤓 Musical geekery [@musicnmaths]  
 🤓 Mathematical geekery [@plusmaths]   
@@ -65,7 +66,7 @@ We are called *Tuning Complete* because technically speaking we are [Turing Comp
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
 
-We played our debut gigs to packed theatres of over 200 second year & first year undergraduate computer science students in the autumn of 2019 and are currently planning future live events while writing a lucrative hit single, working title: [#LivingTheDream](https://twitter.com/hashtag/LivingTheDream). If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs. Kilburn shown in Figure~\@ref(fig:mrskilburn-fig).
+We played our debut gigs to packed theatres of over 200 second year & first year undergraduate computer science students in the autumn of 2019 and are currently planning future live events while writing a (hopefully) lucrative hit single, working title: [#LivingTheDream](https://twitter.com/hashtag/LivingTheDream). If you would like to book our services for your next event, hackathon, wedding, bar mitzvah etc, please contact our agent Mrs. Kilburn shown in Figure~\@ref(fig:mrskilburn-fig).
 
 ```{r mrskilburn-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bookings must be approved and scheduled by her office. Please do not approach band members directly with gig requests or offers of marriage, we are all answered for!'}
 knitr::include_graphics("images/mrs-kilburn.png")
