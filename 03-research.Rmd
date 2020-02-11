@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science_education) (aka [Computing Education](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computing_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [working with schools][coding their future], [editing Wikipedia][wikipedia and Literacy] and more.
+My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [working with schools][coding their future], [editing Wikipedia][wikipedia and Literacy] and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -25,7 +25,7 @@ We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutorin
 I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [Scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980; @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
 
 ## Wikipedia and literacy {#wikipedia}
-Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy, [@Proffitt2018; @goodfaith] particularly in the following areas:
+Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy, [@Proffitt2018; @goodfaith; @Littlejohn2019] particularly in the following areas:
 
 * [Literacy](https://en.wikipedia.org/wiki/Literacy) generally, the ability to read and write in any natural language. The literacy skills of some engineers and scientists leaves plenty of room for improvement, but literacy has many overlapping dimensions including:
   + [Data literacy](https://en.wikipedia.org/wiki/Data_literacy) the ability to read and write (data)
@@ -34,7 +34,7 @@ Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki20
   + [Information literacy](https://en.wikipedia.org/wiki/Information_literacy) the ability to read and write (information)
   + [Scientific literacy](https://en.wikipedia.org/wiki/Scientific_literacy) the ability to read and write (science). How many people do you know who _unashamedly_ proclaim their scientific or mathematical illiteracy? [@nevergoodatmaths; @gowersproblem; @mathillit]
 
-As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit and train new Wikipedia editors. Some recent examples include:
+As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [Wikipedia training events](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit new Wikipedia editors. Some recent examples include:
 
 1. 2019-11-22 [Training of Trainers (ToT) workshop, University of Glasgow](https://duncan.hull.name/2019/12/10/glasgow/)
 1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
@@ -48,12 +48,12 @@ More information on past and future events like this can be found at:
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 ## Tuning complete
-Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test). As of 2020, our lineup includes the following artists:
+Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) and (mostly) [boy band](https://en.wikipedia.org/wiki/Boy_band) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test). As of 2020, our lineup includes the following artists:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
 * [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): six string guitar and bass
 * [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake): lead vocals, lead dancer
-* Duncan Hull: MC, [synth](https://en.wikipedia.org/wiki/MicroKORG), [drum machine](https://sonic-pi.net/) and embarrassing dad dancing [@daddancing]
+* Duncan Hull: MC, synth ([MicroKORG](https://en.wikipedia.org/wiki/MicroKORG)), drum machine ([Sonic Pi](https://sonic-pi.net/)) and embarrassing dad dancing [@daddancing]
 
 Theoretically, we are a [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness) band. [@Turing1937; @turingcomplete] Artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
 

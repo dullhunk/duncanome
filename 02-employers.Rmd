@@ -67,7 +67,7 @@ If you're a startup new to employment, you may find the guide at [gov.uk/employ-
 
 ## Buzzing!
 
-At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2019] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
+At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2020] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2020]'}
 knitr::include_graphics("images/high-fliers-table.png")

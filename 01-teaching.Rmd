@@ -8,7 +8,9 @@ knitr::include_graphics("images/question-everything.jpg")
 
 ## All years: debug your CV
 
-* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time, Mondays from 10am to midday in LF25 / Tootill 1.
+Open office hours:
+
+* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time during my open office hours: Mondays from 10am to midday in LF25 / Tootill 1.
 * If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
 * Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
 * Outside of term time, it's best to book an appointment

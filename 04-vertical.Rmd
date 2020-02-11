@@ -9,7 +9,7 @@ knitr::include_graphics("images/vertical-tutor-groups.png")
 ```
 
 ## Full stack mentoring
-A vertical tutor group will typically contain five members as shown in Figure~\@ref(fig:vertical-fig). The group meets physically where possible, or virtually via a slack channel which consists of:
+A vertical tutor group will typically contain five members as shown in Figure \@ref(fig:vertical-fig). The group meets physically where possible, or virtually via a slack channel which consists of:
 
 1. One first year student
 2. One second year student
