@@ -82,6 +82,9 @@ We are working hard to improve the employability of students because while havin
 
 year placement started | No. of Computer Science undergraduate students on placement  
 ----------- | -----------
+2008 | 35
+2009 | 31
+2010 | 45
 2011 | 42  
 2012 | 45  
 2013 | 70  
