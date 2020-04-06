@@ -30,12 +30,27 @@ Our offices are in the Kilburn building, close to the Byte cafe, past the [Stude
 * 📥 email compsci-sso@manchester.ac.uk
 * ☎️ telephone:	+44 161 306 8155
 
-## Elsewhere
+## Video conferencing
 
-You can get in touch via t'internet at:
+You can contact me on Zoom using [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull). For any other paid subscription video conferencing software, you will need to host the meeting. Please provide any log in, dial in or meeting ID details for:
 
-* Slack: search for "Duncan Hull" or my work email
-* Skype: search for "duncanhull"
+* Skype for business
+* Bluejeans
+* Microsoft Teams
+* Webex
+* Google Hangouts meet
+
+I can also be contacted using free versions of:
+
+* Slack
+* Skype (username "duncanhull")
+* Jitsi
+* Google Hangouts
+
+## Social media
+
+You can get in touch via unsocial media at:
+
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
 * Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)
