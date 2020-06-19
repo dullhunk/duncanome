@@ -9,9 +9,8 @@ knitr::include_graphics("images/wikipedian_protester.png")
 ## SIGCSE
 Computer Science has only been taught to undergraduates in the UK for 50 short years [@babygrowsup], so there's lots of open questions about how to teach both the practical and theoretical aspects of the subject. To that end:
 
-* I'm an [active member](https://dl.acm.org/author_page.cfm?id=81350580198) of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)).
-* As part of that I founded and chair a [journal club](https://duncan.hull.name/2019/07/17/sigcse-journal-club/) for educators in Manchester, if you'd like to join us, subscribe to the mailing list by emailing listserv@listserv.manchester.ac.uk with the text **subscribe sigcse-journal-club yourfirstname yoursecondname** in the body of your message
-* I'm serving on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) conference at Durham University in 2020.
+* I'm an [active member](https://dl.acm.org/author_page.cfm?id=81350580198) of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([SIGCSE.org](https://sigcse.org)) and founded and chair the [ACM SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/). All are welcome to join our monthly discussions, see [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/)
+* I serve on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) conference at Durham University and on the [United Kingdom and Ireland Computing Education Research (UIKICER)](https://www.ukicer.com/) conference.
 
 ## Industrial mentoring
 Since we started the [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
@@ -36,6 +35,8 @@ Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki20
 
 As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [Wikipedia training events](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit new Wikipedia editors. Some recent examples include:
 
+1. 2020-06-24 [Wikipedia: Women, War and Peace](https://www.eventbrite.co.uk/e/web-presentation-on-wikipedia-women-war-and-peace-registration-105059533894) run in collaboration with the [Imperial War Museums' War and Conflict Subject Specialist Network](https://www.iwm.org.uk/partnerships/subject-specialist-network), with support from the Arts Council England and Art Fund.
+1. 2020-02-26 [Wikimedia in Education UK Summit, Coventry University](https://wikiedusummit.coventry.domains) #wikiedu20
 1. 2019-11-22 [Training of Trainers (ToT) workshop, University of Glasgow](https://duncan.hull.name/2019/12/10/glasgow/)
 1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
 1. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester

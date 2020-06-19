@@ -1,9 +1,9 @@
 # Students {#teaching}
 
-I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me in the labs, my office and the lecture theatre. 🎭
+I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office and the lecture theatre. 🎭
 
-```{r echo = FALSE, fig.align = "center", out.width = "75%", fig.cap='Question everything, or _[Nullius in verba](https://en.wikipedia.org/wiki/Nullius_in_verba)_ as the say at the Royal Society'}
-knitr::include_graphics("images/question-everything.jpg")
+```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://en.wikipedia.org/wiki/BBC_Breakfast) with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford"}
+knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
 ## All years: debug your CV
@@ -41,10 +41,6 @@ Open office hours:
 * Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
 ## Extracurricular
-
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Posing on the [BBC Breakfast Sofa](https://en.wikipedia.org/wiki/BBC_Breakfast) with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford"}
-knitr::include_graphics("images/bbcbreakfastsofa.png")
-```
 
 * Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
 * Serving as a judge for [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
