@@ -23,7 +23,7 @@ Open office hours:
 
 ## Second year
 
-* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311]
+* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311; @git]
 * Organising the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Leading second year tutorials COMP2CARS which focus on wellbeing and working out your next steps.
 

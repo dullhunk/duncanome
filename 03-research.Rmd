@@ -1,8 +1,8 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music][tuning complete], [working with schools][coding their future], [editing Wikipedia][wikipedia and Literacy] and more.
+My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can deliver outstanding learning and student experience using innovative techniques like [vertical tutoring], [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](#coding-their-future), [editing Wikipedia](#wikipedia) and more.
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  Creative Commons Attribution-NonCommercial 2.5 License'}
+```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  published under a [Creative Commons Attribution-NonCommercial 2.5 License](https://creativecommons.org/licenses/by-nc/2.5/)'}
 knitr::include_graphics("images/wikipedian_protester.png")
 ```
 
@@ -17,13 +17,15 @@ Since we started the [Industrial mentoring scheme for software engineers](https:
 
 Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don’t *need* to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the codebase (https://stendhalgame.org/) we happen to be using. Mentors are typically software engineers, both junior and senior.
 
-## Vertical tutoring
+## Vertical tutoring {#vt}
 We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring] for details. [@vtbernard; @druryvert]
 
-## Code Club {#codeclub}
-I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] The aim is to have fun using [Scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980; @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
+## Coderdojo & Code Club  {#codeclub}
+I'm a volunteer at [coderdojo.com](https://coderdojo.com/) [@coderdojo]. Coder [dojos](https://en.wikipedia.org/wiki/Dojo) are local community engineering clubs for young people; with several other volunteers I help out at [CoderDojo North West](https://twitter.com/coderdojonw). We meet once a month to help young people broaden their digital and computational horizons.
 
-## Wikipedia and literacy {#wikipedia}
+Previously I lead an after school [CodeClub](https://codeclub.org) as part of a global network of free coding clubs for 9--13 year olds. [@codeclub] As with coderdojo, the aim is to have fun using [Scratch](https://scratch.mit.edu/), [@Resnick2009] python and other interesting technology we can get our hands on including [Raspberry Pi](https://www.raspberrypi.org/), [@raspberrypi] [Micro:bits](https://microbit.org/), [@Sentance2017] [LEGO® MINDSTORMS®](https://www.lego.com/en-gb/themes/mindstorms), [@Papert1980; @Klassner2003] [Oculus Rift](https://www.oculus.com), [Sonic Pi](https://sonic-pi.net/) [@Aaron2016] and [CodeBug](http://www.codebug.org.uk/) etc.
+
+## Wikipedia {#wikipedia}
 Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki2019] are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy, [@Proffitt2018; @goodfaith; @Littlejohn2019] particularly in the following areas:
 
 * [Literacy](https://en.wikipedia.org/wiki/Literacy) generally, the ability to read and write in any natural language. The literacy skills of some engineers and scientists leaves plenty of room for improvement, but literacy has many overlapping dimensions including:
@@ -48,7 +50,7 @@ More information on past and future events like this can be found at:
 * [wiki-loves-scientists.org.uk](https://wiki-loves-scientists.org.uk/)
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
-## Tuning complete
+## Tuning complete {#tuningcomplete}
 Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) and (mostly) [boy band](https://en.wikipedia.org/wiki/Boy_band) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test). As of 2020, our lineup includes the following artists:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
@@ -91,3 +93,5 @@ According to Google scholar, my most cited papers are on:
 2. Another Taverna paper, published in _Concurrency and Computation_ [@Oinn2006]  
 3. A paper on modelling human metabolism, published in [_Nature Biotechnology_](https://en.wikipedia.org/wiki/Nature_Biotechnology)  [@Thiele2013]
 4. A review of tools for managing large bibliographies, published in [_PLOS Computational Biology_](https://en.wikipedia.org/wiki/PLOS_Computational_Biology) [@defrosting]  
+
+The first paper for which I was formally acknowledged was on simulated environmental change in the sub-arctic published in [_New Phytologist_](https://en.wikipedia.org/wiki/New_Phytologist) [@subarctic]. I was a humble field assistant, not a co-author, one of the *absolut* best summer jobs I've ever had!
