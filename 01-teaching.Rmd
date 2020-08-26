@@ -6,37 +6,47 @@ I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and 
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
-## All years: debug your CV
+## Any year: Debug your CV {#allyears}
 
-Open office hours:
+Open office hours, email me a copy of your CV:
 
 * You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time during my open office hours: Mondays from 10am to midday in LF25 / Tootill 1.
 * If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
 * Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
 * Outside of term time, it's best to book an appointment
 
-## First year
+## First year students {#year1}
+
+If you're in your first year of study see:
 
 * Teaching on [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120]
 * Mentoring one group of six first year students
 * Organising first year guest lectures, which mostly run in the second semester, February to May
 
-## Second year
+## Second year students {#year2}
+
+If you're in your second year of study see:
 
 * Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311; @git]
 * Organising the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Leading second year tutorials COMP2CARS which focus on wellbeing and working out your next steps.
 
-## Penultimate year
+## Penultimate year students {#penultimate}
+
+If you're on placement during your penultimate year:
 
 * Leading the course for "with industrial experience" (IE), an elective and intercalated year in industry.
 * Visiting students on placement, either face to face or via telecon
 
-## Final year
+## Final year students {#finalyear}
+
+If you're in your final year of study:
 
 * Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future]. [@computinged]
 
-## Masters
+## Masters {#masters}
+
+If you're doing a Masters degree see:
 
 * Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 

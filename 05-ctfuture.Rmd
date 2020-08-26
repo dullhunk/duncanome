@@ -1,4 +1,4 @@
-# Coding their future
+# Coding their future {#coding-their-future}
 
 Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
 
@@ -111,11 +111,22 @@ Assessments for these projects will be as for standard projects, [@COMP30030; @C
 
 There are plenty of online courses you can do to improve you effectiveness in the classroom.
 
-* Impact of Technology: How To Lead Classroom Discussions. Learn how to keep 14-16 year-old students engaged in discussions while teaching computer science. Supported by Google https://www.futurelearn.com/courses/impact-of-technology
-* Teaching Physical Computing with Raspberry Pi and Python https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python
-* Many more Teaching Computing Courses at https://www.futurelearn.com/subjects/teaching-courses/teaching-computing
+* Impact of Technology: How To Lead Classroom Discussions. Learn how to keep 14-16 year-old students engaged in discussions while teaching computer science. Supported by Google [futurelearn.com/courses/impact-of-technology](https://www.futurelearn.com/courses/impact-of-technology)
+* Teaching Physical Computing with Raspberry Pi and Python [futurelearn.com/courses/physical-computing-raspberry-pi-python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
+* Since some of your teaching is likely to be asynchronous, you would also benefit from having a look at [taking your teaching online](https://www.open.edu/openlearn/education-development/education/take-your-teaching-online/content-section-overview) from OpenLearn
+* Many more Teaching Computing Courses at [futurelearn.com/subjects/teaching-courses/teaching-computing](https://www.futurelearn.com/subjects/teaching-courses/teaching-computing)
 
 
-### When do the projects start and finish?
+### Blended learning {#blended}
+COVID 19 is revolutionising teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
-Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull][Contact].
+```{r videofriendly-fig,echo=FALSE, fig.cap = "Making video-friendly slides"}
+library("vembedr")
+embed_url("https://www.youtube.com/watch?v=Y50mTVIzAYk")
+```
+
+When you teach, think about how you can support students before and after your time in the classroom.
+
+### When do the projects start and finish? {#finishing}
+
+Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull](#Contact).
