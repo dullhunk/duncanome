@@ -6,51 +6,56 @@ I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and 
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 
-## Any year: Debug your CV {#allyears}
+## All years: Debug your CV {#allyears}
 
-Open office hours, email me a copy of your CV:
+If you'd like to debug your CV, email me a copy of your CV, so that you can:
 
-* You can drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time during my open office hours: Mondays from 10am to midday in LF25 / Tootill 1.
-* If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
+* Drop-in to my weekly one-to-one CV clinics for Computer Science students in LF25 during term-time during my open office hours: Mondays from 10am to midday in LF25 / Tootill 1.
 * Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
-* Outside of term time, it's best to book an appointment
+* If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
+
+Outside of term time, it's best to book an appointment
 
 ## First year students {#year1}
 
-If you're in your first year of study see:
+If you're in your first year of study, I serve as:
 
-* Teaching on [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120]
-* Mentoring one group of six first year students
-* Organising first year guest lectures, which mostly run in the second semester, February to May
+* Academic staff member for [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120]
+* Mentor and tutor to one group of six first year students
+* Organiser of first year guest lectures, which mostly run in the second semester, February to May
 
 ## Second year students {#year2}
 
-If you're in your second year of study see:
+If you're in your second year, I serve as:
 
-* Teaching on [Second year software engineering:  COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) led by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311; @git]
-* Organising the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
-* Leading second year tutorials COMP2CARS which focus on wellbeing and working out your next steps.
+* Course leader for [Second year software engineering: COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/), a course designed by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311; @git]
+* Organiser of the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
+* Course leader for *Coding your Future*, (COMP2CARS) a course designed by me for (primarily) second year students to design, build, test and debug their futures.
+
+Previously I served as [second year tutor](https://studentnet.cs.manchester.ac.uk/ugt/year2/) from 2016 through to 2020.
 
 ## Penultimate year students {#penultimate}
 
-If you're on placement during your penultimate year:
+If you're on placement during your penultimate year, I serve as:
 
-* Leading the course for "with industrial experience" (IE), an elective and intercalated year in industry.
-* Visiting students on placement, either face to face or via telecon
+* Course leader for "with industrial experience" (IE), an elective and intercalated year in industry.
+* Year tutor for students on placement, either face to face or via telecon
 
 ## Final year students {#finalyear}
 
-If you're in your final year of study:
+If you're in your final year of study, you'll find me:
 
-* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future]. [@computinged]
+* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](#coding-their-future). [@computinged]
 
 ## Masters {#masters}
 
-If you're doing a Masters degree see:
+If you're doing a Masters degree, you'll find me:
 
 * Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This usually involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
 ## Extracurricular
 
+Outside all of the above, I also get involved in:
+
 * Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
-* Serving as a judge for [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
+* Judging competitions such as [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
