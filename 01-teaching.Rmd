@@ -14,7 +14,7 @@ If you'd like to debug your CV, email me a copy of your CV, so that you can:
 * Get feedback on your CV from as many people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_Law)" [@Raymond1999]
 * If you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before, you might find the _Debug your CV_ guide useful at [git.io/mycv](http://git.io/mycv). [@debugyourcv]
 
-Outside of term time, it's best to book an appointment
+Outside of term time, it's best to book a debugging appointment. 🐛
 
 ## First year students {#year1}
 
@@ -45,7 +45,7 @@ If you're on placement during your penultimate year, I serve as:
 
 If you're in your final year of study, you'll find me:
 
-* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](#coding-their-future). [@computinged]
+* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](#coding-their-future). [@computinged] 👩‍💻👨‍💻
 
 ## Masters students {#masters}
 
