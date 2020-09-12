@@ -47,12 +47,16 @@ If you're in your final year of study, you'll find me:
 
 * Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](#coding-their-future). [@computinged]
 
-## Masters {#masters}
+## Masters students {#masters}
 
 If you're doing a Masters degree, you'll find me:
 
-* Leading the course on [Principles of Digital Biology](http://studentnet.cs.manchester.ac.uk/pgt/COMP60532/syllabus/) aka [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics) / [Computational Biolgy](https://en.wikipedia.org/wiki/Computational_biology)
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This typically involves various combinations of Wikipedia, Data Science, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
+* Leading the course on [Principles of Digital Biology](http://studentnet.cs.manchester.ac.uk/pgt/COMP60532/syllabus/) which covers [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics), [Computational Biolgy](https://en.wikipedia.org/wiki/Computational_biology) and a bit of [medical informatics](https://en.wikipedia.org/wiki/Health_informatics) 🧬
+* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This typically involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
+
+## PhD students {#phds}
+
+If you've got any interesting PhD research ideas you like to pitch to me, I'm all ears! 👂
 
 ## Extracurricular
 
