@@ -26,7 +26,7 @@ url: 'https\://www.cs.man.ac.uk/~hulld'
 
 # Hello! {-}
 
-```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='This is me. Background photo by [slidebean](https://unsplash.com/@slidebean) on [unsplash.com](https://unsplash.com), a source of [freely-usable images](https://unsplash.com/license).'}
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='This is me superimposed on a background photo by [slidebean](https://unsplash.com/@slidebean) on [unsplash.com](https://unsplash.com), a source of [freely-usable images](https://unsplash.com/license).'}
 knitr::include_graphics("images/duncan hull unplashed.png")
 ```
 
