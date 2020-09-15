@@ -26,13 +26,13 @@ url: 'https\://www.cs.man.ac.uk/~hulld'
 
 # Hello! {-}
 
-```{r echo = FALSE, fig.align = "center", out.width = "40%"}
-knitr::include_graphics("images/me-blue.jpg")
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "90%", fig.cap='This is me. Background photo by [slidebean](https://unsplash.com/@slidebean) on [unsplash.com](https://unsplash.com), a source of [freely-usable images](https://unsplash.com/license).'}
+knitr::include_graphics("images/duncan hull unplashed.png")
 ```
 
 Hello, I'm Duncan Hull and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). I'm a lecturer here with responsibility for managing the [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. This elective course has [over 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. 🥪🎓
 
-I [teach](#teaching) undergraduate & postgraduate courses, supervise tutorials, projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [deliver outstanding learning and student experience](#research) using innovative techniques like [vertical tutoring](#vertical-tutoring), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [working with local schools](#coding-their-future), [Wikipedia editing](#wikipedia) and [live music](#tuningcomplete). 🎸
+I [teach](#teaching) undergraduate & postgraduate courses, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [deliver outstanding learning and student experience](#research) using innovative techniques like [vertical tutoring](#vertical-tutoring), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [working with local schools](#coding-their-future), [Wikipedia editing](#wikipedia) and [live music](#tuningcomplete). 🎸
 
 If you are an [employer](#employers) who would like to recruit a summer intern, placement student or graduate please [get in touch](#contact). During term time, we highlight opportunities for students in the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about). 🐝
 
