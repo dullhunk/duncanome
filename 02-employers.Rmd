@@ -63,7 +63,7 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us][#contact] or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us](#contact) or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
 
 ## Join the community
 
@@ -108,4 +108,4 @@ year placement started | No. of Computer Science undergraduate students on place
 In 2019 our students have secured year long placements at Accenture, Agilent Technologies, Amazon (2), AND Digital, Apadmi (5), Arggo, ARM (5), Autodesk, AVL Powertrain, BAML, the BBC (2), Biorelate, BJSS, Bloomberg (2), BMW Mini, Bsquare Controls (2), BT, Cantarus (3), Celtra, CERN (3), Codethink, d3t, Elysian Systems, Feral Interactive (2), Fidelity, FiveAI, HMRC, IBM (2), Imagination Technologies, Intel (4), ISA Software (2), JP Morgan (4), Keysight Technologies, KPMG (1), Matillion (4), McAfee (2), Mentor Graphics (4), Monoprix, Morgan Stanley (2), NCC Group, Nokia, Nomura, Novacoast (2), Ocado (3), PA Consulting, PwC, Schlumberger, ServiceNow, Siemens (3), Soda Software, SteamaCo, The Hut Group (10),
 The Start Up Factory (2), Uber, Visa and Vodafone.
 
-There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch][Contact].
+There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch](Contact).

@@ -10,21 +10,26 @@ knitr::include_graphics("images/turingicon.jpg")
 
 Our offices are in the Kilburn building, close to the Byte cafe, past the [Student Support Office](https://studentnet.cs.manchester.ac.uk/student-services/) (SSO), through the double doors, down the ramp.
 
-**Dr. Duncan Hull, Lecturer** 👨‍💻
+**Dr. Duncan Hull, Lecturer** 👨
+💻
 
 * 🏢 Room LF25, Kilburn Building
 * 📥 email:	duncan.hull ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6186
 * 🌐 [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 
-**Mabel Yau, Careers and placements officer** 👩‍💻
+**Mabel Yau, Careers and placements officer** 👩
+💻
 
 * 🏢 Room LF26, Kilburn Building
 * 📥 email:	mabel.yau ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6140
 * 🌐 [linkedin.com/in/mabel-yau](https://uk.linkedin.com/in/mabel-yau)
 
-**Student Support Office ** 👨‍👩‍👧‍👦
+**Student Support Office ** 👨
+👩
+👧
+👦
 
 * 🏢 Room LF21, Kilburn Building
 * 📥 email compsci-sso@manchester.ac.uk
@@ -32,15 +37,16 @@ Our offices are in the Kilburn building, close to the Byte cafe, past the [Stude
 
 ## Video conferencing
 
-The University of Manchester has an enterprise subscription for Zoom, so you can contact me using [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull). For any other enterprise video conferencing software, your employer will need to host the meeting and send me an invitation link. Please provide any log in, dial in, invitation links or meeting IDs for:
+The University of Manchester has an enterprise subscription for Zoom and Microsoft Teams. For the latter, you can contact me using [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull). For most other enterprise video conferencing software, your employer will need to host the meeting and send me an invitation link. Please provide any log in, dial in, invitation links or meeting IDs for:
 
 * [Skype for business](https://en.wikipedia.org/wiki/Skype_for_Business)
 * [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans)
-* [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams) (you will need to invite me using my university email address as an [external user rather than guest](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access) as the University does not have a Teams subscription)
+* [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams) 
 * [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex)
 
 You can also contact me using free versions of:
 
+* [Discord](https://en.wikipedia.org/wiki/Discord_(software))
 * [Slack](https://en.wikipedia.org/wiki/Slack_(software))
 * [Skype](https://en.wikipedia.org/wiki/Skype) (the non-business version where my username is "duncanhull")
 * [Jitsi](https://en.wikipedia.org/wiki/Jitsi)
@@ -48,7 +54,7 @@ You can also contact me using free versions of:
 
 ## Online and social media  
 
-You can get in touch on t'internet at:
+You can get in touch via t'internet at:
 
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
