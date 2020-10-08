@@ -41,11 +41,12 @@ The University of Manchester has an enterprise subscription for Zoom and Microso
 
 * [Skype for business](https://en.wikipedia.org/wiki/Skype_for_Business)
 * [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans)
-* [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams) 
+* [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams)
 * [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex)
 
 You can also contact me using free versions of:
 
+* [Amazon Chime](https://aws.amazon.com/chime/)
 * [Discord](https://en.wikipedia.org/wiki/Discord_(software))
 * [Slack](https://en.wikipedia.org/wiki/Slack_(software))
 * [Skype](https://en.wikipedia.org/wiki/Skype) (the non-business version where my username is "duncanhull")
