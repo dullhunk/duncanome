@@ -10,26 +10,21 @@ knitr::include_graphics("images/turingicon.jpg")
 
 Our offices are in the Kilburn building, close to the Byte cafe, past the [Student Support Office](https://studentnet.cs.manchester.ac.uk/student-services/) (SSO), through the double doors, down the ramp.
 
-**Dr. Duncan Hull, Lecturer** 👨
-💻
+**Dr. Duncan Hull, Lecturer** 👨‍💻
 
 * 🏢 Room LF25, Kilburn Building
 * 📥 email:	duncan.hull ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6186
 * 🌐 [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 
-**Mabel Yau, Careers and placements officer** 👩
-💻
+**Mabel Yau, Careers and placements officer** 👩‍💻
 
 * 🏢 Room LF26, Kilburn Building
 * 📥 email:	mabel.yau ATE manchester.ac.uk
 * ☎️ telephone:	+44 161 275 6140
 * 🌐 [linkedin.com/in/mabel-yau](https://uk.linkedin.com/in/mabel-yau)
 
-**Student Support Office ** 👨
-👩
-👧
-👦
+**Student Support Office ** 👨‍👩‍👧‍👧
 
 * 🏢 Room LF21, Kilburn Building
 * 📥 email compsci-sso@manchester.ac.uk
