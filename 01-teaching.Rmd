@@ -19,7 +19,7 @@ Outside of term time, it's best to book a debugging appointment. 🐛
 
 If you're in your first year of study, I serve as:
 
-* Academic staff member for [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120]
+* Academic staff member for [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120], see the [getting started with LaTeX lab manual](http://latex4year1.netlify.app)
 * Mentor and tutor to one group of six first year students
 * Organiser of first year guest lectures, which mostly run in the second semester, February to May
 
