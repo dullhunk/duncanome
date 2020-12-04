@@ -2,7 +2,9 @@
 
 You can get in touch using the details below, which include directions and parking information.
 
-```{r echo = FALSE, fig.align = "center", fig.cap = "Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). Turing is, as [Jonathan Swinton](https://www.manturing.net/jonathan) puts it, the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial) and Alan Turing Way [@turingway]", out.width = "100%"}
+(ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). Turing is, as [Jonathan Swinton](https://www.manturing.net/jonathan) puts it, the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial) and Alan Turing Way [@turingway]
+
+```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captioncycloturing)", out.width = "100%"}
 knitr::include_graphics("images/turingicon.jpg")
 ```
 
