@@ -2,11 +2,10 @@
 
 I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office and the lecture theatre. 🎭
 
-(ref:captionbbcsofa) Posing on the [BBC Breakfast](Posing on the BBC Breakfast Sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in MediaCityUK, Salford) re sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford
-
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
+(ref:captionbbcsofa) Posing on the [BBC Breakfast](Posing on the BBC Breakfast Sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in MediaCityUK, Salford) red sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford
 
 ## All years: Debug your CV {#allyears}
 
@@ -37,7 +36,7 @@ Previously I served as [second year tutor](https://studentnet.cs.manchester.ac.u
 
 ## Penultimate year students {#penultimate}
 
-If you're on placement during your penultimate year, I serve as:
+If you're on placement during your penultimate year (your last-but-one), I serve as:
 
 * Course leader for "with industrial experience" (IE), an elective and intercalated year in industry.
 * Year tutor for students on placement, either face to face or via telecon
