@@ -11,7 +11,7 @@ knitr::include_graphics("images/wikipedian_protester.png")
 ## SIGCSE
 Computer Science has only been taught to undergraduates in the UK for 50 short years [@babygrowsup; @sigcse50], so there's lots of open questions about how to teach the practical, theoretical and professional aspects of the subject. To that end:
 
-* I'm an [active member](https://dl.acm.org/profile/81350580198) of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) Special Interest Group (SIG) in Computer Science Education ([sigcse.org](https://sigcse.org)). In 2020 I founded the [ACM SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/) and chair the monthly Manchester meetup. All are welcome to join, see [sigcse.cs.manchester.ac.uk/join-us](https://sigcse.cs.manchester.ac.uk/join-us)
+* I'm an [active member](https://dl.acm.org/profile/81350580198) of the [Association for Computing Machinery](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery) (ACM) and it's Special Interest Group (SIG) in Computer Science Education ([sigcse.org](https://sigcse.org)). In 2020 I founded the [ACM SIGCSE journal club](https://sigcse.cs.manchester.ac.uk/) and chair the monthly Manchester meetup. Anyone is welcome to join, see [sigcse.cs.manchester.ac.uk/join-us](https://sigcse.cs.manchester.ac.uk/join-us)
 * I serve on the program committee of the [United Kingdom and Ireland Computing Education Research (UIKICER)](https://www.ukicer.com/) conference, on the board of [UK ACM SIGCSE](https://uki-sigcse.acm.org/about) and have served on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) conference at Durham University
 
 ## Industrial mentoring
