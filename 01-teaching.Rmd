@@ -45,7 +45,7 @@ If you're on placement during your penultimate year (your last-but-one), I serve
 
 If you're in your final year of study, you'll find me:
 
-* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](#coding-their-future). [@computinged] 👩‍💻👨‍💻
+* Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](http://www.cs.man.ac.uk/~hulld/coding-their-future.html). [@computinged] 👩‍💻👨‍💻
 
 ## Masters students {#masters}
 
