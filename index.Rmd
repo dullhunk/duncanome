@@ -21,6 +21,7 @@ description: "Dr. Duncan Hull, Lecturer in the Department of Computer Science at
 # hacky way to include an image
 #cover-image: images/cover.jpg
 url: 'https\://www.cs.man.ac.uk/~hulld'
+always_allow_html: true
 
 ---
 
@@ -34,7 +35,7 @@ knitr::include_graphics("images/duncan hull unplashed.png")
 
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. This elective course has [around 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. 🥪🎓
 
-I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) using techniques like [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/),  [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [working with local schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [Wikipedia editing](#wikipedia), and [live music](#tuningcomplete). 🎸
+I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) using techniques like [coding your future](https://www.cdyf.me), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/),  [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [working with local schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [Wikipedia editing](#wikipedia), and [live music](#tuningcomplete). 🎸
 
 If you are an [employer](http://www.cs.man.ac.uk/~hulld/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html). During term time, we edit and highlight some of the best opportunities for students in a weekly newsletter known as the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) which goes out to over 1000 undergraduate and postgraduates in Computer Science. 🐝
 

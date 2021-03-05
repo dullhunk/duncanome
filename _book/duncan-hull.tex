@@ -6,12 +6,13 @@
   12pt,
 ]{book}
 \usepackage{lmodern}
-\usepackage{amssymb,amsmath}
+\usepackage{amsmath}
 \usepackage{ifxetex,ifluatex}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
+  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -42,6 +43,7 @@
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs}
+\usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
 \makeatletter
@@ -68,6 +70,9 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
@@ -99,7 +104,7 @@
 
 Hello and welcome to the \href{https://www.cs.manchester.ac.uk/}{Department of Computer Science} at the \href{https://www.manchester.ac.uk}{University of Manchester}. My name is Duncan and I'm a lecturer (≈ \href{https://en.wikipedia.org/wiki/Assistant_professor}{Assistant Professor}) here with responsibility for managing our \href{https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/}{Industrial Experience} (IE) program. This elective course has \protect\hyperlink{employability}{around 100} students every year working in paid employment for the penultimate (``sandwich'') year-in-industry of their undergraduate degrees. 🥪🎓
 
-I \href{http://www.cs.man.ac.uk/~hulld/teaching.html}{teach} undergraduate \& postgraduate students, supervise tutorials \& projects while serving as \href{http://studentnet.cs.manchester.ac.uk/employment/placement/}{employability tutor}. I'm interested in methods that can \href{http://www.cs.man.ac.uk/~hulld/research.html}{improve teaching, learning and the student experience} using techniques like \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{http://www.cs.man.ac.uk/~hulld/coding-their-future.html}{working with local schools}, \protect\hyperlink{wikipedia}{Wikipedia editing}, and \protect\hyperlink{tuningcomplete}{live music}. 🎸
+I \href{http://www.cs.man.ac.uk/~hulld/teaching.html}{teach} undergraduate \& postgraduate students, supervise tutorials \& projects while serving as \href{http://studentnet.cs.manchester.ac.uk/employment/placement/}{employability tutor}. I'm interested in methods that can \href{http://www.cs.man.ac.uk/~hulld/research.html}{improve teaching, learning and the student experience} using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{http://www.cs.man.ac.uk/~hulld/coding-their-future.html}{working with local schools}, \protect\hyperlink{wikipedia}{Wikipedia editing}, and \protect\hyperlink{tuningcomplete}{live music}. 🎸
 
 If you are an \href{http://www.cs.man.ac.uk/~hulld/employers.html}{employer} who would like to recruit a summer intern, placement student or graduate please \href{http://www.cs.man.ac.uk/~hulld/contact.html}{get in touch}. During term time, we edit and highlight some of the best opportunities for students in a weekly newsletter known as the \href{https://waggle.cs.manchester.ac.uk/waggle/about}{Wednesday Waggle} which goes out to over 1000 undergraduate and postgraduates in Computer Science. 🐝
 
@@ -119,7 +124,7 @@ Born in \href{https://en.wikipedia.org/wiki/Bath,_Somerset}{Bath, Somerset} and 
 \section*{Toolbox}\label{toolbox}}
 \addcontentsline{toc}{section}{Toolbox}
 
-This website\footnote{last updated 01 February, 2021} is built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://www.gitbook.com}{gitbook}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://en.wikipedia.org/wiki/LaTeX}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. Thanks to \href{https://yihui.org}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. The \href{https://github.com/dullhunk/hulled}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. If you're viewing this page on an iPhone or iPad, there is \href{https://github.com/rstudio/bookdown/issues/60}{known bug with the menu bar at the top of this page} which means the menu might not display properly. These pages are also available \href{http://www.cs.man.ac.uk/~hulld/duncan-hull.pdf}{as a pdf} and \href{http://www.cs.man.ac.uk/~hulld/duncan-hull.epub}{and an ebook}.
+This website\footnote{last updated 05 March, 2021} is built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://www.gitbook.com}{gitbook}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://en.wikipedia.org/wiki/LaTeX}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. Thanks to \href{https://yihui.org}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. The \href{https://github.com/dullhunk/hulled}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. If you're viewing this page on an iPhone or iPad, there is \href{https://github.com/rstudio/bookdown/issues/60}{known bug with the menu bar at the top of this page} which means the menu might not display properly. These pages are also available \href{http://www.cs.man.ac.uk/~hulld/duncan-hull.pdf}{as a pdf} and \href{http://www.cs.man.ac.uk/~hulld/duncan-hull.epub}{and an ebook}.
 
 \hypertarget{get-a-life}{%
 \section*{Get a life!}\label{get-a-life}}
@@ -146,7 +151,7 @@ I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and 
 \hypertarget{allyears}{%
 \section{All years: Debug your CV}\label{allyears}}
 
-If you'd like to debug your CV, application form, covering letter and job search etc, read the \emph{Debug your CV} guide at \href{http://git.io/mycv}{git.io/mycv} \citep{debugyourcv}, especially if you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
+If you'd like to debug your CV, application form, covering letter and job search etc, read \href{https://www.cdyf.me/debugging.html}{debugging your future} \citep{debugyourfuture} and \href{https://www.cdyf.me/sampling.html}{reading their future} \citep{readingtheirfuture}, especially if you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
 
 \begin{itemize}
 \tightlist
@@ -407,71 +412,71 @@ We are working hard to improve the employability of students because while havin
 
 \begin{longtable}[]{@{}ll@{}}
 \toprule
-\begin{minipage}[b]{0.47\columnwidth}\raggedright
+\begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 year placement started\strut
-\end{minipage} & \begin{minipage}[b]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 No.~of Computer Science undergraduate students on placement\strut
 \end{minipage}\tabularnewline
 \midrule
 \endhead
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2008\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 35\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2009\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 31\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2010\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 45\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2011\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 42\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2012\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 45\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2013\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 70\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2014\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 54\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2015\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 70\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2016\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 65\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2017\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 100\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2018\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 97\strut
 \end{minipage}\tabularnewline
-\begin{minipage}[t]{0.47\columnwidth}\raggedright
+\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 2019\strut
-\end{minipage} & \begin{minipage}[t]{0.47\columnwidth}\raggedright
+\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
 110\strut
 \end{minipage}\tabularnewline
 \bottomrule
@@ -485,7 +490,7 @@ There's still more we can do to improve the employability of our graduates. If y
 \hypertarget{research}{%
 \chapter{Research}\label{research}}
 
-My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuningcomplete}{live music}, \href{http://www.cs.man.ac.uk/~hulld/coding-their-future.html}{working with schools}, \href{http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html}{vertical tutoring}, \protect\hyperlink{wikipedia}{editing Wikipedia} and more.
+My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuningcomplete}{live music}, \href{http://www.cs.man.ac.uk/~hulld/coding-their-future.html}{working with schools}, \href{http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html}{vertical tutoring}, \protect\hyperlink{wikipedia}{editing Wikipedia} and more.
 
 \begin{figure}
 
@@ -810,7 +815,7 @@ The University provides schools with a final year student who can teach Computer
   \href{https://www.mgs.org/}{Manchester Grammar School} (MGS), Fallowfield
 \end{itemize}
 
-The projects were setup by {[}Duncan Hull{]}{[}Contact{]} and \href{http://www.cs.man.ac.uk/~david/}{David Rydeheard} (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. \citep{cse, suemcr, stephenson, fincherpetre} To find out more, see the \protect\hyperlink{guidance-for-teachers}{guidance for teachers} and \protect\hyperlink{guidance-for-students}{guidance for students} below.
+The projects were setup by \protect\hyperlink{contact}{Duncan Hull} and \href{http://www.cs.man.ac.uk/~david/}{David Rydeheard} (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. \citep{cse, suemcr, stephenson, fincherpetre} To find out more, see the \protect\hyperlink{guidance-for-teachers}{guidance for teachers} and \protect\hyperlink{guidance-for-students}{guidance for students} below.
 
 \hypertarget{guidance-for-teachers}{%
 \section{Guidance for teachers}\label{guidance-for-teachers}}

@@ -1,0 +1,167 @@
+  |                                                                              |                                                                      |   0%  |                                                                              |..                                                                    |   3%
+   inline R code fragments
+
+  |                                                                              |.....                                                                 |   6%
+label: unsplashed-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "90%"
+ $ fig.cap  : chr "(ref:captionthisisme)"
+
+  |                                                                              |.......                                                               |  10%
+   inline R code fragments
+
+  |                                                                              |.........                                                             |  13%
+label: unnamed-chunk-1 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "(ref:captionbbcsofa)"
+
+  |                                                                              |...........                                                           |  16%
+  ordinary text without R code
+
+  |                                                                              |..............                                                        |  19%
+label: unnamed-chunk-2 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "Any employer recruiting our students is welcome to join our industry club, see details below"
+
+  |                                                                              |................                                                      |  23%
+  ordinary text without R code
+
+  |                                                                              |..................                                                    |  26%
+label: pie-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "Where our undergraduate students come from: As of October 2019 we have 877 undergraduate Computer Science stude"| __truncated__
+
+  |                                                                              |....................                                                  |  29%
+  ordinary text without R code
+
+  |                                                                              |.......................                                               |  32%
+label: unnamed-chunk-3 (with options) 
+List of 3
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "40%"
+
+  |                                                                              |.........................                                             |  35%
+  ordinary text without R code
+
+  |                                                                              |...........................                                           |  39%
+label: unnamed-chunk-4 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "(ref:captionhighfliers)"
+
+  |                                                                              |.............................                                         |  42%
+  ordinary text without R code
+
+  |                                                                              |................................                                      |  45%
+label: unnamed-chunk-5 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "70%"
+ $ fig.cap  : chr "(ref:captionprotest)"
+
+  |                                                                              |..................................                                    |  48%
+  ordinary text without R code
+
+  |                                                                              |....................................                                  |  52%
+label: beatles-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "70%"
+ $ fig.cap  : chr "Tuning Complete consists of Jez Lloyd, Steve Furber, Justin Timberfake and me."
+
+  |                                                                              |......................................                                |  55%
+  ordinary text without R code
+
+  |                                                                              |.........................................                             |  58%
+label: mrskilburn-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "70%"
+ $ fig.cap  : chr "Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bo"| __truncated__
+
+  |                                                                              |...........................................                           |  61%
+  ordinary text without R code
+
+  |                                                                              |.............................................                         |  65%
+label: vertical-fig (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "Conventional horizontal tutor groups (shown in black) bring together a group of students in the same year. For "| __truncated__
+
+  |                                                                              |...............................................                       |  68%
+  ordinary text without R code
+
+  |                                                                              |..................................................                    |  71%
+label: unnamed-chunk-6 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "(ref:captioncodingtheirfuture)"
+
+  |                                                                              |....................................................                  |  74%
+  ordinary text without R code
+
+  |                                                                              |......................................................                |  77%
+label: unnamed-chunk-7 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "(ref:captionraspberrypi)"
+
+  |                                                                              |........................................................              |  81%
+  ordinary text without R code
+
+  |                                                                              |...........................................................           |  84%
+label: unnamed-chunk-8 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ out.width: chr "100%"
+ $ fig.cap  : chr "Lecture theatre 1.1 (LT 1.1) in Kilburn full of first year students"
+
+  |                                                                              |.............................................................         |  87%
+  ordinary text without R code
+
+  |                                                                              |...............................................................       |  90%
+label: videofriendly-fig (with options) 
+List of 2
+ $ echo   : logi FALSE
+ $ fig.cap: chr "Making video-friendly slides"
+
+  |                                                                              |.................................................................     |  94%
+  ordinary text without R code
+
+  |                                                                              |....................................................................  |  97%
+label: unnamed-chunk-9 (with options) 
+List of 4
+ $ echo     : logi FALSE
+ $ fig.align: chr "center"
+ $ fig.cap  : chr "(ref:captioncycloturing)"
+ $ out.width: chr "100%"
+
+  |                                                                              |......................................................................| 100%
+   inline R code fragments
+
+
+/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS duncan-hull.utf8.md --to latex --from markdown+autolink_bare_uris+tex_math_single_backslash --output duncan-hull.tex --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/pagebreak.lua --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/rmarkdown/rmarkdown/lua/latex-div.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmp7lXWkT/file1102720475c75 --self-contained --table-of-contents --toc-depth 2 --number-sections --highlight-style tango --pdf-engine xelatex --natbib --include-in-header preamble.tex --variable graphics --wrap preserve --variable tables=yes --standalone -Mhas-frontmatter=false 
