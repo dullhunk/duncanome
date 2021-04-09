@@ -30,7 +30,7 @@ If you're in your second year, I serve as:
 
 * Course leader for [second year software engineering: COMP23311](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/), a course designed by [Suzanne Embury](http://www.cs.man.ac.uk/~embury/) [@COMP23311; @git]
 * Organiser of the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
-* Course leader for *Coding your Future*, (COMP2CARS) a course designed by me for (primarily) second year students to design, build, test and debug their futures.
+* Course leader for [Coding your Future: COMP2CARS](https://www.cdyf.me/) a course designed by me for (primarily) second year students to design, build, test and debug their futures in computing.
 
 Previously I served as [second year tutor](https://studentnet.cs.manchester.ac.uk/ugt/year2/) from 2016 through to 2020.
 

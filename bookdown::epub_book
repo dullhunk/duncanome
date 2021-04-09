@@ -164,4 +164,4 @@ List of 4
    inline R code fragments
 
 
-/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS duncan-hull.utf8.md --to epub3 --from markdown+autolink_bare_uris+tex_math_single_backslash --output duncan-hull.epub --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//RtmpRfd6DY/file110ad75d2e02d --number-sections --citeproc 
+/Applications/RStudio.app/Contents/MacOS/pandoc/pandoc +RTS -K512m -RTS duncan-hull.utf8.md --to epub3 --from markdown+autolink_bare_uris+tex_math_single_backslash --output duncan-hull.epub --lua-filter /Library/Frameworks/R.framework/Versions/4.0/Resources/library/bookdown/rmarkdown/lua/custom-environment.lua --metadata-file /var/folders/1r/n03xtjln62vbxs_v94txs26m0000gp/T//Rtmpcazl4o/file1654d5dcb0ce9 --number-sections --citeproc 
