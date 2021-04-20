@@ -28,7 +28,7 @@ always_allow_html: true
 # Hello! {-}
 
 ```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "50%", }
-knitr::include_graphics("images/duncan hull.jpeg")
+knitr::include_graphics("images/duncan hull.jpg")
 ```
 
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. This elective course has [around 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. 🥪🎓
