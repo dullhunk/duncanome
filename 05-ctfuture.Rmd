@@ -8,7 +8,7 @@ Coding their future is a collaboration & partnership between secondary schools a
 
 (ref:captioncodingtheirfuture) Undergraduate students in computer science regularly work with schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020; @m20202] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/)
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captioncodingtheirfuture)"}
+```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncodingtheirfuture)"}
 knitr::include_graphics("images/schools-banner.jpg")
 ```
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
@@ -32,7 +32,7 @@ The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://w
 
 (ref:captionraspberrypi) An abundance of free software and relatively cheap new hardware like the [Raspberry Pi](https://www.raspberrypi.org) [@raspberrypi], [Microbit](https://microbit.org), [@Sentance2017] [Makey Makey](https://makeymakey.com) [@nevertooold; @makeymakey;] [Crumble Controller](https://redfernelectronics.co.uk/crumble/) and [Arduino](https://www.arduino.cc) [@arduino] has opened up lots of new possibilities for teaching Computer Science. Picture via Alex Bate. [@SnazzyRPi])
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap="(ref:captionraspberrypi)"}
+```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap="(ref:captionraspberrypi)"}
 knitr::include_graphics("images/raspberrypi.png")
 ```
 
@@ -73,7 +73,7 @@ Formal supervision and mentoring is undertaken by the university (Duncan and Dav
 
 ## Guidance for students
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Lecture theatre 1.1 (LT 1.1) in Kilburn full of first year students"}
+```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "Lecture theatre 1.1 (LT 1.1) in Kilburn full of first year students"}
 knitr::include_graphics("images/studentspanorama.png")
 ```
 
