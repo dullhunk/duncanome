@@ -106,6 +106,7 @@ year placement started | No. of Computer Science undergraduate students on place
 2017 | 100  
 2018 | 97  
 2019 | 110  
+2020 | 88
 
 In 2019 our students have secured year long placements at Accenture, Agilent Technologies, Amazon (2), AND Digital, Apadmi (5), Arggo, ARM (5), Autodesk, AVL Powertrain, BAML, the BBC (2), Biorelate, BJSS, Bloomberg (2), BMW Mini, Bsquare Controls (2), BT, Cantarus (3), Celtra, CERN (3), Codethink, d3t, Elysian Systems, Feral Interactive (2), Fidelity, FiveAI, HMRC, IBM (2), Imagination Technologies, Intel (4), ISA Software (2), JP Morgan (4), Keysight Technologies, KPMG (1), Matillion (4), McAfee (2), Mentor Graphics (4), Monoprix, Morgan Stanley (2), NCC Group, Nokia, Nomura, Novacoast (2), Ocado (3), PA Consulting, PwC, Schlumberger, ServiceNow, Siemens (3), Soda Software, SteamaCo, The Hut Group (10),
 The Start Up Factory (2), Uber, Visa and Vodafone.

@@ -112,16 +112,6 @@ All deliverables for standard final year projects will be expected of these proj
 
 Assessments for these projects will be as for standard projects, [@COMP30030; @COMP30040] but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
-### Getting a head start
-
-There are plenty of online courses you can do to improve you effectiveness in the classroom.
-
-* Impact of Technology: How To Lead Classroom Discussions. Learn how to keep 14-16 year-old students engaged in discussions while teaching computer science. Supported by Google [futurelearn.com/courses/impact-of-technology](https://www.futurelearn.com/courses/impact-of-technology)
-* Teaching Physical Computing with Raspberry Pi and Python [futurelearn.com/courses/physical-computing-raspberry-pi-python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
-* Since some of your teaching is likely to be asynchronous, you would also benefit from having a look at [taking your teaching online](https://www.open.edu/openlearn/education-development/education/take-your-teaching-online/content-section-overview) from OpenLearn
-* Many more Teaching Computing Courses at [futurelearn.com/subjects/teaching-courses/teaching-computing](https://www.futurelearn.com/subjects/teaching-courses/teaching-computing)
-
-
 ### Blended learning {#blended}
 COVID 19 is revolutionising teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
@@ -135,3 +125,21 @@ When you teach, think about how you can support students before and after your t
 ### When do the projects start and finish? {#finishing}
 
 Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull](#Contact).
+
+## Getting a head start
+So you've selected *Coding their future* as your third year project and now you are ready to get started. There are plenty of resources to help you prepare and improve your effectiveness in the classroom.
+* Work with young people
+   + Any experience of working with young people will be beneficial, if you have the time and opportunity over the summer you can get some experience of working with young people for example through [codeclub.org](https://codeclub.org/) and [coderdojo.com](https://coderdojo.com/)
+   + It doesn't have to be coding either, you could get involved with any activities such as sporting events or others, see [find-volunteering.manchester.ac.uk/](https://find-volunteering.manchester.ac.uk/)
+* There are three really good books to help you get started
+    + *Teaching Computing* [@teachingcomputing] by Carl Simmons & Claire Hawkins, is aimed at teachers of computing, particularly trainee computer science teachers. [e-book available here, University of Manchester login required](http://dx.doi.org.manchester.idm.oclc.org/10.4135/9781473919785)
+    + *Computer Science Education* [@cse] edited by [Sue Sentance](https://en.wikipedia.org/wiki/Sue_Sentance), Erik Barendsen and Carsten Schulte. Only available in print form, useful for reference
+    * *The Cambridge Handbook of Computing Education Research* edited by Sally Fincher and Antony V. Robins [@CERhandbook], electronic copies available at [doi.org/gb5d](https://doi.org/gb5d) (UoM login required) this is a comprehensive overview of the field, useful for reference
+* Free Open University courses to get you started:
+    + Impact of Technology: How To Lead Classroom Discussions. Learn how to keep 14-16 year-old students engaged in discussions while teaching computer science. Supported by Google [futurelearn.com/courses/impact-of-technology](https://www.futurelearn.com/courses/impact-of-technology)
+    + Teaching Physical Computing with Raspberry Pi and Python [futurelearn.com/courses/physical-computing-raspberry-pi-python](https://www.futurelearn.com/courses/physical-computing-raspberry-pi-python)
+    + Since some of your teaching is likely to be asynchronous, you would also benefit from having a look at [taking your teaching online](https://www.open.edu/openlearn/education-development/education/take-your-teaching-online/content-section-overview) from OpenLearn
+    + Many more Teaching Computing Courses at [futurelearn.com/subjects/teaching-courses/teaching-computing](https://www.futurelearn.com/subjects/teaching-courses/teaching-computing)
+* *SIGCSE events* The UK Special Interest Group (SIG) on Computer Science Education (CSE) has monthly events listed online at [uki-sigcse.acm.org/events](https://uki-sigcse.acm.org/events)
+* *Hello World* magazine, see [helloworld.raspberrypi.org](https://helloworld.raspberrypi.org/) is packed full of ideas for teaching computing (and its free too)
+* *Quick Reads* give short two page introductions to teaching computing, see [blog.teachcomputing.org/tag/quickread](https://blog.teachcomputing.org/tag/quickread/)
