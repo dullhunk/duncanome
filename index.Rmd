@@ -1,4 +1,4 @@
----
+fw---
 title: "Dr. Duncan Hull, University of Manchester"
 #author: "Duncan Hull"
 #date: "`r Sys.Date()`"
@@ -35,7 +35,7 @@ Hello and welcome to the [Department of Computer Science](https://www.cs.manches
 
 I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) using techniques like [coding your future](https://www.cdyf.me), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/),  [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [working with local schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [Wikipedia editing](#wikipedia), and [live music](#tuningcomplete). 🎸
 
-If you are an [employer](http://www.cs.man.ac.uk/~hulld/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html). During term time, we edit and highlight some of the best opportunities for students in a weekly newsletter known as the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) which goes out to over 1000 undergraduate and postgraduates in Computer Science. 🐝
+If you are an [employer](http://www.cs.man.ac.uk/~hulld/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html). During term time, we edit and highlight some of the best opportunities for students in a weekly newsletter known as the Wednesday Waggle [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) which goes out to over 1000 undergraduate and postgraduates in Computer Science. 🐝
 
 ## Full stack teaching  {-}
 Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary & secondary school children ([K--12](https://en.wikipedia.org/wiki/K%E2%80%9312)), undergraduates & postgraduates. In 2011, I completed a [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) at the [University of Bath](https://www.bath.ac.uk/) and worked as a high school science teacher in co-educational [non-selective state-funded schools](https://en.wikipedia.org/wiki/State-funded_schools_(England)) in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have been fortunate enough to teach in India, Japan and America too. 🇬🇧🇮🇳🇯🇵🇺🇸

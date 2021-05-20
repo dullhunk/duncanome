@@ -7,7 +7,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 (ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford
 
-## All years: Debug your CV {#allyears}
+## All years: Debug and code your future {#allyears}
 
 If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging.html) [@debugyourfuture] and [reading their future](https://www.cdyf.me/sampling.html) [@readingtheirfuture], especially if you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
 
