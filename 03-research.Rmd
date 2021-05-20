@@ -14,7 +14,7 @@ Computer Science has only been taught to undergraduates in the UK for 50 short y
 * I serve on the program committee of the [United Kingdom and Ireland Computing Education Research (UIKICER)](https://www.ukicer.com/) conference, on the board of [UK ACM SIGCSE](https://uki-sigcse.acm.org/about) and have served on the program committee for [Computing Education & Practice (CEP)](http://community.dur.ac.uk/cep.conference) conference at Durham University
 
 ## Industrial mentoring
-Since we started the [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
+Since we started the [industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
 
 Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don’t *need* to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the codebase (https://stendhalgame.org/) we happen to be using. Mentors are typically software engineers, both junior and senior.
 
@@ -85,8 +85,10 @@ Formal peer-reviewed publications can be found on DBLP, ORCID, Google Scholar, t
 
 * [dblp.org/pid/h/DuncanHull](https://dblp.org/pid/h/DuncanHull)
 * [wikidata.org/wiki/Q47012855](https://www.wikidata.org/wiki/Q47012855)
-* [orcid.org/0000-0003-2387-503X](https://orcid.org/0000-0003-2387-503X)
 * [dl.acm.org/profile/81350580198](https://dl.acm.org/profile/81350580198)
+* [orcid.org/0000-0003-2387-503X](https://orcid.org/0000-0003-2387-503X)
+* [europepmc.org/authors/0000-0003-2387-503X](https://europepmc.org/authors/0000-0003-2387-503X)
+* [profiles.impactstory.org/u/0000-0003-2387-503X](https://profiles.impactstory.org/u/0000-0003-2387-503X)
 * [scholar.google.com/citations?user=iDJ-t7IAAAAJ](https://scholar.google.com/citations?user=iDJ-t7IAAAAJ)
 
 According to Google scholar, my most cited papers are on:

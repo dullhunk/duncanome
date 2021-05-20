@@ -3,7 +3,7 @@
 
 # Will you write a reference for me? {#referee}
 
-As employability tutor, I get asked to write *lots* references for students applying for jobs and further study. I'm happy to do this if you've been personal tutee or I've worked with you outside of ordinary teaching. However, it's impossible to for me to say YES to every request for a reference. For students I haven't worked with, it is difficult to do, because all I can confirm is facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+As employability tutor, I get asked to write *lots* references for students applying for jobs and further study. I'm happy to do this if you've been personal tutee or I've worked with you closely outside of ordinary teaching. However, it's impossible to for me to say YES to every request for a reference. For students I haven't worked with, it is difficult to do, because all I can confirm is facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 
@@ -15,8 +15,9 @@ It is good to have references from different sources, so if you are providing se
 
 * Your personal tutor from year one
 * Your personal tutor from year two (if different to first year)
-* Your IE tutor (mostly likely me)
+* Your Industrial Experience (IE) tutor (sometimes that's me)
 * Your third year project supervisor
+* Your Masters project supervisor
 * Anyone else who knows you personally
 
 If you ask somebody who does not know you very well to write a reference for you, all that they are able to do in a reference is confirm rather dull facts such as your grades, your attendance, start date and graduation date. As I've already said, this does not make for a very useful reference.
