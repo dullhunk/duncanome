@@ -1,27 +1,16 @@
-fw---
+---
 title: "Dr. Duncan Hull, University of Manchester"
-#author: "Duncan Hull"
-#date: "`r Sys.Date()`"
-#knit: "bookdown::render_book"
 site: bookdown::bookdown_site
 documentclass: book
-#documentclass: krantz
-
 bibliography: [hulld.bib]
 biblio-style: apalike
 link-citations: yes
-#lot: yes
-#of: yes
 fontsize: 12pt
 github-repo: dullhunk/hulled
 twitter-handle: dullhunk
-description: "Dr. Duncan Hull, Lecturer in the Department of Computer Science at the University of Manchester"
-
-#cover-image: cover.png
-# hacky way to include an image
-#cover-image: images/cover.jpg
-url: 'https\://www.cs.man.ac.uk/~hulld'
 always_allow_html: true
+description: "Dr. Duncan Hull, Lecturer in the Department of Computer Science at the University of Manchester"
+url: 'https\://www.cs.man.ac.uk/~hulld'
 
 ---
 
@@ -31,11 +20,17 @@ always_allow_html: true
 knitr::include_graphics("images/duncan hull.jpg")
 ```
 
-Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. This elective course has [around 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. 🥪🎓
+Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) by:
 
-I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) using techniques like [coding your future](https://www.cdyf.me), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/),  [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [working with local schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [Wikipedia editing](#wikipedia), and [live music](#tuningcomplete). 🎸
+* Developing *Coding Your Future*: a guidebook (and course) for students at [cdyf.me](https://www.cdyf.me)
+* Training better software engineers in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
+* Updating students on opportunities with the weekly Wednesday waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)
+* Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
+* Supporting local schools teaching computing by [coding their future](http://www.cs.man.ac.uk/~hulld/coding-their-future.html)
+* Improving students communication skills with [Wikipedia editing & training](#wikipedia)
+* Growing and building the teaching computing community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/)
 
-If you are an [employer](http://www.cs.man.ac.uk/~hulld/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html). During term time, we edit and highlight some of the best opportunities for students in a weekly newsletter known as the Wednesday Waggle [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) which goes out to over 1000 undergraduate and postgraduates in Computer Science. 🐝
+Our elective industrial experience program has [up to 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. If you are an [employer](http://www.cs.man.ac.uk/~hulld/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](http://www.cs.man.ac.uk/~hulld/contact.html). 🐝
 
 ## Full stack teaching  {-}
 Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary & secondary school children ([K--12](https://en.wikipedia.org/wiki/K%E2%80%9312)), undergraduates & postgraduates. In 2011, I completed a [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) at the [University of Bath](https://www.bath.ac.uk/) and worked as a high school science teacher in co-educational [non-selective state-funded schools](https://en.wikipedia.org/wiki/State-funded_schools_(England)) in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have been fortunate enough to teach in India, Japan and America too. 🇬🇧🇮🇳🇯🇵🇺🇸
@@ -47,4 +42,4 @@ Born in [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset) and raise
 This website^[last updated `r format(Sys.time(), '%d %B, %Y')`] is built using [bookdown](https://bookdown.org) with [R markdown](https://rmarkdown.rstudio.com/), the [R language](https://en.wikipedia.org/wiki/R_(programming_language)), [gitbook](https://www.gitbook.com), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [knitr](https://en.wikipedia.org/wiki/Knitr), [LaTeX](https://en.wikipedia.org/wiki/LaTeX), [Pandoc](https://pandoc.org/), [RStudio](https://rstudio.com/) and TLC. Thanks to [Yihui Xie](https://yihui.org) and his collaborators for the handy tools and excellent documentation. The [source is available on github](https://github.com/dullhunk/hulled) and the documentation in *[Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)*. If you're viewing this page on an iPhone or iPad, there is [known bug with the menu bar at the top of this page](https://github.com/rstudio/bookdown/issues/60) which means the menu might not display properly. These pages are also available [in one single pdf file](http://www.cs.man.ac.uk/~hulld/duncan-hull.pdf) and [and an ebook](http://www.cs.man.ac.uk/~hulld/duncan-hull.epub).
 
 ## Get a life!  {-}
-When I get the time I like to [sing baritone](https://en.wikipedia.org/wiki/Baritone), practice my [embarrassing dad dance](#tuningcomplete) moves, [look after bees](http://beelife.cs.manchester.ac.uk/) and butcher the greek language, preferably on a beach in Greece. Άντε γειά! 🏖️🇬🇷
+When I get the time I like to [sing baritone](https://en.wikipedia.org/wiki/Baritone) with [Tuning Complete](#tuningcomplete), practice my [embarrassing dad dance](#tuningcomplete) moves, [look after bees](http://beelife.cs.manchester.ac.uk/) and butcher the greek language, preferably on a beach in Greece. Άντε γειά! 🏖️🇬🇷
