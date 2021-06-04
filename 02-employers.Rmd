@@ -63,7 +63,7 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters students in Manchester each week. If you have vacancies or events you would like our students to know about, [get in touch with us](#contact) or [contact the careers service](http://www.careers.manchester.ac.uk/aboutus/contact/).
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can post them for free at [careerconnect.manchester.ac.uk/](https://careerconnect.manchester.ac.uk/), [let me know when they are live in the system](#contact) I can highlight them to the weekly newsletter.
 
 ## Join the community
 

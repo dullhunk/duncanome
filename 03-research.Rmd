@@ -98,4 +98,4 @@ According to Google scholar, my most cited papers are on:
 3. A paper on modelling human metabolism, published in [_Nature Biotechnology_](https://en.wikipedia.org/wiki/Nature_Biotechnology)  [@Thiele2013]
 4. A review of tools for managing large bibliographies, published in [_PLOS Computational Biology_](https://en.wikipedia.org/wiki/PLOS_Computational_Biology) [@defrosting]  
 
-The first paper for which I was formally acknowledged was on simulated environmental change in the sub-arctic published in [_New Phytologist_](https://en.wikipedia.org/wiki/New_Phytologist) [@subarctic]. I was a humble field assistant, not a co-author, one of the *absolut* best summer jobs I've ever had!
+The first paper for which I was formally acknowledged was on simulated environmental change in the subarctic published in [_New Phytologist_](https://en.wikipedia.org/wiki/New_Phytologist) [@subarctic]. I was a humble field assistant, not a co-author, one of the *absolut* best summer jobs I've ever had!

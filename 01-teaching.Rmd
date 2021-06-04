@@ -9,7 +9,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 
 ## All years: Debug your future {#allyears}
 
-If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging.html) [@debugyourfuture] and [reading their future](https://www.cdyf.me/sampling.html) [@readingtheirfuture], especially if you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
+If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging.html) [@debugyourfuture] and [reviewing their future](https://www.cdyf.me/reviewing.html) [@readingtheirfuture], especially if you haven't written a CV (two pages), résumé (one page) or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
 
 * Drop-in to my weekly one-to-one CV clinics for Computer Science students online during term-time during my open office hours: every Friday from 1pm to 2pm
 * Get feedback on your CV from as many other people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_law)" [@Raymond1999]
