@@ -61,6 +61,8 @@ If you would like to co-supervise a project student in collaboration with an aca
 
 For Bachelors and Masters projects, you can contact academic members of staff directly, or speak to [Tim Morris](https://www.research.manchester.ac.uk/portal/tim.morris.html) (final year project lead) or [Caroline Jay](https://www.research.manchester.ac.uk/portal/caroline.jay.html), who leads our postgraduate taught (Masters) courses.
 
+<!-- give an example project template -->
+
 ## The Wednesday Waggle
 
 During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can post them for free at [careerconnect.manchester.ac.uk/](https://careerconnect.manchester.ac.uk/), [let me know when they are live in the system](#contact) I can highlight them to the weekly newsletter.
