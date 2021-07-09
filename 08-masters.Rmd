@@ -9,7 +9,7 @@ Computers have been with us for a while, but let's start in 2003: Figure \@ref(f
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
 ```
-(ref:captionmsc) The class of 2003. Most of these people have moved on, although some stuck around to do research including [Matthew Horridge](https://web.stanford.edu/~horridge/), Michael Parkin, Karim Nashar and myself (the one in the back row standing highest)
+(ref:captionmsc) The class of 2003. Most of these people have moved on, although some stuck around to do research including [Matthew Horridge](https://web.stanford.edu/~horridge/), Michael Parkin, Karim Nashar and myself (the one in the back row standing highest on the left hand side)
 
 Thirty years earlier, before most of the people in the above picture were born, there was the...
 
