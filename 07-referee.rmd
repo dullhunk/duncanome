@@ -8,7 +8,7 @@ As employability tutor, I get asked to write *lots* references for students appl
 ```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
 knitr::include_graphics("images/referee.jpeg")
 ```
-(ref:captionreferee) Not *that* kind of [referee](https://en.wikipedia.org/wiki/Referee), but a referee does provide facts and independent opinions about you. Whoever your referee is, if you don't ask their permission beforehand, you may receive a (virtual) [penalty card](https://en.wikipedia.org/wiki/Penalty_card) from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons [w.wiki/3dqE](https://w.wiki/3dqE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+(ref:captionreferee) I'm not *that* kind of [referee](https://en.wikipedia.org/wiki/Referee), but I *can* provide facts and opinions about you to employers subject to conditions outlined on this page. Whoever your referee is, make sure you ask their permission beforehand, you may receive a (virtual) [penalty card](https://en.wikipedia.org/wiki/Penalty_card) from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons [w.wiki/3dqE](https://w.wiki/3dqE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 
