@@ -1,9 +1,14 @@
 
 # (APPENDIX) Appendix {-}
 
-# Will you write a reference for me? {#referee}
+# Will you be my referee? {#referee}
 
-As employability tutor, I get asked to write *lots* references for students applying for jobs and further study. I'm happy to do this if you've been personal tutee or I've worked with you closely outside of ordinary teaching. However, it's impossible to for me to say YES to every request for a reference. For students I haven't worked with, it is difficult to do, because all I can confirm is facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+As employability tutor, I get asked to write *lots* references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). I'm happy to do this if you've been personal tutee or I've worked with you closely outside of ordinary teaching. However, it's impossible to for me to say YES to every request for a reference. For students I haven't worked with, it is difficult to do, because all I can confirm is facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+
+```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
+knitr::include_graphics("images/referee.jpeg")
+```
+(ref:captionreferee) Not *that* kind of [referee](https://en.wikipedia.org/wiki/Referee), but a referee does provide facts and independent opinions about you. Whoever your referee is, if you don't ask their permission beforehand, you may receive a (virtual) [penalty card](https://en.wikipedia.org/wiki/Penalty_card) from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons [w.wiki/3dqE](https://w.wiki/3dqE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 

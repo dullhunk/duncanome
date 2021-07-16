@@ -17,10 +17,10 @@ Thirty years earlier, before most of the people in the above picture were born, 
 
 Figure \@ref(fig:mu5-fig) shows Manchester staff and students circa 1970. Most socially well-adjusted people will have little interest in the [MU5 computer](https://en.wikipedia.org/wiki/Manchester_computers#MU5) that the people in the picture are using. However, a wider audience may be interested in the fantastic *[Saturday Night Fever](https://en.wikipedia.org/wiki/Saturday_Night_Fever)* boots that the woman on the left of the picture (arrowed) is wearing.
 
-```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "(ref:captionmu5)"}
+```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmu5)"}
 knitr::include_graphics("images/classof1970something2.jpeg")
 ```
-(ref:captionmu5) “You know Jim once we've debugged this code, we're straight down the discotheque to dance the night away with the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.”
+(ref:captionmu5) “You know Jim once we've debugged this code, we're straight down the discotheque to dance the night away with the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.” See original unadulterated image in [The Bulletin of the Computer Conservation Society, number 45, 2008: Where did it all go? by Simon Lavington](http://www.cs.man.ac.uk/CCS/res/res45.htm#g)
 
 Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. But if [Tom](https://en.wikipedia.org/wiki/Tom_Kilburn) and [Freddie](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) they'd probably say:
 
@@ -34,7 +34,7 @@ They may have had to use very primitive memory, but at least Tom and Freddie did
 ## Class of 1948 {#y1948}
 Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in 1948 with the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby).
 
-```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "50%", fig.cap = "(ref:captiontomfred)"}
+```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
 (ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the Manchester baby circa 1948.
@@ -74,8 +74,11 @@ What will classes in the year 2048 be studying? Well in year 2048, Computer Scie
 * As [George Johnson](https://en.wikipedia.org/wiki/George_Johnson_%28writer%29) said [All Science Is Computer Science](https://www.nytimes.com/2001/03/25/weekinreview/the-world-in-silica-fertilization-all-science-is-computer-science.html) or
 * As [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) said [Computation is Transforming the Sciences](https://web.archive.org/web/20080221053710/https://www.microsoft.com/presspass/exec/billg/speeches/2005/11-15SuperComputing05.aspx)
 
-Either way, what is known as [Computer Science](https://en.wikipedia.org/wiki/Computer_science) today will have become so fundamental to many other areas of research, the discipline will naturally become more closely integrated with them. Take Manchester as an example, the hard-sums people will join the shiny new mathematics department, the architecture geeks and hardware nerds will join the engineering department, the Computational Biologists will go and join Life Sciences or Medicine, and so on. Of course, I could be very wrong here! As [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) said:
+Either way, what is known as [Computer Science](https://en.wikipedia.org/wiki/Computer_science) today will have become so fundamental to many other areas of research, the discipline will naturally become more closely integrated with them. Take Manchester as an example, the hard-sums people will join the shiny new mathematics department, the architecture geeks and hardware nerds will join the engineering department, the Computational Biologists will go and join Life Sciences or Medicine, and so on. Of course, I could be very wrong here! As [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) in figure \@ref(fig:bohr-fig) might have once said:
 
-> “Predictions are hard to make, especially about the future.”
+```{r bohr-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbohr)"}
+knitr::include_graphics("images/niels-bohr-prediction.jpeg")
+```
+(ref:captionbohr) “Prediction is very difficult, especially if it's about the future”. Often attributed to Physicist [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr), it is disputed if he *actually* said this, see [wikiquote.org/wiki/Niels_Bohr#Disputed](https://en.wikiquote.org/wiki/Niels_Bohr#Disputed). Public domain image of Niels Bohr by the Nobel foundation on Wikimedia Commons [w.wiki/3dqV](https://w.wiki/3dqV)
 
-Which is a good point to close this essay on.^[Originally written in about 2004, too much mansplaining updated from [https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html](https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html)]
+Prediction is very difficult, especially if it's about the future. Which is a good point to close this essay on.^[Originally written in 2004, for some reason all my quotes were from men. Updated and refreshed in 2021 from the original at [https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html](https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html)]

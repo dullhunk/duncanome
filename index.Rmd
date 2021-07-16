@@ -25,7 +25,7 @@ Hello and welcome to the [Department of Computer Science](https://www.cs.manches
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
 * Teaching engineers to [make better software](https://studentnet.cs.manchester.ac.uk/ugt/COMP23311/syllabus/) in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Updating students weekly on opportunities with the Wednesday waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)
-* Improving students written communication skills activities like [CV hacking](https://www.cdyf.me/hacking.html) and [Wikipedia editing & training](#wikipedia)
+* Improving students written communication skills by enabling them to [write their futures](https://www.cdyf.me/writing.html)
 * Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
 * Supporting local schools teaching computing by [coding their future](http://www.cs.man.ac.uk/~hulld/coding-their-future.html)
 * Growing and building the teaching computing community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/)
