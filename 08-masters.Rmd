@@ -1,6 +1,6 @@
 # Masters of Science 1948 to 2048 {#mastersofscience}
 
-A journey through the time, stopping at the Computer Science classes of 1948, 1970, 2003 and 2048 in Manchester, with pictures, commentary and dad jokes.
+A journey through time, stopping at the Computer Science classes of 1948, 1970, 2003 and 2048 in Manchester, with pictures, commentary and dad jokes.
 
 ## The Class of 1948, 1970, 2003 and 2048 {#y2003}  
 
@@ -39,7 +39,7 @@ knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
 (ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the Manchester baby circa 1948.
 
-Armed with some sticky-tape, several empty fairy-liquid bottles, lots of patience and the help of [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the [world's first computer](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml)? Well, it depends on your definition: It is surprisingly [hard to define what counts as a computer and who built the first one](https://web.archive.org/web/20040606201305/http://www.dai.ed.ac.uk/homes/cam/fcomp.shtml). After Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using: desktop, tablet, phone, SatNav, car^[computers with wheels], plane^[computers with wings], washing machine, toaster, etc is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
+Armed with some sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea the help of [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the [world's first computer](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml)? Well, it depends on your definition: It is surprisingly [hard to define what counts as a computer and who built the first one](https://web.archive.org/web/20040606201305/http://www.dai.ed.ac.uk/homes/cam/fcomp.shtml). After Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using: desktop, tablet, phone, satnav, car (a computer with wheels), plane (a computer with wings), washing machine, games console, toaster, etc is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
 
 ## Numbers speak louder than words {#louder}
 
