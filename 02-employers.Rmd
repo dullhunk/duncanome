@@ -7,31 +7,37 @@ knitr::include_graphics("images/industry-club-wide.png")
 
 ## Recruiting students {#recruiting}
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* AA including A* in mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A*A* A including A* in mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
 
 
-Institute | UCAS entry tariff  | CS Students per year
+Institute | UCAS entry tariff  
 ----------- | ----------- | --------
-[University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A | ~100
-[University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020)| A* A* A | ~150
-[Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A* A| ~200
-[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A A | ~250
-[University of Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A | ~50
+[University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A
+[University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020)| A* A* A
+[Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A* A
+[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A
+[University of Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A
 
-A demographic breakdown of our students in Computer Science is show in Figure \@ref(fig:pie-fig). If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:  
+<!--
+| CS Students per year
+| ~100
+| ~150
+| ~200
+| ~250
+| ~50-->
+
+If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:  
 
 * staff in those departments and/or  
 * the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)  
 
-```{r pie-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Where our undergraduate students come from: As of October 2019 we have 877 undergraduate Computer Science students divided between UK/EU (shown in green), EU not UK (shown in orange) and non-EU overseas (shown in yellow)"}
-knitr::include_graphics("images/ugstudentspiechart.png")
-```
+<!--UPDATE THIS: A demographic breakdown of our students in Computer Science is show in Figure \@ref(fig:pie-fig)-->
 
 ## Careers fairs {#careersfairs}
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. We give priority to employers that offer internships, placements and graduate roles and have contributed to our community through the activities described on this page. The central careers service also organises:  
 
-* the big careers fair in [Manchester Central](https://www.manchestercentral.co.uk/) every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
-* a smaller careers fair in Fallowfield [Armitage centre](http://www.sport.manchester.ac.uk/facilities/armitage/) in May
+* the big careers fair every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
+* a smaller careers fair in May
 * hundreds of other employer events on campus during term time [@highfliers2020]
 
 ## Drop-in sessions {#dropins}
@@ -65,7 +71,7 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the [Wednesday Waggle](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝. This goes out to around ~1000 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can post them for free at [careerconnect.manchester.ac.uk/](https://careerconnect.manchester.ac.uk/), [let me know when they are live in the system](#contact) I can highlight them to the weekly newsletter.
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1000 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can post them for free at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/),  and let me know when they are live in the system, then I can highlight them to the weekly newsletter.
 
 ## Join the community
 
@@ -109,6 +115,7 @@ year placement started | No. of Computer Science undergraduate students on place
 2018 | 97  
 2019 | 110  
 2020 | 88
+2021 | 77
 
 In 2019 our students have secured year long placements at Accenture, Agilent Technologies, Amazon (2), AND Digital, Apadmi (5), Arggo, ARM (5), Autodesk, AVL Powertrain, BAML, the BBC (2), Biorelate, BJSS, Bloomberg (2), BMW Mini, Bsquare Controls (2), BT, Cantarus (3), Celtra, CERN (3), Codethink, d3t, Elysian Systems, Feral Interactive (2), Fidelity, FiveAI, HMRC, IBM (2), Imagination Technologies, Intel (4), ISA Software (2), JP Morgan (4), Keysight Technologies, KPMG (1), Matillion (4), McAfee (2), Mentor Graphics (4), Monoprix, Morgan Stanley (2), NCC Group, Nokia, Nomura, Novacoast (2), Ocado (3), PA Consulting, PwC, Schlumberger, ServiceNow, Siemens (3), Soda Software, SteamaCo, The Hut Group (10),
 The Start Up Factory (2), Uber, Visa and Vodafone.

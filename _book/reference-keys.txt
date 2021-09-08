@@ -1,11 +1,9 @@
 fig:unnamed-chunk-1
 fig:unnamed-chunk-2
-fig:pie-fig
 fig:unnamed-chunk-4
 fig:unnamed-chunk-5
 fig:beatles-fig
 fig:mrskilburn-fig
-fig:vertical-fig
 fig:unnamed-chunk-6
 fig:unnamed-chunk-7
 fig:unnamed-chunk-8
@@ -39,15 +37,10 @@ employability
 research
 sigcse
 industrial-mentoring
-vt
 codeclub
 wikipedia
 tuningcomplete
 publications
-vertical-tutoring
-fullstack
-goodfor
-howlong
 coding-their-future
 guidance-for-teachers
 what-the-university-is-offering-your-school

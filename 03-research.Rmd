@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can improve learning and student experience using techniques like [coding your future](https://www.cdyf.me), [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [vertical tutoring](http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html), [editing Wikipedia](#wikipedia) and more.
+My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can improve learning and student experience using techniques like [coding your future](https://www.cdyf.me), [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [editing Wikipedia](#wikipedia) and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='(ref:captionprotest)'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -18,8 +18,8 @@ Since we started the [industrial mentoring scheme for software engineers](https:
 
 Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don’t *need* to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the codebase (https://stendhalgame.org/) we happen to be using. Mentors are typically software engineers, both junior and senior.
 
-## Vertical tutoring {#vt}
-We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring](http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html) for details. [@vtbernard; @druryvert]
+<!--## Vertical tutoring {#vt}
+We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring](http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html) for details. [@vtbernard; @druryvert]-->
 
 ## Coderdojo & Code Club  {#codeclub}
 I'm a volunteer at [coderdojo.com](https://coderdojo.com/) [@coderdojo]. Coder [dojos](https://en.wikipedia.org/wiki/Dojo) are local community engineering clubs for young people; with several other volunteers I help out at [CoderDojo North West](https://twitter.com/coderdojonw). We meet once a month to help young people broaden their digital and computational horizons.
