@@ -27,3 +27,6 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: true
 bookdown::epub_book: default
+
+# Pagination is horrible but good for editing sometimes
+bookdown::word_document2: default

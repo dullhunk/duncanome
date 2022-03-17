@@ -4,7 +4,7 @@ A journey through time, stopping at the Computer Science classes of 1948, 1970, 
 
 ## The Class of 1948, 1970, 2003 and 2048 {#y2003}  
 
-Computers have been with us for a while, but let's start in 2003: Figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching.
+Let's start our journey in 2003: Figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching.
 
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
@@ -32,7 +32,7 @@ Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) ha
 They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano)! Moving on swiftly, we go back a little further in time, twenty years earlier...
 
 ## Class of 1948 {#y1948}
-Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in 1948 with the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby).
+We have to stop in 1948 because figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby), which first ran on 21st June 1948.
 
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
@@ -66,6 +66,8 @@ The *processor from year 2000* referred to in table \@ref(tab:cputable) is the [
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
 ## Class of 2048? {#y2048}
+Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^). 2048 is also the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits! [@kilburnphd]
+
 What will classes in the year 2048 be studying? Well in year 2048, Computer Science won't exist anymore either because:
 
 * As [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) said [Computer Science isn't actually a Science](https://web.archive.org/web/20071112020412/http://www.cs.man.ac.uk/~hulld/q2007-07-09.html) or
@@ -74,7 +76,7 @@ What will classes in the year 2048 be studying? Well in year 2048, Computer Scie
 * As [George Johnson](https://en.wikipedia.org/wiki/George_Johnson_%28writer%29) said [All Science Is Computer Science](https://www.nytimes.com/2001/03/25/weekinreview/the-world-in-silica-fertilization-all-science-is-computer-science.html) or
 * As [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) said [Computation is Transforming the Sciences](https://web.archive.org/web/20080221053710/https://www.microsoft.com/presspass/exec/billg/speeches/2005/11-15SuperComputing05.aspx)
 
-Either way, what is known as [Computer Science](https://en.wikipedia.org/wiki/Computer_science) today will have become so fundamental to many other areas of research, the discipline will naturally become more closely integrated with them. Take Manchester as an example, the hard-sums people will join the shiny new mathematics department, the architecture geeks and hardware nerds will join the engineering department, the Computational Biologists will go and join Life Sciences or Medicine, and so on. Of course, I could be very wrong here! As [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) in figure \@ref(fig:bohr-fig) might have once said:
+Either way, what is known as [Computer Science](https://en.wikipedia.org/wiki/Computer_science) today will have become so fundamental to many other areas of research, the discipline will naturally become more closely integrated with them. Take Manchester as an example, the hard-sums people will join the mathematics department, the architecture geeks and hardware nerds will join the engineering department, the Computational Biologists will go and join Life Sciences or Medicine, and so on. Of course, I could be very wrong here! As [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) in figure \@ref(fig:bohr-fig) might have once said:
 
 ```{r bohr-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionbohr)"}
 knitr::include_graphics("images/niels-bohr-prediction.jpeg")

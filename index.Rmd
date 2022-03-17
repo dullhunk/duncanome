@@ -1,5 +1,5 @@
 ---
-title: "Duncanome"
+title: "Hull's Duncanome"
 author: Duncan Hull
 site: bookdown::bookdown_site
 documentclass: book
@@ -7,7 +7,7 @@ bibliography: [/Users/duncan/Documents/GitHub/cdyf/hulld.bib]
 biblio-style: apalike
 link-citations: yes
 fontsize: 12pt
-github-repo: dullhunk/hulled
+github-repo: dullhunk/duncanome
 twitter-handle: dullhunk
 always_allow_html: true
 description: "Dr. Duncan Hull, Lecturer (Assistant Professor) in the Department of Computer Science at the University of Manchester"
@@ -17,11 +17,11 @@ url: 'https\://www.cs.man.ac.uk/~hulld'
 
 # Hello! {-}
 
-```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "50%", }
-knitr::include_graphics("images/duncan hull.jpg")
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "80%", }
+knitr::include_graphics("images/duncan_hull.png")
 ```
 
-Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [indusrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) by:
+Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](http://www.cs.man.ac.uk/~hulld/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [industrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/). I'm interested in methods that can [improve teaching, learning and the student experience](http://www.cs.man.ac.uk/~hulld/research.html) by:
 
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
 * Teaching engineers to [make better software](https://software-eng.netlify.app/) in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
@@ -36,11 +36,11 @@ Our elective industrial experience program has [up to 100](#employability) stude
 ## Full stack teaching  {-}
 Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary & secondary school children ([K--12](https://en.wikipedia.org/wiki/K%E2%80%9312)), undergraduates & postgraduates. In 2011, I completed a [Postgraduate Certificate in Education](https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education) (PGCE) at the [University of Bath](https://www.bath.ac.uk/) and worked as a high school science teacher in co-educational [non-selective state schools](https://www.gov.uk/types-of-school) in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have been fortunate enough to teach in India, Japan and America too. 🇬🇧🇮🇳🇯🇵🇺🇸
 
-## What's the story, Jackanory? {-}
-Born in [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset) and raised using a [secret West Country recipe](https://en.wikipedia.org/wiki/West_Country), [my story](https://uk.linkedin.com/in/duncanhull) is a mixture of Natural Sciences ([Plant Sciences, BSc](https://speakerdeck.com/dullhunk/why-study-plants)), Computer Science ([MSc](mastersofscience.html) & [PhD](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.497578)) and software engineering. I’ve worked as a consultant and software developer for various organisations including [BBC Monitoring](https://en.wikipedia.org/wiki/BBC_Monitoring), the [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) and the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS). I was part of the [Apache Taverna](https://en.wikipedia.org/wiki/Apache_Taverna) and [myGrid](https://en.wikipedia.org/wiki/MyGrid) projects before completing a [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) at the [Manchester Institute of Biotechnology](https://www.mib.manchester.ac.uk/) (MIB) on the [Refine project](http://www.nactem.ac.uk/pathtext/). This was followed by a short stint as a software engineer of [Chemical Entities of Biological Interest](https://en.wikipedia.org/wiki/ChEBI) (ChEBI) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI) in Cambridge, UK. 🧬🇪🇺
+## What's the story? {-}
+What's the story, Jackanory? Born in [Bath, Somerset](https://en.wikipedia.org/wiki/Bath,_Somerset) and raised using a [secret West Country recipe](https://en.wikipedia.org/wiki/West_Country), [my story](https://uk.linkedin.com/in/duncanhull) is a mixture of Natural Sciences ([Plant Sciences, BSc](https://speakerdeck.com/dullhunk/why-study-plants)), Computer Science ([MSc](mastersofscience.html) & [PhD](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.497578)) and software engineering. I’ve worked as a consultant and software developer for various organisations including [BBC Monitoring](https://en.wikipedia.org/wiki/BBC_Monitoring), the [Ford Motor Company](https://en.wikipedia.org/wiki/Ford_Motor_Company) and the [National Health Service](https://en.wikipedia.org/wiki/National_Health_Service) (NHS). I was part of the [Apache Taverna](https://en.wikipedia.org/wiki/Apache_Taverna) and [myGrid](https://en.wikipedia.org/wiki/MyGrid) projects before completing a [postdoc](https://en.wikipedia.org/wiki/Postdoctoral_researcher) at the [Manchester Institute of Biotechnology](https://www.mib.manchester.ac.uk/) (MIB) on the [Refine project](http://www.nactem.ac.uk/pathtext/). This was followed by a short stint as a software engineer of [Chemical Entities of Biological Interest](https://en.wikipedia.org/wiki/ChEBI) (ChEBI) at the [European Bioinformatics Institute](https://en.wikipedia.org/wiki/European_Bioinformatics_Institute) (EBI) in Cambridge, UK. 🧬🇪🇺
 
 ## Toolbox  {-}
-Last updated on `r format(Sys.time(), '%d %B, %Y')`, this website was built using [bookdown](https://bookdown.org) with [R markdown](https://rmarkdown.rstudio.com/), the [R language](https://en.wikipedia.org/wiki/R_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [knitr](https://en.wikipedia.org/wiki/Knitr), [LaTeX](https://en.wikipedia.org/wiki/LaTeX), [Pandoc](https://pandoc.org/), [RStudio](https://rstudio.com/) and TLC. The [source is available on github](https://github.com/dullhunk/hulled) and the documentation in *[Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)*. These pages are also available [in one single pdf file](http://www.cs.man.ac.uk/~hulld/duncan-hull.pdf) and [and an ebook](http://www.cs.man.ac.uk/~hulld/duncan-hull.epub). Thanks to [Yihui Xie](https://en.wikipedia.org/wiki/Yihui_Xie) and his collaborators for the handy tools and excellent documentation. 🙏
+Last updated on `r format(Sys.time(), '%d %B, %Y')`, this website was built using [bookdown](https://bookdown.org) with [R markdown](https://rmarkdown.rstudio.com/), the [R language](https://en.wikipedia.org/wiki/R_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [knitr](https://en.wikipedia.org/wiki/Knitr), [LaTeX](https://latex4year1.netlify.app), [Pandoc](https://pandoc.org/), [RStudio](https://rstudio.com/) and TLC. The [source is available on github](https://github.com/dullhunk/duncanome) and the documentation in *[Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)*. These pages are also available [in one single pdf file](http://www.cs.man.ac.uk/~hulld/duncan-hull.pdf) and [and an ebook](http://www.cs.man.ac.uk/~hulld/duncan-hull.epub). Thanks to [Yihui Xie](https://en.wikipedia.org/wiki/Yihui_Xie) and his collaborators for the handy tools and excellent documentation. 🙏
 
 ## Get a life!  {-}
 When I get the time I like to [sing baritone](https://en.wikipedia.org/wiki/Baritone) with [Tuning Complete](#tuningcomplete), [look after bees](http://beelife.cs.manchester.ac.uk/) and butcher the greek language, preferably on a beach in Greece. Άντε γειά! 🏖️🇬🇷
