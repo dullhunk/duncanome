@@ -18,7 +18,7 @@ Thirty years earlier, before most of the people in the above picture were born, 
 Figure \@ref(fig:mu5-fig) shows Manchester staff and students circa 1970. Most socially well-adjusted people will have little interest in the [MU5 computer](https://en.wikipedia.org/wiki/Manchester_computers#MU5) that the people in the picture are using. However, a wider audience may be interested in the fantastic *[Saturday Night Fever](https://en.wikipedia.org/wiki/Saturday_Night_Fever)* boots that the woman on the left of the picture (arrowed) is wearing.
 
 ```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmu5)"}
-knitr::include_graphics("images/classof1970something2.jpeg")
+knitr::include_graphics("images/classof1970something2.png")
 ```
 (ref:captionmu5) “You know Jim once we've debugged this code, we're straight down the discotheque to dance the night away with the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.” See original unadulterated image in [The Bulletin of the Computer Conservation Society, number 45, 2008: Where did it all go? by Simon Lavington](http://www.cs.man.ac.uk/CCS/res/res45.htm#g)
 
@@ -66,7 +66,7 @@ The *processor from year 2000* referred to in table \@ref(tab:cputable) is the [
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
 ## Class of 2048? {#y2048}
-Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^). 2048 is also the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits! [@kilburnphd]
+Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits! [@kilburnphd]
 
 What will classes in the year 2048 be studying? Well in year 2048, Computer Science won't exist anymore either because:
 

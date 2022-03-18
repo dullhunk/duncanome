@@ -17,7 +17,7 @@ url: 'https\://www.cs.man.ac.uk/~hulld'
 
 # Hello! {-}
 
-```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "80%", }
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", }
 knitr::include_graphics("images/duncan_hull.png")
 ```
 
