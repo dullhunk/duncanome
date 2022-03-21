@@ -1,6 +1,6 @@
 # Computing 1948 to 2048 {#mastersofscience}
 
-A journey through time, stopping at the Computer Science classes of 1948, 1978, 2003 and 2048 in Manchester, with pictures, dad jokes, commentary and history. [@lavington]
+A journey through time, stopping at the Computer Science classes of 2003, 1978, 1948 and 2048 in Manchester, with pictures, dad jokes, commentary and history. [@lavington]
 
 ## The Class of 2003 {#y2003}  
 
@@ -41,7 +41,7 @@ knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 
 Armed with some sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea the help of [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the world's first computer? Well, it depends on your definition: It is surprisingly [hard to define what counts as a computer and who built the first one](https://web.archive.org/web/20040606201305/http://www.dai.ed.ac.uk/homes/cam/fcomp.shtml). After Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using: desktop, tablet, phone, satnav, car (a computer with wheels), plane (a computer with wings), washing machine, games console, toaster, etc is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
 
-## Numbers speak louder than words {#louder}
+### Numbers speak louder than words {#louder}
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table  \@ref(tab:cputable). It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
