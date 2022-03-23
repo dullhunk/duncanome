@@ -1,6 +1,6 @@
 # Research {#research}
 
-My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can improve learning and student experience using techniques like [coding your future](https://www.cdyf.me), [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](http://www.cs.man.ac.uk/~hulld/coding-their-future.html), [editing Wikipedia](#wikipedia) and more.
+My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can improve learning and student experience using techniques like [coding your future](https://www.cdyf.me), [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html), [editing Wikipedia](#wikipedia) and more.
 
 ```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='(ref:captionprotest)'}
 knitr::include_graphics("images/wikipedian_protester.png")
@@ -19,7 +19,7 @@ Since we started the [industrial mentoring scheme for software engineers](https:
 Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don’t *need* to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the codebase (https://stendhalgame.org/) we happen to be using. Mentors are typically software engineers, both junior and senior.
 
 <!--## Vertical tutoring {#vt}
-We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring](http://www.cs.man.ac.uk/~hulld/vertical-tutoring.html) for details. [@vtbernard; @druryvert]-->
+We are currently piloting a vertical tutoring (VT) scheme, see [vertical tutoring](vertical-tutoring.html) for details. [@vtbernard; @druryvert]-->
 
 ## Coderdojo & Code Club  {#codeclub}
 I'm a volunteer at [coderdojo.com](https://coderdojo.com/) [@coderdojo]. Coder [dojos](https://en.wikipedia.org/wiki/Dojo) are local community engineering clubs for young people; with several other volunteers I help out at [CoderDojo North West](https://twitter.com/coderdojonw). We meet once a month to help young people broaden their digital and computational horizons.
@@ -41,7 +41,7 @@ As an experienced and long serving editor of Wikipedia since 2004, I organise an
 1. 2020-06-24 [Wikipedia: Women, War and Peace](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Women_in_War_and_Peace) run in collaboration with the [Imperial War Museums' War and Conflict Subject Specialist Network](https://www.iwm.org.uk/partnerships/subject-specialist-network), with support from the Arts Council England and Art Fund.
 1. 2020-02-26 [Wikimedia in Education UK Summit, Coventry University](https://wikiedusummit.coventry.domains) #wikiedu20
 1. 2019-11-22 [Training of Trainers (ToT) workshop, University of Glasgow](https://duncan.hull.name/2019/12/10/glasgow/)
-1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/learn-to-edit-wikipedia-thurs-17th-october-university-of-manchester-all-welcome/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
+1. 2019-10-19 [Learn to edit Wikipedia with Ada Lovelace](https://wiki-loves-scientists.org.uk/2019/10/09/ada/), [Sackville Street Building](https://en.wikipedia.org/wiki/Sackville_Street_Building), University of Manchester [@findingada2019]
 1. 2019-10-12 [Wikipedia Edit-a-Thon with Zebra Hub HQ](https://www.eventbrite.com/e/global-wikipedia-edit-a-thon-wikieditathon-2019-manchester-and-london-2019-zebra-hub-hq-the-tickets-48601581639), [Pankhurst Centre](https://en.wikipedia.org/wiki/Pankhurst_Centre), Manchester
 1. 2017-10-13 [Physiology Friday, Hodgkin Huxley House](https://wiki-loves-scientists.org.uk/2017/10/27/mirror-mirror-on-the-wall-who-is-the-most-viewed-of-them-all/), Farringdon, London [@goodbadugly]
 1. 2015-09-02 [First Wikipedia Science Conference #wikisci](https://wikimedia.org.uk/wiki/Wikipedia_Science_Conference), [Wellcome Collection](https://en.wikipedia.org/wiki/Wellcome_Collection), London, NW1 [@troubled; @Hodson2015]

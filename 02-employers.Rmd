@@ -1,5 +1,5 @@
 # Employers
-We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2020; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester; @manchattan]
+We work with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2021; @highfliers2020; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester; @manchattan]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Any employer recruiting our students is welcome to join our industry club, see details below"}
 knitr::include_graphics("images/industry-club-wide.png")
@@ -14,9 +14,9 @@ Institute | UCAS entry tariff
 ----------- | ----------- | --------
 [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A
 [University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020)| A* A* A
+[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A*
 [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A* A
-[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A
-[University of Oxford](http://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A
+[University of Oxford](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A
 
 <!--
 | CS Students per year
@@ -30,19 +30,19 @@ Institute | UCAS entry tariff
 If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:  
 
 * staff in those departments and/or  
-* the central careers service at [careers.manchester.ac.uk](http://www.careers.manchester.ac.uk/)  
+* the central careers service at [careers.manchester.ac.uk](https://www.careers.manchester.ac.uk/) and [employers.manchester.ac.uk](http://www.employers.manchester.ac.uk/)
 
 <!--UPDATE THIS: A demographic breakdown of our students in Computer Science is show in Figure fig:pie-fig-->
 
 ## Careers fairs {#careersfairs}
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. We give priority to employers that offer internships, placements and graduate roles and have contributed to our community through the activities described on this page. The central careers service also organises:  
 
-* the big careers fair every autumn, see the [Big Careers Fair](http://www.careers.manchester.ac.uk/events/bigcareersfair/)
+* the big careers fair every autumn, see the [events](https://www.careers.manchester.ac.uk/events/)
 * a smaller careers fair in May
 * hundreds of other employer events on campus during term time [@highfliers2020]
 
 ## Drop-in sessions {#dropins}
-If you aren't willing or able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau](#Contact).
+If you aren't willing or able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau](#office).
 
 ## Industry Club {#industryclub}
 
@@ -73,13 +73,13 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](http://dullhunk.github.io/where-can-I-look-for-jobs.html) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can post them for free at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding.html#studentjobs). It can help students find your needle in the jobs haystack.
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](https://www.cdyf.me/finding.html) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding.html#studentjobs). It can help students find your needle in the jobs haystack.
 
 ## Join the community
 
-There is a thriving community of engineers and [entrepreneurs](https://www.manchesterentrepreneurs.co.uk/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back. As an employer, you may also be interested in events run by:
+There is a thriving community of engineers and [entrepreneurs](https://www.accelerateme.co/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back. As an employer, you may also be interested in events run by:
 
-* The [Institute of Student Employers](https://ise.org.uk) (ISE)
+* The [Institute of Student Employers](https://ise.org.uk/) (ISE)
 * The [Association of Graduate Careers Advisory Services](https://www.agcas.org.uk) (AGCAS)
 * The [Work Based and Placement Learning Association](https://www.asetonline.org) (ASET)
 
@@ -87,12 +87,12 @@ If you're a startup new to employment, you may find the guide at [gov.uk/employ-
 
 ## Buzzing!
 
-At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2020] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
+At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2021] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 
-(ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2020]
+(ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2021]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='(ref:captionhighfliers)'}
-knitr::include_graphics("images/high-fliers-table.png")
+knitr::include_graphics("images/high-fliers-table-2021.png")
 ```
 
 ## Employability
