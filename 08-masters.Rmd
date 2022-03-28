@@ -1,10 +1,10 @@
-# Computing 1948 to 2048 {#mastersofscience}
+# Computing from 1948 to 2048 {#mastersofscience}
 
-A journey through time, stopping at the Computer Science classes of 2003, 1978, 1948 and 2048 in Manchester, with pictures, dad jokes, commentary and history. [@lavington]
+One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with pictures, dad jokes and history. [@lavington]
 
 ## The class of 2003 {#y2003}  
 
-Let's start our journey in 2003: Figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. More than 10,000 students have graduated with some kind of degree in Computing (BSc, MSc or PhD) since the department [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965.
+Let's start our journey in 2003: Figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. More than 10,000 students have graduated with some kind of degree in Computing (BSc, MSc or PhD) since this particular Computer Science department [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
 
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
@@ -15,12 +15,12 @@ Thirty years earlier, before most of the people in the above picture were born, 
 
 ## The class of 1978 {#y1978}
 
-Figure \@ref(fig:mu5-fig) shows Manchester staff (and students?) sometime between about 1972 and 1978. Most socially well-adjusted people will have little interest in the [MU5 computer](https://en.wikipedia.org/wiki/Manchester_computers#MU5) that the people in the picture are using. However, a wider audience may be interested in the fantastic *[Saturday Night Fever](https://en.wikipedia.org/wiki/Saturday_Night_Fever)* boots that the woman on the left of the picture (arrowed) is wearing.
+Figure \@ref(fig:mu5-fig) shows Manchester staff, and possibly some students, sometime between about 1972 and 1978. Most socially well-adjusted people will have little interest in the [MU5 computer](https://en.wikipedia.org/wiki/Manchester_computers#MU5) that the people in the picture are using. However, a wider audience may be interested in the suave and sophisticated seventies *[Saturday Night Fever](https://en.wikipedia.org/wiki/Saturday_Night_Fever)* dancing shoes that the woman on the left of the picture is wearing. [@nightfever]
 
 ```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmu5)"}
 knitr::include_graphics("images/classof1970something2.png")
 ```
-(ref:captionmu5) “You know Jim once we've debugged this code, we're straight down the discotheque to dance the night away with the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.” See original unadulterated image via Simon Lavington [@mu5]
+(ref:captionmu5) “You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away with the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.” See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
 
 Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. [@gosling] But if [Tom](https://en.wikipedia.org/wiki/Tom_Kilburn) and [Freddie](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) they'd probably say:
 
@@ -39,16 +39,29 @@ knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
 (ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the Manchester baby circa 1948.
 
-Armed with some sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the world's first computer? Well, it depends on your definition: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. After Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using: desktop, tablet, phone, satnav, car (a computer with wheels), plane (a computer with wings), washing machine, games console, toaster, etc is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
+Armed with some sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the world's first computer? Well, it depends on your definition: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
+
+* laptop / desktop
+* tablet/ phone
+* satnav
+* car (a computer with wheels)
+* plane (a computer with wings)
+* games console, wearable tech
+* household appliances, washing machine, doorbell etc
+* [smart card](https://en.wikipedia.org/wiki/Smart_card)
+
+
+
+... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
 
 ### Numbers speak louder than words {#louder}
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table  \@ref(tab:cputable). It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
-:  (\#tab:cputable) Advances in processor power 1948 to 2000. Thanks to Doug Edwards, Jim Garside and Steve Furber for the data.
+:  (\#tab:cputable) Advances in processor power 1948 to 2000, the *Baby in 1948* is the Manchester Baby. The *ARM in 2000* refers the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) taken from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). Thanks to Doug Edwards, Jim Garside and Steve Furber for the data.
 
 +--------------------------+------------------------------+-----------------------------+
-| Feature                  | Manchester Baby (1948)       | Processor from year 2000*   |
+|                          | Baby in 1948                 | ARM in 2000                 |
 +==========================+==============================+=============================+
 | Size                     |  Filled a medium sized room  | fills 7mm by 3mm of silicon |
 +--------------------------+------------------------------+-----------------------------+
@@ -58,10 +71,9 @@ What's interesting about the difference between 1948 and now are the changes in 
 | (per second)             |                              |                             |
 +--------------------------+------------------------------+-----------------------------+
 | Energy efficiency        | 5                            | 0.000 000 002               |
-| (Joules per instruction) |                              | e.g. 2,000,000,000 times more efficient than The Baby|
+| (Joules per instruction) |                              | (that's 2,000,000,000 times more efficient than The Baby!)|
 +--------------------------+------------------------------+-----------------------------+
 
-The *processor from year 2000* referred to in table \@ref(tab:cputable) is the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) and are the only thing I can remember from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). The rest was blood, sweat and tears.
 
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 

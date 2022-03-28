@@ -52,13 +52,17 @@ More information on past and future events like this can be found at:
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 ## Tuning complete {#tuningcomplete}
-Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test). As of 2020, our lineup includes the following artists:
+Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test). Our membership is fluid but our founding members were:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
-* [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): six string guitar and bass
+* [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): bass guitar.
+    + “All we've got is Steve's guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth).” [@harlan; @allalongthewatchtower]
 * [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake): lead vocals, lead dancer
 * [Billie Fakish](https://en.wikipedia.org/wiki/Billie_Eilish): guest vocalist
-* Duncan Hull: MC, synth ([MicroKORG](https://en.wikipedia.org/wiki/MicroKORG)), drum machine ([Sonic Pi](https://sonic-pi.net/)) and embarrassing dad dancing [@daddancing]
+* Duncan Hull: MC,
+    + synth ([MicroKORG](https://en.wikipedia.org/wiki/MicroKORG))
+    + drum machine ([Sonic Pi](https://sonic-pi.net/))
+    + embarrassing dad dancing [@daddancing]
 
 Theoretically, we are a [Turing Complete](https://en.wikipedia.org/wiki/Turing_completeness) band. [@Turing1937; @turingcomplete] Artistically, this means that what we lack in youth, good looks, fame, fortune, fashion sense, fanbase and back catalogue we compensate for with:
 

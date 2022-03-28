@@ -7,14 +7,14 @@ knitr::include_graphics("images/industry-club-wide.png")
 
 ## Recruiting students {#recruiting}
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A*A* A including A* in mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
 
 
 Institute | UCAS entry tariff  
 ----------- | ----------- | --------
+[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A*
 [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A
 [University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020)| A* A* A
-[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A*
 [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A* A
 [University of Oxford](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A
 
@@ -29,8 +29,8 @@ Institute | UCAS entry tariff
 
 If you are looking to recruit science and engineering students from other disciplines like [Physics](https://www.physics.manchester.ac.uk/), [Maths](https://www.maths.manchester.ac.uk/), [Chemistry](https://www.chemistry.manchester.ac.uk/), Mechnical, Aerospace & Civil Engineering ([MACE](https://www.mace.manchester.ac.uk/)), [Materials Science](https://www.materials.manchester.ac.uk/) and Electrical & Electronic Engineering ([EEE](https://www.eee.manchester.ac.uk/)) you should talk to:  
 
-* staff in those departments and/or  
-* the central careers service at [careers.manchester.ac.uk](https://www.careers.manchester.ac.uk/) and [employers.manchester.ac.uk](http://www.employers.manchester.ac.uk/)
+* academic staff in those departments and/or  
+* the central careers service of the University via [employers.manchester.ac.uk](http://www.employers.manchester.ac.uk/)
 
 <!--UPDATE THIS: A demographic breakdown of our students in Computer Science is show in Figure fig:pie-fig-->
 
