@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Chapter 4 Coding your future | Duncan Hull</title>
+<meta name="author" content="Chapter 4 Coding your future | Duncan Hull">
+<meta name="description" content="Coding your Future is a guidebook written to help students design, build, test and code their futures in computing, see figure 4.1. Written by yours truly, (Hull 2022) the guide is freely...">
+<meta name="generator" content="bookdown 0.24 with bs4_book()">
+<meta property="og:title" content="Chapter 4 Coding your future | Duncan Hull">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://personalpages.manchester.ac.uk/staff/duncan.hull/cdyf.html">
+<meta property="og:description" content="Coding your Future is a guidebook written to help students design, build, test and code their futures in computing, see figure 4.1. Written by yours truly, (Hull 2022) the guide is freely...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Chapter 4 Coding your future | Duncan Hull">
+<meta name="twitter:site" content="@dullhunk">
+<meta name="twitter:description" content="Coding your Future is a guidebook written to help students design, build, test and code their futures in computing, see figure 4.1. Written by yours truly, (Hull 2022) the guide is freely...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.13/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><link href="libs/vembedr-0.1.5/css/vembedr.css" rel="stylesheet">
+<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MGMKKZW');</script><!-- End Google Tag Manager --><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><link rel="stylesheet" href="libs/custom/dunk.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="https://personalpages.manchester.ac.uk/staff/duncan.hull/" title="">Duncan Hull</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="https://personalpages.manchester.ac.uk/staff/duncan.hull/">Hello</a></li>
+<li><a class="" href="teaching.html"><span class="header-section-number">1</span> Students</a></li>
+<li><a class="" href="employers.html"><span class="header-section-number">2</span> Employers</a></li>
+<li><a class="" href="research.html"><span class="header-section-number">3</span> Research</a></li>
+<li><a class="active" href="cdyf.html"><span class="header-section-number">4</span> Coding your future</a></li>
+<li><a class="" href="coding-their-future.html"><span class="header-section-number">5</span> Coding their future</a></li>
+<li><a class="" href="referee.html"><span class="header-section-number">6</span> Will you be my referee?</a></li>
+<li><a class="" href="contact.html"><span class="header-section-number">7</span> Contact</a></li>
+<li class="book-part">Appendix</li>
+<li><a class="" href="mastersofscience.html"><span class="header-section-number">A</span> Computing from 1948 to 2048</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          <p><a id="book-repo" href="https://github.com/dullhunk/hulled">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="cdyf" class="section level1" number="4">
+<h1>
+<span class="header-section-number">4</span> Coding your future<a class="anchor" aria-label="anchor" href="#cdyf"><i class="fas fa-link"></i></a>
+</h1>
+<p><em>Coding your Future</em> is a guidebook written to help students design, build, test and code their futures in computing, see figure <a href="cdyf.html#fig:cdyf-fig">4.1</a>. Written by yours truly, <span class="citation">(<a href="references.html#ref-cdyf" role="doc-biblioref">Hull 2022</a>)</span> the guide is freely available online at <a href="https://www.cdyf.me">cdyf.me</a> and available to purchase as an ebook, see section <a href="cdyf.html#buying">4.2</a>.</p>
+<div class="figure" style="text-align: center">
+<span style="display:block;" id="fig:cdyf-fig"></span>
+<img src="images/Coding%20your%20future.png" alt="Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see cdyf.me. Coding your Future illustration by Visual Thinkery is licensed under CC-BY-ND" width="98%"><p class="caption">
+Figure 4.1: Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see <a href="https://www.cdyf.me">cdyf.me</a>. <em>Coding your Future</em> illustration by <a href="https://visualthinkery.com/">Visual Thinkery</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC-BY-ND</a>
+</p>
+</div>
+
+<div id="guide" class="section level2" number="4.1">
+<h2>
+<span class="header-section-number">4.1</span> Guiding your future<a class="anchor" aria-label="anchor" href="#guide"><i class="fas fa-link"></i></a>
+</h2>
+<p>Coding your future is a guidebook and course is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn’t actually matter:</p>
+<ul>
+<li>what stage of your degree you are at, from first year through to final year</li>
+<li>what level you are studying at, foundation, undergraduate or postgraduate</li>
+<li>what subject you are studying, as long as you are computationally curious</li>
+<li>what institution you are studying at, this book is University and institution agnostic</li>
+<li>where in the world you are studying</li>
+</ul>
+<p>There is something in this guidebook for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻</p>
+</div>
+<div id="buying" class="section level2" number="4.2">
+<h2>
+<span class="header-section-number">4.2</span> Buying your future<a class="anchor" aria-label="anchor" href="#buying"><i class="fas fa-link"></i></a>
+</h2>
+<p>The full text of the guidebook is freely available at <a href="https://www.cdyf.me/">www.cdyf.me</a>, this means the web version (that’s all the <code>*.html</code>) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you’d prefer to read this guidebook in ebook (<code>epub</code> and/or <code>pdf</code>), you can buy the automatically updated copy at <a href="https://leanpub.com/cdyf">leanpub.com/cdyf</a>, shown in figure <a href="cdyf.html#fig:leanpub-fig">4.2</a>. If you’d like to read this guidebook as a mobi / kindle version, <a href="https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html">let me know</a> as these formats can also be generated from <a href="https://github.com/dullhunk/cdyf">the source</a>.</p>
+<!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
+<div class="figure">
+<span style="display:block;" id="fig:leanpub-fig"></span>
+<iframe src="https://leanpub.com/cdyf" width="100%" height="400px" data-external="1">
+</iframe>
+<p class="caption">
+Figure 4.2: <em>Coding your Future</em> is also available as an ebook (pdf and epub) at <a href="https://leanpub.com/cdyf">leanpub.com/cdyf</a>
+</p>
+</div>
+
+<p>Since the guidebook is published open access and open source, I welcome constructive feedback from students and employers, see <a href="https://www.cdyf.me/#contributing">cdyf.me/#contributing</a></p>
+
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="research.html"><span class="header-section-number">3</span> Research</a></div>
+<div class="next"><a href="coding-their-future.html"><span class="header-section-number">5</span> Coding their future</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#cdyf"><span class="header-section-number">4</span> Coding your future</a></li>
+<li><a class="nav-link" href="#guide"><span class="header-section-number">4.1</span> Guiding your future</a></li>
+<li><a class="nav-link" href="#buying"><span class="header-section-number">4.2</span> Buying your future</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/dullhunk/hulled/blob/master/04-coding-your-future.rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/dullhunk/hulled/edit/master/04-coding-your-future.rmd">Edit this page <i class="fab fa-github"></i></a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>Duncan Hull</strong>" was written by Duncan Hull. </p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer><!-- dynamically load mathjax for compatibility with self-contained --><script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script><script type="text/x-mathjax-config">const popovers = document.querySelectorAll('a.footnote-ref[data-toggle="popover"]');
+for (let popover of popovers) {
+  const div = document.createElement('div');
+  div.setAttribute('style', 'position: absolute; top: 0, left:0; width:0, height:0, overflow: hidden; visibility: hidden;');
+  div.innerHTML = popover.getAttribute('data-content');
+
+  var has_math = div.querySelector("span.math");
+  if (has_math) {
+    document.body.appendChild(div);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, div]);
+    MathJax.Hub.Queue(function() {
+      popover.setAttribute('data-content', div.innerHTML);
+      document.body.removeChild(div);
+    })
+  }
+}
+</script>
+</body>
+</html>
