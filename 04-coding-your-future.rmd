@@ -1,12 +1,12 @@
 # Coding your future
 
-*Coding your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the guide is freely available online at [cdyf.me](https://www.cdyf.me) and available to purchase as an ebook, see section \@ref(buying).
+*Coding your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the guide is freely available online at [www.cdyf.me](https://www.cdyf.me) and available to purchase as an ebook, see section \@ref(buying).
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncdyf)"}
 knitr::include_graphics("images/Coding your future.png")
 ```
 
-(ref:captioncdyf) Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see [cdyf.me](https://www.cdyf.me). *Coding your Future* illustration by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+(ref:captioncdyf) Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see [www.cdyf.me](https://www.cdyf.me). *Coding your Future* illustration by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## Guiding your future {#guide}
 
@@ -22,7 +22,7 @@ There is something in this guidebook for any student of computing, both those in
 
 ## Buying your future {#buying}
 
-The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook (`epub` and/or `pdf`), you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a mobi / kindle version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
+The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in ebook (`epub` and/or `pdf`), you can buy the automatically updated copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like to read this guidebook as a `mobi` (kindle) version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as these formats can also be generated from [the source](https://github.com/dullhunk/cdyf).
 
 <!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
 ```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}

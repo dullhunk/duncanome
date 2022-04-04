@@ -22,7 +22,7 @@ Figure \@ref(fig:mu5-fig) shows Manchester staff, and possibly some students, so
 ```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmu5)"}
 knitr::include_graphics("images/classof1970something2.png")
 ```
-(ref:captionmu5) “You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit by the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it.” See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
+(ref:captionmu5) “You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). How does it go? *Gimme that night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it*.” See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
 
 Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. [@gosling] But the class of 1948 (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) they'd probably say:
 
@@ -34,22 +34,22 @@ Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) ha
 They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano)! Moving on swiftly, we go back a little further in time, thirty years earlier...
 
 ## The class of 1948 {#y1948}
-Our next stop in 1948. We have to stop in 1948 because figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby), which first ran on 21st June 1948. [@lavington]
+Our next stop in 1948. We have to stop here the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby), which first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with Baby. [@lavington]
 
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
 (ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the Manchester baby circa 1948.
 
-Armed with some double-sided sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea from [some bloke called Alan](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the **world's first computer**? Well, it depends on your definition: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
+Armed with some double-sided sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first stored program computer. Was this the **world's first computer**? Well, it depends on your definition: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
 
 * laptop, desktop
 * tablet, phone, satnav
-* car, a computer with wheels)
-* plane, a computer with wings)
+* car, a computer with wheels
+* plane, a computer with wings
 * games console, wearable tech
 * household appliances, washing machine, doorbell etc
-* [smart card](https://en.wikipedia.org/wiki/Smart_card)
+* [smart card](https://en.wikipedia.org/wiki/Smart_card), embedded system etc
 
 
 
