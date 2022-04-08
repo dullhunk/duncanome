@@ -1,6 +1,6 @@
 # Coding your future
 
-*Coding your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the guide is freely available online at [www.cdyf.me](https://www.cdyf.me) and available to purchase as an ebook, see section \@ref(buying).
+*Coding your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the full text of the book is freely available online at [www.cdyf.me](https://www.cdyf.me). If you'd prefer to read it in ebook format, you can also buy a copy, see section \@ref(buying).
 
 ```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncdyf)"}
 knitr::include_graphics("images/Coding your future.png")
