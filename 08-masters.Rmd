@@ -79,7 +79,7 @@ What's interesting about the difference between 1948 and now are the changes in 
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
 ## The class of 2048? {#y2048}
-Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits! [@kilburnphd]
+Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits, or 256 bytes, with 8 bit bytes! [@kilburnphd]
 
 What will classes in the year 2048 be studying? Well, in the year 2048, Computer Science won't exist anymore either because:
 
