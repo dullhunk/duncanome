@@ -39,9 +39,11 @@ Our next stop is in 1948. We have to stop here the [Manchester Baby](https://en.
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
-(ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the Manchester baby circa 1948.
+(ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the [Manchester baby](https://en.wikipedia.org/wiki/Manchester_Baby) in 1948.
 
-Armed with some double-sided sticky-tape, several empty fairy-liquid bottles, lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first [stored program computer](https://en.wikipedia.org/wiki/Stored-program_computer). Was this the **world's first computer**? Well, it depends on your definition: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
+Armed with some double-sided sticky-tape, several empty [fairy-liquid bottles](https://en.wikipedia.org/wiki/Fairy_(brand)), lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer). The stored-program was significant as it was the predecessor to what we know call [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM).
+
+Does this mean the Manchester Baby is the [world's first computer](https://www.computerhope.com/issues/ch000984.htm)? Well, it depends on your definition of computation: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
 
 * laptop, desktop
 * tablet, phone, satnav
@@ -59,7 +61,7 @@ Armed with some double-sided sticky-tape, several empty fairy-liquid bottles, lo
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table  \@ref(tab:cputable). It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
-:  (\#tab:cputable) Advances in processor power 1948 to 2000, the *Baby in 1948* is the Manchester Baby. The *ARM in 2000* refers the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) taken from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). Thanks to Doug Edwards, Jim Garside and Steve Furber for the data.
+:  (\#tab:cputable) Advances in processor power 1948 to 2000, the *Baby in 1948* is the Manchester Baby. The *ARM in 2000* refers the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) taken from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). Thanks to Jim Garside, Doug Edwards and [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for the data. [@amulet]
 
 +--------------------------+------------------------------+-----------------------------+
 |                          | Baby in 1948                 | ARM in 2000                 |
@@ -79,15 +81,15 @@ What's interesting about the difference between 1948 and now are the changes in 
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
 ## The class of 2048? {#y2048}
-Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not bytes) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits, or 256 bytes, with 8 bit bytes! [@kilburnphd]
+Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not `bytes`) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits, or 256 bytes, with 8 bit bytes! [@kilburnphd]
 
 What will classes in the year 2048 be studying? Well, in the year 2048, Computer Science won't exist anymore either because:
 
 * As [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) said [Computer Science is not actually a Science](https://www.flickr.com/photos/dullhunk/51956613478/) [@feynmanfysics]
-* As [Hal Abelson](https://en.wikipedia.org/wiki/Hal_Abelson) said “[Computer Science isn't about Computers](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)” or
+* As [Hal Abelson](https://en.wikipedia.org/wiki/Hal_Abelson) said the significance of computer science “[has little to do with computers](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-7.html)” [@abelson]
 * As [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_(programmer)) said [There is no such thing as “Computer Science”](http://www.paulgraham.com/hp.html) [@bloggersandpainters; @hackersandpainters]
 * As [George Johnson](https://en.wikipedia.org/wiki/George_Johnson_%28writer%29) said [All Science Is Computer Science](https://www.nytimes.com/2001/03/25/weekinreview/the-world-in-silica-fertilization-all-science-is-computer-science.html) [@georgejohnson]
-* As [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) said [Computation is Transforming the Sciences](https://web.archive.org/web/20080221053710/https://www.microsoft.com/presspass/exec/billg/speeches/2005/11-15SuperComputing05.aspx)
+* As [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) said [Computation is Transforming the Sciences](https://web.archive.org/web/20080221053710/https://www.microsoft.com/presspass/exec/billg/speeches/2005/11-15SuperComputing05.aspx) [@gatescompute]
 
 Either way, what is known as [Computer Science](https://en.wikipedia.org/wiki/Computer_science) today will have become so fundamental to many other areas of research, the discipline will naturally become more closely integrated with them. Take Manchester as an example, the hard-sums people will join the mathematics department, the architecture geeks and hardware nerds will join the engineering department, the Computational Biologists will go and join Life Sciences or Medicine, and so on. Of course, I could be very wrong here! As [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) in figure \@ref(fig:bohr-fig) might have once said:
 

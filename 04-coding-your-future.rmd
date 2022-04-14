@@ -12,13 +12,13 @@ knitr::include_graphics("images/Coding your future.png")
 
 Coding your future is a guidebook and course is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn’t actually matter:
 
-* what stage of your degree you are at, from first year through to final year
-* what level you are studying at, foundation, undergraduate or postgraduate
-* what subject you are studying, as long as you are computationally curious
-* what institution you are studying at, this book is University and institution agnostic
-* where in the world you are studying
+* *where* in the world you are studying
+* what *stage* of your degree you are at, from first year through to final year
+* what *level* you are studying at, foundation, undergraduate or postgraduate
+* what *institution* you are studying at, this book is University and institution agnostic
+* what *subject* you are studying, as long as you are **computationally curious**
 
-There is something in this guidebook for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
+*Coding your Future* has something for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
 ## Downloading your future {#downloading}
 
