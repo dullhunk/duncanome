@@ -6,7 +6,7 @@ One hundred years of computing from 1948 to 2048, stopping at the classes of 200
 
 ## The class of 2003 {#y2003}  
 
-Let's start our computational journey in 2003: Figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a student cohort of more than 10,000 students have graduated with some kind of degree in Computing (BSc, MSc or PhD) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
+Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a student cohort of more than 10,000 students have graduated with some kind of degree in Computing (BSc, MSc or PhD) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
 
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
@@ -34,7 +34,7 @@ Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) ha
 They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano)! Moving on swiftly, we go back a little further in time, thirty years earlier...
 
 ## The class of 1948 {#y1948}
-Our next stop is in 1948. We have to stop here the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby), which first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with Baby. [@lavington]
+Our next stop is in 1948. We have to stop here because the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby) first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with Baby. [@lavington]
 
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
@@ -43,7 +43,9 @@ knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 
 Armed with some double-sided sticky-tape, several empty [fairy-liquid bottles](https://en.wikipedia.org/wiki/Fairy_(brand)), lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer). The stored-program was significant as it was the predecessor to what we know call [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM).
 
-Does this mean the Manchester Baby is the [world's first computer](https://www.computerhope.com/issues/ch000984.htm)? Well, it depends on your definition of computation: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer]. Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
+Does this mean the Manchester Baby is the [world's first computer](https://www.computerhope.com/issues/ch000984.htm)? Well, it depends on your definition of computation: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer].
+
+Whatever your definition, after Tom and Freddie, things were never the same again. The rest, as they say, is history. That computer you are using...
 
 * laptop, desktop
 * tablet, phone, satnav
@@ -61,7 +63,7 @@ Does this mean the Manchester Baby is the [world's first computer](https://www.c
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table  \@ref(tab:cputable). It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
-:  (\#tab:cputable) Advances in processor power 1948 to 2000, the *Baby in 1948* is the Manchester Baby. The *ARM in 2000* refers the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) taken from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). Thanks to Jim Garside, Doug Edwards and [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for the data. [@amulet]
+:  (\#tab:cputable) Advances in processor power 1948 to 2000, the *Baby in 1948* is the Manchester Baby. The *ARM in 2000* refers the [ARM AMULET3H microprocessor](http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf) taken from [CS501: Machine architecture](https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf). Thanks to Jim Garside, Doug Edwards and [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber) for the data. [@amulet; @furberarm]
 
 +--------------------------+------------------------------+-----------------------------+
 |                          | Baby in 1948                 | ARM in 2000                 |

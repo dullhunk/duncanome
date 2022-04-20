@@ -45,7 +45,7 @@ wikipedia
 tuningcomplete
 publications
 coding-your-future
-guide
+reading
 downloading
 coding-their-future
 guidance-for-teachers
