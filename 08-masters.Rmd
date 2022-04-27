@@ -22,7 +22,7 @@ Figure \@ref(fig:mu5-fig) shows Manchester staff, and possibly some students, so
 ```{r mu5-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captionmu5)"}
 knitr::include_graphics("images/classof1970something2.png")
 ```
-(ref:captionmu5) “You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). How does it go? *Night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it*.” See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
+(ref:captionmu5) “You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by those local Manchester lads the [Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). How does it go? *Night fever, [night fever](https://en.wikipedia.org/wiki/Night_Fever), we know how to show it*.” See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
 
 Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. [@gosling] But the class of 1948 (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) they'd probably say:
 

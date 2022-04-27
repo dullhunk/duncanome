@@ -25,6 +25,7 @@ The University provides schools with a final year student who can teach Computer
 * [Altrincham Grammar School for Girls](http://www.aggs.trafford.sch.uk/), Trafford
 * [Altrincham Grammar School for Boys](https://www.agsb.co.uk/), Trafford
 * [Manchester Grammar School](https://www.mgs.org/) (MGS), Fallowfield
+* [Stretford Grammar](https://www.stretfordgrammar.com/) (SGS), Stretford
 
 The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
 

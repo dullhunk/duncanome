@@ -1,6 +1,6 @@
 ---
-title: Duncan Hull
-author: Duncan Hull
+title: Dr. Duncan Hull
+author: Yours truly
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [/Users/duncan/Documents/GitHub/cdyf/hulld.bib, /Users/duncan/Documents/GitHub/cdyf/cdyf-playlist.bib, /Users/duncan/Documents/GitHub/cdyf/cdyf-signposts.bib, /Users/duncan/Documents/GitHub/cdyf/cdyf-references.bib]
