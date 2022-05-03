@@ -26,7 +26,7 @@ It is good to have references from different sources, so if you are providing se
 If you ask somebody who does not know you very well to write a reference for you, all that they are able to do in a reference is confirm rather dull facts such as your grades, your attendance, start date and graduation date. As I've already said, this does not make for a very useful reference.
 
 ## Should I ask permission from my referee?
-You should always ask the person providing your reference.
+You should always ask the person providing your reference, see figure \@ref(fig:referee-fig).
 
 ## What is a reference for?
 

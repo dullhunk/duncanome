@@ -14,6 +14,12 @@ If you'd like to debug your CV, application form, covering letter and job search
 * Drop-in to my weekly one-to-one CV clinics for Computer Science students online during term-time during my open office hours
 * Get feedback on your CV from as many other people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_law)" [@Raymond1999]
 
+```{r bugfeature-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbuggingcv)"}
+knitr::include_graphics("images/Features not bugs.png")
+```
+
+(ref:captionbuggingcv) Is that a bug or a feature in your CV? It's important to [debug your CV](https://www.cdyf.me/debugging.html) before an employer sees it, see the Wednesday Waggle for details of my weekly live debugging sessions. Features not bugs picture by [Visual Thinkery](https://visualthinkery.com) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)  
+
 Outside of term time, it's best to book a debugging appointment. 🐛
 
 ## First year students {#year1}
@@ -23,6 +29,10 @@ If you're in your first year of study, I serve as:
 * Academic staff member for [First year team projects: COMP101](https://studentnet.cs.manchester.ac.uk/ugt/COMP10120/syllabus/) led by [Ulrike Sattler](http://www.cs.man.ac.uk/~sattler/) [@COMP10120], see the [getting started with LaTeX lab manual](http://latex4year1.netlify.app)
 * Mentor and tutor to one group of six first year students
 * Organiser of first year guest lectures, which mostly run in the second semester, February to May
+
+
+
+
 
 ## Second year students {#year2}
 
