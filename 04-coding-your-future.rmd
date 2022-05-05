@@ -22,14 +22,9 @@ Coding your future is a guidebook and course is aimed at ALL students in higher 
 
 ## Downloading your future {#downloading}
 
-The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer.
+The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
 
-If you'd prefer to read the guidebook in a single ebook file, you can download a copy at [leanpub.com/cdyf](https://leanpub.com/cdyf), shown in figure \@ref(fig:leanpub-fig). If you'd like a `mobi` (kindle) version, [let me know](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html) as this format can also be generated from [the source](https://github.com/dullhunk/cdyf).
-
-<!-- see https://bookdown.org/yihui/rmarkdown-cookbook/include-url.html -->
-```{r, leanpub-fig, echo = FALSE, out.width='100%', fig.cap="(ref:captionleanpub)", dev='png', cache=TRUE, screenshot.opts=list(vwidth=992)}
-knitr::include_url('https://leanpub.com/cdyf')
-```
-(ref:captionleanpub) *Coding your Future* is also available as a free ebook (pdf and epub) at [leanpub.com/cdyf](https://leanpub.com/cdyf) You can make an optional donation to a charitable cause: [codeclub.org](https://codeclub.org).
+* [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
+* [cdyf.epub](https://www.cdyf.me/cdyf.epub)
 
 Since the guidebook is published open access and open source, I welcome constructive feedback from students, employers and other contributors, see [cdyf.me/#contributing](https://www.cdyf.me/#contributing)

@@ -1,12 +1,13 @@
 # (APPENDIX) Appendix {-}
 
-# Computing from 1948 to 2048 {#mastersofscience}
+# Computing the future  {#mastersofscience}
 
-One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with pictures, dad jokes and some geeky history. [@lavington]
+> One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
+> pictures, dad jokes and some geek history. [@lavington]
 
 ## The class of 2003 {#y2003}  
 
-Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a student cohort of more than 10,000 students have graduated with some kind of degree in Computing (BSc, MSc or PhD) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
+Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a student cohort of more than 10,000 students have graduated with some kind of degree in Computer Science (BSc, MSc or PhD) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
 
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
