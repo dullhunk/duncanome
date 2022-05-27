@@ -3,11 +3,11 @@
 # Computing the future  {#mastersofscience}
 
 > One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
-> pictures, dad jokes and some geek history. [@lavington]
+> some pictures, dad jokes and geek history.
 
 ## The class of 2003 {#y2003}  
 
-Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a student cohort of more than 10,000 students have graduated with some kind of degree in Computer Science (BSc, MSc or PhD) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
+Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a community of more than 10,000 students have graduated a degree in Computer Science (undergraduate or postgraduate) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
 
 ```{r msc-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionmsc)"}
 knitr::include_graphics("images/msc-2003.jpeg")
@@ -42,7 +42,7 @@ knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
 ```
 (ref:captiontomfred) [Freddie Williams](https://en.wikipedia.org/wiki/Frederic_Calland_Williams) and his PhD student [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) programming the [Manchester baby](https://en.wikipedia.org/wiki/Manchester_Baby) in 1948.
 
-Armed with some double-sided sticky-tape, several empty [fairy-liquid bottles](https://en.wikipedia.org/wiki/Fairy_(brand)), lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer). The stored-program was significant as it was the predecessor to what we know call [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM).
+Armed with some double-sided sticky-tape, several empty [fairy-liquid bottles](https://en.wikipedia.org/wiki/Fairy_(brand)), lots of patience and an idea from [some bloke called Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), Tom and Freddie built the world's first [stored-program computer](https://en.wikipedia.org/wiki/Stored-program_computer). The stored-program was significant as it was the predecessor to what we now call [random-access memory](https://en.wikipedia.org/wiki/Random-access_memory) (RAM).
 
 Does this mean the Manchester Baby is the [world's first computer](https://www.computerhope.com/issues/ch000984.htm)? Well, it depends on your definition of computation: It is surprisingly hard to define what counts as a computer and who built the first one [@firstcomputer].
 

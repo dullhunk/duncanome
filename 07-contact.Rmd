@@ -10,7 +10,7 @@ knitr::include_graphics("images/turingicon.jpg")
 
 ## Office {#office}
 
-Our offices are in the Kilburn building, close to the Byte cafe, through the double doors, down the ramp on the South side of the building.
+My office is in the Kilburn building. If you exit the building from the Lower First floor, go through the double doors, down the ramp on the South side of the building.
 
 **Dr. Duncan Hull, Lecturer** 👨‍💻
 
@@ -21,9 +21,8 @@ Our offices are in the Kilburn building, close to the Byte cafe, through the dou
 
 **Mabel Yau, Careers and placements officer** 👩‍💻
 
-* 🏢 Room LF26, Kilburn Building
+* 🏢 Engineering building
 * 📥 email:	mabel.yau ATE manchester.ac.uk
-* ☎️ telephone:	+44 161 275 6140
 * 🌐 [linkedin.com/in/mabel-yau](https://uk.linkedin.com/in/mabel-yau)
 
 **Student Support Office ** 👨‍👩‍👧‍👧
@@ -31,7 +30,7 @@ Our offices are in the Kilburn building, close to the Byte cafe, through the dou
 * 🏢 Engineering building foyer
 * 📥 email compsci-sso-ug@manchester.ac.uk
 * 📥 email compsci-sso-pg@manchester.ac.uk
-* ☎️ telephone:	+44 161 306 8155
+* ☎️ telephone:	+44 161 549 1288
 
 ## Video conferencing
 

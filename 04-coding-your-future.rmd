@@ -22,9 +22,9 @@ Coding your future is a guidebook and course is aimed at ALL students in higher 
 
 ## Downloading your future {#downloading}
 
-The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read this guidebook in a single ebook file, you can download a copy at
+The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read the guidebook in a single ebook file, you can download a copy at:
 
 * [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
 * [cdyf.epub](https://www.cdyf.me/cdyf.epub)
 
-Since the guidebook is published open access and open source, I welcome constructive feedback from students, employers and other contributors, see [cdyf.me/#contributing](https://www.cdyf.me/#contributing)
+Since the guidebook is published open access and open source, I welcome constructive feedback from students, employers, academics and any other contributors, see [cdyf.me/#contributing](https://www.cdyf.me/#contributing)
