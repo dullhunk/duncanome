@@ -5,14 +5,13 @@
 \documentclass[
   12pt,
 ]{book}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
-  \usepackage{amssymb}
 \else % if luatex or xetex
   \usepackage{unicode-math}
   \defaultfontfeatures{Scale=MatchLowercase}
@@ -43,7 +42,7 @@
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
-\usepackage{longtable,booktabs}
+\usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -71,7 +70,7 @@
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
 \usepackage{booktabs}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
@@ -127,7 +126,7 @@ Our elective industrial experience program has \protect\hyperlink{employability}
 \section*{Full stack teaching}\label{full-stack-teaching}}
 \addcontentsline{toc}{section}{Full stack teaching}
 
-Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary \& secondary school children, undergraduates \& postgraduates. In 2011, I completed a \href{https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education}{Postgraduate Certificate in Education} (PGCE) at the \href{https://www.bath.ac.uk/}{University of Bath} and worked as a high school science teacher in co-educational \href{https://www.gov.uk/types-of-school}{non-selective state schools} in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have been fortunate enough to teach in India, Japan and America too. 🇬🇧🇮🇳🇯🇵🇺🇸
+Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary \& secondary school children, undergraduates \& postgraduates. In 2011, I completed a \href{https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education}{Postgraduate Certificate in Education} (PGCE) at the \href{https://www.bath.ac.uk/}{University of Bath} and worked as a high school science teacher in co-educational \href{https://www.gov.uk/types-of-school}{comprehensive (non-selective) state schools} in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have been fortunate enough to teach in India, Japan and America too. 🇬🇧🇮🇳🇯🇵🇺🇸
 
 \hypertarget{whats-the-story}{%
 \section*{What's the story?}\label{whats-the-story}}
@@ -139,7 +138,7 @@ What's the story, Jackanory? Born in \href{https://en.wikipedia.org/wiki/Bath,_S
 \section*{Toolbox}\label{toolbox}}
 \addcontentsline{toc}{section}{Toolbox}
 
-Last updated on 28 May, 2022, this website was built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. The \href{https://github.com/dullhunk/duncanome}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
+Last updated on 15 June, 2022, this website was built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. The \href{https://github.com/dullhunk/duncanome}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
 
 \hypertarget{get-a-life}{%
 \section*{Get a life!}\label{get-a-life}}
@@ -295,16 +294,24 @@ We work with a wide range of employers from the smallest bedroom startup to the 
 
 If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or \href{https://uk.linkedin.com/in/mabel-yau}{Mabel Yau} (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The \href{https://www.ucas.com/ucas/tariff-calculator}{entry tariff} of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in \href{https://en.wikipedia.org/wiki/Russell_Group}{Russell Group} universities as shown in the table below.
 
-\begin{longtable}[]{@{}lll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2667}}@{}}
 \toprule
-Institute & UCAS entry tariff &\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+Institute
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+UCAS entry tariff
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
 \midrule
 \endhead
-\href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A* A* &\tabularnewline
-\href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A &\tabularnewline
-\href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A &\tabularnewline
-\href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A* A &\tabularnewline
-\href{https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A &\tabularnewline
+\href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A* A* & \\
+\href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A & \\
+\href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A & \\
+\href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A* A & \\
+\href{https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A & \\
 \bottomrule
 \end{longtable}
 
@@ -427,85 +434,31 @@ We are working hard to improve the employability of students because while havin
   \textbf{Universities}: produce better graduates \citep{Mandilaras2004} with broader and deeper skills, who earn more and get better jobs \citep{winningpersonality}. Well paid placements can also facilitate social mobility. \citep{Wang2018}
 \end{enumerate}
 
-\begin{longtable}[]{@{}ll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
 \toprule
-\begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-year placement started\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-No.~of Computer Science undergraduate students on placement\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+year placement started
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+No.~of Computer Science undergraduate students on placement
+\end{minipage} \\
 \midrule
 \endhead
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2008\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-35\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2009\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-31\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2010\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-45\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2011\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-42\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2012\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-45\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2013\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-70\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2014\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-54\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2015\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-70\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2016\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-65\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2017\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-100\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2018\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-97\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2019\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-110\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2020\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-88\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-2021\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 1\tabcolsep) * \real{0.50}}\raggedright
-77\strut
-\end{minipage}\tabularnewline
+2008 & 35 \\
+2009 & 31 \\
+2010 & 45 \\
+2011 & 42 \\
+2012 & 45 \\
+2013 & 70 \\
+2014 & 54 \\
+2015 & 70 \\
+2016 & 65 \\
+2017 & 100 \\
+2018 & 97 \\
+2019 & 110 \\
+2020 & 88 \\
+2021 & 77 \\
 \bottomrule
 \end{longtable}
 
@@ -1312,7 +1265,7 @@ If you are driving, the nearest car parks are:
 \begin{itemize}
 \tightlist
 \item
-  \textbf{University Car Park B} \href{https://www.ncp.co.uk/find-a-car-park/car-parks/manchester-aquatic-centre-jv/}{Manchester Aquatics Centre Car Park}, NCP \href{http://maps.google.co.uk/maps?q=M13+9SS}{M13 9SS}
+  \textbf{University Car Park B} \href{https://www.apcoa.co.uk/parking-in/manchester/aquatics-centre/}{Manchester Aquatics Centre Car Park}, Apcoa \href{http://maps.google.co.uk/maps?q=M13+9SS}{M13 9SS}
 \item
   \textbf{University Car Park D} Booth Street West Car Park, \href{http://maps.google.co.uk/maps?q=M15+6AR}{M15 6AR}, access via Higher Cambridge Street
 \item
@@ -1342,7 +1295,7 @@ Let's start our computational odyssey in 2003, figure \ref{fig:msc-fig} shows st
 
 }
 
-\caption{The class of 2003 including \href{https://web.stanford.edu/~horridge/}{Matthew Horridge}, Michael Parkin, Karim Nashar and myself in the back row}\label{fig:msc-fig}
+\caption{The class of 2003 including \href{https://web.stanford.edu/~horridge/}{Matthew Horridge}, Michael Parkin, Karim Nashar, \href{https://staffnet.cs.manchester.ac.uk/techso/}{Iain Hart} and myself in the back row}\label{fig:msc-fig}
 \end{figure}
 
 
@@ -1352,7 +1305,7 @@ Twenty five years earlier, before many of the people in the above picture were b
 \hypertarget{y1978}{%
 \section{The class of 1978}\label{y1978}}
 
-Figure \ref{fig:mu5-fig} shows Manchester staff, and possibly some students, sometime between about 1972 and 1978. Most socially well-adjusted people will have little interest in the \href{https://en.wikipedia.org/wiki/Manchester_computers\#MU5}{MU5 computer} that the people in the picture are using. However, a wider audience may be interested in the suave and sophisticated seventies \emph{\href{https://en.wikipedia.org/wiki/Saturday_Night_Fever}{Saturday Night Fever}} dancing shoes that the woman on the left of the picture is wearing. \citep{nightfever}
+Figure \ref{fig:mu5-fig} shows Manchester staff operating the \href{https://en.wikipedia.org/wiki/Manchester_computers\#MU5}{MU5 computer} sometime around 1978. Most people will have little interest in the MU5 that the people in the picture are using. However, a wider audience may be interested in the suave and sophisticated seventies \emph{\href{https://en.wikipedia.org/wiki/Saturday_Night_Fever}{Saturday Night Fever}} dancing shoes that the woman on the left of the picture is wearing. \citep{nightfever}
 
 \begin{figure}
 
@@ -1360,7 +1313,7 @@ Figure \ref{fig:mu5-fig} shows Manchester staff, and possibly some students, som
 
 }
 
-\caption{``You know Jim once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by those \href{https://en.wikipedia.org/wiki/Bee_Gees}{local Manchester lads the Bee Gees}. How does it go? \emph{Night fever, \href{https://en.wikipedia.org/wiki/Night_Fever}{night fever}, we know how to show it}.'' See the original unadulterated image via \href{http://www.computinghistory.org.uk/det/3638/Simon-Lavington/}{Simon Lavington} and the Computer Conservation Society. \citep{mu5}}\label{fig:mu5-fig}
+\caption{``You know Simon once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by those \href{https://en.wikipedia.org/wiki/Bee_Gees}{local Manchester lads the Bee Gees}. How does it go? \emph{Night fever, \href{https://en.wikipedia.org/wiki/Night_Fever}{night fever}, we know how to show it}.'' The people in the picture are, from left to right, Pat McKissack (wearer of fantastic shoes), Simon Lavington, Gordon Frank, Roland Ibbett, Peter Whitehead, Tony Whitehouse and Lynne Plant (seated at the System Performance Monitor). The MU5 console is in the foreground with the big machine in the background. The picture is probably taken sometime between about 1972 and 1978, but we've gone for 1978 so that we can make gratuitous references to the Bee Gees. See the original unadulterated image via \href{http://www.computinghistory.org.uk/det/3638/Simon-Lavington/}{Simon Lavington} and the Computer Conservation Society. \citep{mu5}}\label{fig:mu5-fig}
 \end{figure}
 
 
@@ -1423,59 +1376,36 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table \ref{tab:cputable}. It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
-\begin{longtable}[]{@{}lll@{}}
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3034}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3483}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3483}}@{}}
 \caption{\label{tab:cputable} Advances in processor power 1948 to 2000, the \emph{Baby in 1948} is the Manchester Baby. The \emph{ARM in 2000} refers the \href{http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf}{ARM AMULET3H microprocessor} taken from \href{https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf}{CS501: Machine architecture}. Thanks to Jim Garside, Doug Edwards and \href{https://en.wikipedia.org/wiki/Steve_Furber}{Steve Furber} for the data. \citep{amulet, furberarm}}\tabularnewline
 \toprule
-\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
-\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-Baby in 1948\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-ARM in 2000\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Baby in 1948
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+ARM in 2000
+\end{minipage} \\
 \midrule
 \endfirsthead
 \toprule
-\begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
-\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-Baby in 1948\strut
-\end{minipage} & \begin{minipage}[b]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-ARM in 2000\strut
-\end{minipage}\tabularnewline
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+Baby in 1948
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+ARM in 2000
+\end{minipage} \\
 \midrule
 \endhead
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
-Size\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-Filled a medium sized room\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-fills 7mm by 3mm of silicon\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
-Power usage (Watts)\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-3.5kW (3500W)\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-215mW (0.215W)\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
+Size & Filled a medium sized room & fills 7mm by 3mm of silicon \\
+Power usage (Watts) & 3.5kW (3500W) & 215mW (0.215W) \\
 Instructions executed
-(per second)\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-700\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-100,000,000\strut
-\end{minipage}\tabularnewline
-\begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.30}}\raggedright
+(per second) & 700 & 100,000,000 \\
 Energy efficiency
-(Joules per instruction)\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-5\strut
-\end{minipage} & \begin{minipage}[t]{(\columnwidth - 2\tabcolsep) * \real{0.35}}\raggedright
-0.000 000 002
-(that's 2,000,000,000 times more efficient than The Baby!)\strut
-\end{minipage}\tabularnewline
+(Joules per instruction) & 5 & 0.000 000 002
+(that's 2,000,000,000 times more efficient than The Baby!) \\
 \bottomrule
 \end{longtable}
 
