@@ -131,7 +131,7 @@ Projects start annually in September and are handed at Easter time, see final ye
 So you've selected *Coding their future* as your third year project and now you are ready to get started. There are plenty of resources to help you prepare and improve your effectiveness in the classroom.
 
 * **Work with young people**
-   + Any experience of working with young people will be beneficial, if you have the time and opportunity over the summer you can get some experience of working with young people for example through [codeclub.org](https://codeclub.org/) and [coderdojo.com](https://coderdojo.com/)
+   + Any experience of working with young people will be beneficial, if you have the time and opportunity over the summer you can get some experience of working with young people for example through [codeclub.org](https://codeclub.org/) and [coderdojo.com](https://coderdojo.com/). If you're in Manchester over the summer, see [mcrcoderdojo.org.uk](https://mcrcoderdojo.org.uk/) which meets every month at the Manchester Technology Centre on Oxford Road, they are always looking for new volunteers.
    + It doesn't have to be coding either, you could get involved with any activities such as sporting events or others, see [find-volunteering.manchester.ac.uk](https://find-volunteering.manchester.ac.uk/)
 * **Read around** There are lots of really good articles and books to help you, I recommend you start with:
     + *Teaching Computing* [@teachingcomputing] by Carl Simmons & Claire Hawkins, is aimed at teachers of computing, particularly trainee computer science teachers. [e-book available here, University of Manchester login required](http://dx.doi.org.manchester.idm.oclc.org/10.4135/9781473919785)
