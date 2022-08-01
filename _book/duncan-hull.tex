@@ -34,14 +34,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Dr.~Duncan Hull},
-  pdfauthor={Yours truly},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -75,6 +67,14 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Dr.~Duncan Hull},
+  pdfauthor={Yours truly},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Dr.~Duncan Hull}
 \author{Yours truly}
@@ -138,7 +138,7 @@ What's the story, Jackanory? Born in \href{https://en.wikipedia.org/wiki/Bath,_S
 \section*{Toolbox}\label{toolbox}}
 \addcontentsline{toc}{section}{Toolbox}
 
-Last updated on 05 July, 2022, this website was built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. The \href{https://github.com/dullhunk/duncanome}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
+Last updated on 01 August, 2022, this website was built using \href{https://bookdown.org}{bookdown} with \href{https://rmarkdown.rstudio.com/}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://pandoc.org/}{Pandoc}, \href{https://rstudio.com/}{RStudio} and TLC. The \href{https://github.com/dullhunk/duncanome}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
 
 \hypertarget{get-a-life}{%
 \section*{Get a life!}\label{get-a-life}}
@@ -298,21 +298,21 @@ If you are recruiting computer scientists and software engineers as a summer int
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2667}}@{}}
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 Institute
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 UCAS entry tariff
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} \\
-\midrule
+\midrule()
 \endhead
 \href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A* A* & \\
 \href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A & \\
 \href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A & \\
 \href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A* A & \\
 \href{https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A & \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 If you are looking to recruit science and engineering students from other disciplines like \href{https://www.physics.manchester.ac.uk/}{Physics}, \href{https://www.maths.manchester.ac.uk/}{Maths}, \href{https://www.chemistry.manchester.ac.uk/}{Chemistry}, Mechnical, Aerospace \& Civil Engineering (\href{https://www.mace.manchester.ac.uk/}{MACE}), \href{https://www.materials.manchester.ac.uk/}{Materials Science} and Electrical \& Electronic Engineering (\href{https://www.eee.manchester.ac.uk/}{EEE}) you should talk to:
@@ -437,13 +437,13 @@ We are working hard to improve the employability of students because while havin
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 year placement started
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 No.~of Computer Science undergraduate students on placement
 \end{minipage} \\
-\midrule
+\midrule()
 \endhead
 2008 & 35 \\
 2009 & 31 \\
@@ -459,7 +459,7 @@ No.~of Computer Science undergraduate students on placement
 2019 & 110 \\
 2020 & 88 \\
 2021 & 77 \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
@@ -1327,12 +1327,12 @@ have any memory. We had to make our own from an \href{https://en.wikipedia.org/w
 memory\ldots.
 \end{quote}
 
-They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of \href{https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers}{mechanical discs and wheels}, or even better \href{https://en.wikipedia.org/wiki/Differential_analyser\#Use_of_Meccano}{Meccano}! Moving on swiftly, we go back a little further in time, thirty years earlier\ldots{}
+They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of \href{https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers}{mechanical discs and wheels}, or even better \href{https://en.wikipedia.org/wiki/Differential_analyser\#Use_of_Meccano}{Meccano}. \citep{meccano, hartree} Moving on swiftly, we go back a little further in time, thirty years earlier\ldots{}
 
 \hypertarget{y1948}{%
 \section{The class of 1948}\label{y1948}}
 
-Our next stop is in 1948. We have to stop here because the \href{https://en.wikipedia.org/wiki/Manchester_Baby}{Manchester Baby} first ran on 21st June 1948. Figure \ref{fig:tomfred-fig} shows Tom and Freddie in with Baby. \citep{lavington}
+Our next stop is in 1948. We have to stop here because the \href{https://en.wikipedia.org/wiki/Manchester_Baby}{Manchester Baby} first ran on 21st June 1948. Figure \ref{fig:tomfred-fig} shows Tom and Freddie with the Baby. \citep{lavington}
 
 \begin{figure}
 
@@ -1381,23 +1381,23 @@ What's interesting about the difference between 1948 and now are the changes in 
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3483}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3483}}@{}}
 \caption{\label{tab:cputable} Advances in processor power 1948 to 2000, the \emph{Baby in 1948} is the Manchester Baby. The \emph{ARM in 2000} refers the \href{http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf}{ARM AMULET3H microprocessor} taken from \href{https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf}{CS501: Machine architecture}. Thanks to Jim Garside, Doug Edwards and \href{https://en.wikipedia.org/wiki/Steve_Furber}{Steve Furber} for the data. \citep{amulet, furberarm}}\tabularnewline
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Baby in 1948
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 ARM in 2000
 \end{minipage} \\
-\midrule
+\midrule()
 \endfirsthead
-\toprule
+\toprule()
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Baby in 1948
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 ARM in 2000
 \end{minipage} \\
-\midrule
+\midrule()
 \endhead
 Size & Filled a medium sized room & fills 7mm by 3mm of silicon \\
 Power usage (Watts) & 3.5kW (3500W) & 215mW (0.215W) \\
@@ -1406,7 +1406,7 @@ Instructions executed
 Energy efficiency
 (Joules per instruction) & 5 & 0.000 000 002
 (that's 2,000,000,000 times more efficient than The Baby!) \\
-\bottomrule
+\bottomrule()
 \end{longtable}
 
 So where is all this going? What about the future? Let's take a \href{https://en.wikipedia.org/wiki/Long_Now_Foundation}{longer view}, and skip forward from 1948 to 2048\ldots{}

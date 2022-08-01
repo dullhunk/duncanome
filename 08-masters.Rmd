@@ -32,10 +32,10 @@ Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) ha
 > 'Course it [only stored 2048 bits](http://curation.cs.manchester.ac.uk/computer50/www.computer50.org/mark1/ip-mm1.crt2048.html) and worked for a few hours. Ohhhh we used to DREAM of havin' 8K of
 > memory....
 
-They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano)! Moving on swiftly, we go back a little further in time, thirty years earlier...
+They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano). [@meccano; @hartree] Moving on swiftly, we go back a little further in time, thirty years earlier...
 
 ## The class of 1948 {#y1948}
-Our next stop is in 1948. We have to stop here because the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby) first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie in with Baby. [@lavington]
+Our next stop is in 1948. We have to stop here because the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby) first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie with the Baby. [@lavington]
 
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
 knitr::include_graphics("images/kilburn_williams_manchester_baby.jpeg")
