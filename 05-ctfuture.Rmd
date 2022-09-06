@@ -114,12 +114,16 @@ All deliverables for standard final year projects will be expected of these proj
 Assessments for these projects will be as for standard projects, [@COMP30030; @COMP30040] but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
 ### Blended learning {#blended}
-COVID 19 is revolutionising teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
+COVID 19 has changed teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
-```{r videofriendly-fig,echo=FALSE, fig.cap = "Making video-friendly slides"}
-library("vembedr")
-embed_url("https://www.youtube.com/watch?v=Y50mTVIzAYk")
+
+```{r srp-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:srp)"}
+knitr::include_url('https://www.youtube.com/embed/Y50mTVIzAYk')
 ```
+
+(ref:srp) If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at [youtu.be/Y50mTVIzAYk](https://youtu.be/Y50mTVIzAYk) [@youtube-srp]
+
+
 
 When you teach, think about how you can support students before and after your time in the classroom.
 

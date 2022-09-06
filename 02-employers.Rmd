@@ -73,7 +73,7 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 ## The Wednesday Waggle
 
-During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](https://www.cdyf.me/finding.html) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding.html#studentjobs). It can help students find your needle in the jobs haystack.
+During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](https://www.cdyf.me/finding) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding#studentjobs). It can help students find your needle in the jobs haystack.
 
 ## Join the community
 
@@ -87,37 +87,47 @@ If you're a startup new to employment, you may find the guide at [gov.uk/employ-
 
 ## Buzzing!
 
-At peak times, we can get **very busy** with many concurrent employer events on campus. [@highfliers2021] Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
+At peak times, we can get **very busy** with many concurrent employer events on campus, see figure \@ref(fig:busy-fig). Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 
-(ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2021]
+(ref:captionhighfliers) According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com) [@highfliers2022]
 
-```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='(ref:captionhighfliers)'}
-knitr::include_graphics("images/high-fliers-table-2021.png")
+```{r busy-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap='(ref:captionhighfliers)'}
+knitr::include_graphics("images/high-fliers-table-2022.png")
 ```
 
 ## Employability
-We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry. This is a win-win-win situtation for:
+We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry to around 100 per year, see figure \@ref(fig:ie-fig). This is a win-win-win situation for:
 
 1. **Students**: benefit from a broader education, and develop social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment. This is known as the [winning personality](https://www.suttontrust.com/research-paper/a-winning-personality-confidence-aspirations-social-mobility/) [@winningpersonality].
 2. **Employers**: placements are a cost-effective way for employers to recruit (and retain) graduate talent
 3. **Universities**: produce better graduates [@Mandilaras2004] with broader and deeper skills, who earn more and get better jobs [@winningpersonality]. Well paid placements can also facilitate social mobility. [@Wang2018]
 
-year placement started | No. of Computer Science undergraduate students on placement  
------------ | -----------
-2008 | 35
-2009 | 31
-2010 | 45
-2011 | 42  
-2012 | 45  
-2013 | 70  
-2014 | 54  
-2015 | 70  
-2016 | 65  
-2017 | 100  
-2018 | 97  
-2019 | 110  
-2020 | 88
-2021 | 77
+```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:ieblurb)"}
+
+library(tidyverse)
+library(ggplot2)
+evenmoarplacements <- tribble(
+      ~year,         ~students,
+      "2008",       35,
+      "2009",       31,
+      "2010",       45,
+      "2011",       42,
+      "2012",       45,  
+      "2013",       70,  
+      "2014",       54,  
+      "2015",       70,  
+      "2016",       65,  
+      "2017",       100,  
+      "2018",       97,  
+      "2019",       110,  
+      "2020",       88,
+      "2021",       77
+    )
+ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
+```
+
+(ref:ieblurb) Number of undergraduate Computer Science students completing a year in industry as part of their degree at the University of Manchester. Since 2008 over 900 students have completed the program. I have been leading the program since 2012 and managed to ~double the number of students doing placements per year. As you can see in the histogram, the COVID-19 pandemic started having an effect on students starting placements in 2020.
+
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
 
