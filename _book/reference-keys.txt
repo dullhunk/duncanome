@@ -17,6 +17,7 @@ fig:unnamed-chunk-8
 fig:msc-fig
 fig:mu5-fig
 fig:tomfred-fig
+fig:baby-fig
 tab:cputable
 fig:bohr-fig
 teaching
