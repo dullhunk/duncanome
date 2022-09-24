@@ -102,27 +102,16 @@ We are working hard to improve the employability of students because while havin
 2. **Employers**: placements are a cost-effective way for employers to recruit (and retain) graduate talent
 3. **Universities**: produce better graduates [@Mandilaras2004] with broader and deeper skills, who earn more and get better jobs [@winningpersonality]. Well paid placements can also facilitate social mobility. [@Wang2018]
 
+
+
 ```{r ie-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:ieblurb)"}
 
 library(tidyverse)
 library(ggplot2)
-evenmoarplacements <- tribble(
-      ~year,         ~students,
-      "2008",       35,
-      "2009",       31,
-      "2010",       45,
-      "2011",       42,
-      "2012",       45,  
-      "2013",       70,  
-      "2014",       54,  
-      "2015",       70,  
-      "2016",       65,  
-      "2017",       100,  
-      "2018",       97,  
-      "2019",       110,  
-      "2020",       88,
-      "2021",       77
-    )
+
+evenmoarplacements <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/master/data/onie.csv")
+
+
 ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = students), stat = "identity")
 ```
 
