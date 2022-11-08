@@ -10,7 +10,7 @@ knitr::include_graphics("images/turingicon.jpg")
 
 ## Office {#office}
 
-My office is in the Kilburn building. If you exit the building from the Lower First (LF) floor, go through the double doors, down the ramp on the South side of the building, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor).
+My office is LF25 in the Kilburn building. Go through the double doors on the Lower First (LF) floor, down the ramp on the South side of the building, LF25 is at the bottom of the ramp on the right, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor).
 
 **Dr. Duncan Hull, Lecturer** 👨‍💻
 
