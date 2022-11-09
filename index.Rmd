@@ -21,15 +21,6 @@ url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 knitr::include_graphics("images/duncan_hull.png")
 ```
 
-
-```{r, eval=knitr::is_html_output(), results='asis', echo=FALSE}
-cat('<script src="https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed.js"></script>')
-```
-
-```{r, eval=knitr::is_latex_output(), results='asis', echo=FALSE}
-cat('see https://gist.github.com/dullhunk/45de6737e7cff0997c131acf8a1152ed')
-```
-
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](https://personalpages.manchester.ac.uk/staff/duncan.hull/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [industrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/) and departmental forum chair. I'm interested [improving teaching, learning and the student experience](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html) by:
 
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
