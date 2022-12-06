@@ -15,7 +15,7 @@ My office is LF25 in the Kilburn building. Go through the double doors on the Lo
 **Dr. Duncan Hull, Lecturer** 👨‍💻
 
 * 🏢 Room LF25, Kilburn Building
-* 📥 email:	duncan.hull ATE manchester.ac.uk
+* 📥 email:	`duncan.hull` ATE `manchester.ac.uk` where ATE=`@`
 * ☎️ telephone:	+44 161 275 6186
 * 🌐 [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 
