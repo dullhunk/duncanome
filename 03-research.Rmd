@@ -52,20 +52,18 @@ More information on past and future events like this can be found at:
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 ## Tuning complete {#tuningcomplete}
-Tuning complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test).
+Tuning complete started as a  from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test).
 
 ```{r beatles-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly.'}
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
 
-Our membership is fluid but our founding members, some of whom can be seen in figure \@ref(fig:beatles-fig) include:
+Our founding members, shown in figure \@ref(fig:beatles-fig) include:
 
 * [Jez Lloyd](https://www.linkedin.com/in/jez-lloyd-84077069): Bachelor of Music, DJ and backing vocals
 * [Steve Furber](https://en.wikipedia.org/wiki/Steve_Furber): bass guitar.
     + “All we've got is Steve's guitar, [three chords and the truth](https://en.wikipedia.org/wiki/Three_Chords_and_the_Truth).” [@harlan; @allalongthewatchtower]
 * [Justin Timberfake](https://en.wikipedia.org/wiki/Justin_Timberlake): lead vocals, lead dancer [@cantstopthefeeling]
-* [Billie Fakish](https://en.wikipedia.org/wiki/Billie_Eilish): guest vocalist [@badguy]
-* [Olivia Fakerigo](https://en.wikipedia.org/wiki/Olivia_Rodrigo): guest vocalist [@good4u]
 * Duncan Hull: MC,
     + synth ([MicroKORG](https://en.wikipedia.org/wiki/MicroKORG))
     + drum machine ([Sonic Pi](https://sonic-pi.net/))
@@ -82,6 +80,20 @@ We played our debut gigs to packed theatres of over 200 second year & first year
 ```{r mrskilburn-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bookings must be approved and scheduled by her office. Please do not approach band members directly with gig requests or offers of marriage, we are all answered for!'}
 knitr::include_graphics("images/mrs-kilburn.png")
 ```
+
+After several years of touring, we decided to invite women to join our  boy band, because we soon realised they could do all the things we weren't so good at such as:
+
+* Singing
+* Dancing
+* Performing
+* Looking good
+* Reading and writing music
+* Playing musical instruments
+
+So, as of 2022, Tuning Complete are a [musical collective](https://en.wikipedia.org/wiki/Musical_collective) with a fluid membership model, we're always looking for new members to contribute. Newer members have included:
+
+* [Billie Fakish](https://en.wikipedia.org/wiki/Billie_Eilish): guest vocalist [@badguy]
+* [Olivia Fakerigo](https://en.wikipedia.org/wiki/Olivia_Rodrigo): guest vocalist [@good4u]
 
 ## Publications
 Informal publications can be my lab log:
