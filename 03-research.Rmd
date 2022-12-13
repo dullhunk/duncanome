@@ -2,7 +2,7 @@
 
 My research interests are in [Computer Science Education](https://en.wikipedia.org/wiki/Computer_science_education) and [pedagogy](https://en.wikipedia.org/wiki/Pedagogy). [@CERhandbook; @JohnBiggs2011; @Fry2014] I'm interested in methods that can improve learning and student experience using techniques like [coding your future](https://www.cdyf.me), [journal clubbing](https://sigcse.cs.manchester.ac.uk/), [industrial mentoring](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/), [live music](#tuningcomplete), [working with schools](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html), [editing Wikipedia](#wikipedia) and more.
 
-```{r echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='(ref:captionprotest)'}
+```{r echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionprotest)'}
 knitr::include_graphics("images/wikipedian_protester.png")
 ```
 (ref:captionprotest) Too many educational practices are not backed up by good evidence that they actually work. More evidence is needed to support many of the claims made about effective pedagogy. _Wikipedian Protester_ cartoon by [Randall Munroe](https://en.wikipedia.org/wiki/Randall_Munroe) at [xkcd.com/285](https://xkcd.com/285/)  published under a [Creative Commons Attribution-NonCommercial 2.5 License](https://creativecommons.org/licenses/by-nc/2.5/)
