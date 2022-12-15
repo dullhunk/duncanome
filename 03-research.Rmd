@@ -52,7 +52,7 @@ More information on past and future events like this can be found at:
 * [en.wikipedia.org/wiki/User:Duncan.Hull](https://en.wikipedia.org/wiki/User:Duncan.Hull)
 
 ## Tuning complete {#tuningcomplete}
-Tuning complete started as a  from [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test).
+Tuning complete started as a [boy band](https://en.wikipedia.org/wiki/Boy_band) in [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test).
 
 ```{r beatles-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly.'}
 knitr::include_graphics("images/tuning-complete.jpg")
@@ -81,7 +81,8 @@ We played our debut gigs to packed theatres of over 200 second year & first year
 knitr::include_graphics("images/mrs-kilburn.png")
 ```
 
-After several years of touring, we decided to invite women to join our  boy band, because we soon realised they could do all the things we weren't so good at such as:
+### From boy band to musical collective {#collective}
+After several years of rehearsing, touring and time in the studio, we decided to invite women to join our boy band, because we soon realised they could do all the things we weren't so good at such as:
 
 * Singing
 * Dancing
@@ -94,6 +95,8 @@ So, as of 2022, Tuning Complete are a [musical collective](https://en.wikipedia.
 
 * [Billie Fakish](https://en.wikipedia.org/wiki/Billie_Eilish): guest vocalist [@badguy]
 * [Olivia Fakerigo](https://en.wikipedia.org/wiki/Olivia_Rodrigo): guest vocalist [@good4u]
+
+If you can sing, dance or play a musical instrument and would like to join us, please get in touch.
 
 ## Publications
 Informal publications can be my lab log:
@@ -109,6 +112,7 @@ Formal peer-reviewed publications can be found on DBLP, ORCID, Google Scholar, t
 * [europepmc.org/authors/0000-0003-2387-503X](https://europepmc.org/authors/0000-0003-2387-503X)
 * [profiles.impactstory.org/u/0000-0003-2387-503X](https://profiles.impactstory.org/u/0000-0003-2387-503X)
 * [scholar.google.com/citations?user=iDJ-t7IAAAAJ](https://scholar.google.com/citations?user=iDJ-t7IAAAAJ)
+* [research.manchester.ac.uk/en/persons/duncan.hull](https://research.manchester.ac.uk/en/persons/duncan.hull)
 
 According to Google scholar, my most cited papers are on:
 
