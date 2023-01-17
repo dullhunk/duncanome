@@ -54,9 +54,12 @@ More information on past and future events like this can be found at:
 ## Tuning complete {#tuningcomplete}
 Tuning complete started as a [boy band](https://en.wikipedia.org/wiki/Boy_band) in [Manchester, Lancashire 🌹](https://duncan.hull.name/2019/07/05/mancashire/), named after the famous Computer Scientist [Alan Tuning](https://en.wikipedia.org/wiki/Alan_Turing). We use his eponymous [Tuning machine](https://en.wikipedia.org/wiki/Turing_machine) to make music which is quality assured using the [Tuning test](https://en.wikipedia.org/wiki/Turing_test).
 
-```{r beatles-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly.'}
+```{r beatles-fig, echo = FALSE, fig.align = "center", out.width = "70%", fig.cap='(ref:captionjohnpaulringogeorge)'}
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
+
+(ref:captionjohnpaulringogeorge) The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly. With apologies to [https://en.wikipedia.org/wiki/Richard_Avedon](Richard Avedon) and his psychedelic portraits of John, Paul, Ringo and George. 
+
 
 Our founding members, shown in figure \@ref(fig:beatles-fig) include:
 

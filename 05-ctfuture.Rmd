@@ -1,10 +1,20 @@
 # Coding their future {#coding-their-future}
 
+Their future is bright, their future is coding. So let's start coding their future... 
+
+::: {.rmdnote}
+
+For: 
+
+* Coding **your** future, see [cdyf.me](https://www.cdyf.me/)
+* Coding **their** future, read on...
+:::
+
 Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
 
-* improve and support Computer Science education at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
+* improve and support computing education before, during and after [GCSE Computer Science](https://www.bbc.co.uk/bitesize/subjects/z34k7ty), particularly at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
 * [widen participation in higher education](https://www.manchester.ac.uk/discover/social-responsibility/widening-participation/), especially in under-represented groups. [@wideningparticipation; @classceiling; @nicebutdim; @breakintoelite]
-* enable our undergraduate students to develop their leadership and communication skills
+* enable our undergraduate students to develop their leadership and communication skills by working with young people in the classroom
 
 (ref:captioncodingtheirfuture) Is it art or is it science? It's both: Undergraduate students regularly practice the art of [computer science education](https://en.wikipedia.org/wiki/Computer_science_education) in secondary schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020; @m20202] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/) Picture of children coding adapted from an original by Arno Mikkor on Wikimedia Commons [w.wiki/65A2](https://w.wiki/65A2) using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
 
