@@ -1,6 +1,6 @@
 # Coding your future
 
-Your future is bright, your future is coding. So let's starting coding your future.
+Your future is bright, your future needs coding. So let's starting coding your future.
 
 *Coding your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the full text of the book is freely available online at [www.cdyf.me](https://www.cdyf.me). If you'd prefer to read it in ebook format, you can also download it in a single file, see section \@ref(downloading).
 

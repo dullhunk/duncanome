@@ -1,13 +1,13 @@
 # Coding their future {#coding-their-future}
 
-Their future is bright, their future is coding. So let's start coding their future... 
+Their future is bright, their future needs coding. So let's start coding their future... 
 
 ::: {.rmdnote}
 
 For: 
 
-* Coding **your** future, see [cdyf.me](https://www.cdyf.me/)
-* Coding **their** future, read on...
+* Coding **YOUR** future: a guidebook for students, see [cdyf.me](https://www.cdyf.me/)
+* Coding **THEIR** future: a collaboration between secondary schools at the University of Manchester, read on...
 :::
 
 Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
