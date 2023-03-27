@@ -58,7 +58,7 @@ Tuning complete started as a [boy band](https://en.wikipedia.org/wiki/Boy_band) 
 knitr::include_graphics("images/tuning-complete.jpg")
 ```
 
-(ref:captionjohnpaulringogeorge) The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly. With apologies to [https://en.wikipedia.org/wiki/Richard_Avedon](Richard Avedon) and his psychedelic portraits of John, Paul, Ringo and George. 
+(ref:captionjohnpaulringogeorge) The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly. With apologies to [Richard Avedon](https://en.wikipedia.org/wiki/Richard_Avedon) and his psychedelic portraits of John, Paul, Ringo and George. Artwork by Jez Lloyd.
 
 
 Our founding members, shown in figure \@ref(fig:beatles-fig) include:
