@@ -67,7 +67,7 @@ M13 9PL
 
 ## Kilburn building directions
 
-From the train stations, it takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). Our official postcode (M13 9PL) takes you to [University Place](http://www.conference.manchester.ac.uk/venues/search/details/?property=10) next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) [@what3words] below which are more accurate:
+From the train stations, it takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). Our official postcode (M13 9PL) takes you to [University Place](http://www.conference.manchester.ac.uk/venues/search/details/?property=10) (which looks like a giant tin of baked beans) next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) [@what3words] below which are more accurate:
 
 * Google map of the Kilburn building [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
 * There are two ground floor entrances to the Kilburn building, North and South
