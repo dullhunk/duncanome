@@ -44,7 +44,7 @@ I might not be the best person to talk to, depending on what you want, you might
 | Student Experience | soe.studentexperience@manchester.ac.uk |
 | Any Other Business (AOB) | soe.programmes@manchester.ac.uk |
 
-Please indicate in email by stating that you are COMPSCI
+If you're emailing `soe.x@manchester.ac.uk` you're query can be dealt with more quickly if you state your student ID and the fact that you are a Computer Science student, as these a centralised School of Engineering (`soe`) contacts.
 
 ## Video conferencing
 
