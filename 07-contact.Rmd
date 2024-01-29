@@ -24,6 +24,27 @@ My office is LF25 in the Kilburn building. Go through the double doors on the Lo
 * 🏢 Engineering building
 * 📥 email:	soe.placements@manchester.ac.uk
 
+## Other contacts
+
+I might not be the best person to talk to, depending on what you want, you might be better off speaking to: 
+
+|  Query |  contact  | 
+|---|---|
+| General UG & PGT Queries  | soe.programmes@manchester.ac.uk  |   
+|  Appeals and Conduct | soe.appealsandconduct@manchester.ac.uk  |   
+| Assessment and Progression  | soe.assessment@manchester.ac.uk  |   
+| Attendance Queries and Issues	 | soe.attendance@manchester.ac.uk |
+| Programme Changes | soe.programmes@manchester.ac.uk |
+| Course Unit Changes	 | soe.courseunits@manchester.ac.uk |
+| Mitigating Circumstances, support and Welfare | soe.wellbeing@manchester.ac.uk |
+| Placements | soe.placements@manchester.ac.uk |
+| Timetabling |soe.timetabling@manchester.ac.uk  |
+| Student Data | soe.studentdata@manchester.ac.uk |
+| Student Support Hub | soe.hub@manchester.ac.uk |
+| Student Experience | soe.studentexperience@manchester.ac.uk |
+| Any Other Business (AOB) | soe.programmes@manchester.ac.uk |
+
+Please indicate in email by stating that you are COMPSCI
 
 ## Video conferencing
 
@@ -49,11 +70,13 @@ You can get in touch via t'internet at:
 
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
-* Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)
+* LinkedIn: [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
+* Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk) 
+* YouTube: [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future)
 
 ## Postal address
 
-Send post by snail mail 🐌 to :
+Send post by snail mail to: 🐌
 
 Dr. Duncan Hull  
 Lecturer  

@@ -6,16 +6,19 @@
   12pt,
 ]{book}
 \usepackage{amsmath,amssymb}
-\usepackage{lmodern}
 \usepackage{iftex}
 \ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
 \else % if luatex or xetex
-  \usepackage{unicode-math}
+  \usepackage{unicode-math} % this also loads fontspec
   \defaultfontfeatures{Scale=MatchLowercase}
   \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
 \fi
 % Use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -69,15 +72,15 @@
 \bibliographystyle{apalike}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\urlstyle{same} % disable monospaced font for URLs
+\urlstyle{same}
 \hypersetup{
   pdftitle={Dr.~Duncan Hull},
-  pdfauthor={Yours truly},
+  pdfauthor={Yours truly, last updated on 29 January, 2024},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 \title{Dr.~Duncan Hull}
-\author{Yours truly}
+\author{Yours truly, last updated on 29 January, 2024}
 \date{}
 
 \begin{document}
@@ -109,24 +112,24 @@ Hello and welcome to the \href{https://www.cs.manchester.ac.uk/}{Department of C
 \item
   Teaching engineers to \href{https://software-eng.netlify.app/}{make better software} in collaboration with our \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentors}
 \item
-  Updating students weekly on opportunities with the Wednesday waggle newsletter at \href{https://waggle.cs.manchester.ac.uk/waggle/about}{waggle.cs.manchester.ac.uk}
+  Updating students weekly on opportunities with the Wednesday waggle newsletter at \href{https://waggle.cs.manchester.ac.uk/waggle/about}{waggle.cs.manchester.ac.uk} 🐝
 \item
   Improving students written communication skills by enabling them to start \href{https://www.cdyf.me/writing}{writing their future}
 \item
   Engaging with a wide range of employers through \href{https://www.cs.manchester.ac.uk/connect/business-engagement/}{our industry club}
 \item
-  Growing and building the teaching community by journal clubbing at \href{https://sigcse.cs.manchester.ac.uk/}{sigcse.cs.manchester.ac.uk}
+  Growing and building the teaching community by journal clubbing at \href{https://sigcse.cs.manchester.ac.uk/}{sigcse.cs.manchester.ac.uk} and serving on the board of \href{https://uki-sigcse.acm.org/}{uki-sigcse.acm.org}
 \item
   Supporting local schools teaching computing by \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html}{coding their future}
 \end{itemize}
 
-Our elective industrial experience program has \protect\hyperlink{employability}{up to 100} students every year working in paid employment for the penultimate (``sandwich'') year-in-industry of their undergraduate degrees. If you are an \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html}{employer} who would like to recruit a summer intern, placement student or graduate please \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html}{get in touch}. 🐝
+Our elective industrial experience program has \protect\hyperlink{employability}{up to 100} students every year working in paid employment for the penultimate (``sandwich'') year-in-industry of their undergraduate degrees. If you are an \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html}{employer} who would like to recruit a summer intern, placement student or graduate please \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html}{get in touch}.
 
 \hypertarget{full-stack-teaching}{%
 \section*{Full stack teaching}\label{full-stack-teaching}}
 \addcontentsline{toc}{section}{Full stack teaching}
 
-Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary \& secondary school children, undergraduates \& postgraduates. In 2011, I completed a \href{https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education}{Postgraduate Certificate in Education} (PGCE) at the \href{https://www.bath.ac.uk/}{University of Bath} and worked as a high school science teacher in co-educational \href{https://www.gov.uk/types-of-school}{comprehensive (non-selective) state schools} in Swindon, Shaftesbury and Stockport before returning to higher education. As well as teaching in the UK I have also taught in India, Japan and America too. 🇪🇺🇬🇧🇮🇳🇯🇵🇺🇸
+Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary \& secondary school children, undergraduates \& postgraduates. In 2011, I completed a \href{https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education}{Postgraduate Certificate in Education} (PGCE) at the \href{https://www.bath.ac.uk/}{University of Bath} and worked as a high school science teacher in co-educational \href{https://www.gov.uk/types-of-school}{comprehensive (non-selective) state schools} in Swindon, Shaftesbury and Stockport before returning to higher education. I serve as a \href{https://www.manchester.ac.uk/connect/teachers/school-governors/}{school governor} on the governing board of a school in Greater Manchester. As well as teaching in the UK I have also taught in India, Japan and America too. 🇪🇺🇬🇧🇮🇳🇯🇵🇺🇸
 
 \hypertarget{whats-the-story}{%
 \section*{What's the story?}\label{whats-the-story}}
@@ -138,13 +141,13 @@ What's the story, Jackanory? Born in \href{https://en.wikipedia.org/wiki/Bath,_S
 \section*{Toolbox}\label{toolbox}}
 \addcontentsline{toc}{section}{Toolbox}
 
-Last updated on 23 January, 2023, this website was built using \href{https://bookdown.org}{bookdown} with \href{https://en.wikipedia.org/wiki/Markdown}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://en.wikipedia.org/wiki/Pandoc}{Pandoc}, \href{https://en.wikipedia.org/wiki/GitHub}{GitHub}, \href{https://posit.co/}{Posit} and TLC. The \href{https://github.com/dullhunk/duncanome}{source is available on github} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
+This website was built using \href{https://bookdown.org}{bookdown} with \href{https://en.wikipedia.org/wiki/Markdown}{R markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://en.wikipedia.org/wiki/Pandoc}{Pandoc}, \href{https://en.wikipedia.org/wiki/GitHub}{GitHub}, \href{https://posit.co/}{Posit} and TLC. The \href{https://github.com/dullhunk/duncanome}{source code is available} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
 
 \hypertarget{get-a-life}{%
 \section*{Get a life!}\label{get-a-life}}
 \addcontentsline{toc}{section}{Get a life!}
 
-When I get the time I like to sing \href{https://en.wikipedia.org/wiki/Bass_(voice_type)}{bassy}-\href{https://en.wikipedia.org/wiki/Baritone}{baritone}, \href{http://beelife.cs.manchester.ac.uk/}{look after bees} and butcher the greek language, preferably on a beach in Greece. Άντε γειά! 🏖️🇬🇷
+Outside of work I sing a \href{https://en.wikipedia.org/wiki/Bass_(voice_type)}{bassy}-\href{https://en.wikipedia.org/wiki/Baritone}{baritone} in a local community \href{https://en.wikipedia.org/wiki/Show_choir}{show choir}, \href{http://beelife.cs.manchester.ac.uk/}{look after bees} and enjoy learning the greek language and culture, preferably on a beach or taverna in Greece. Άντε γειά! 🏖️🇬🇷
 
 \hypertarget{part-duncanome}{%
 \part{DUNCANOME}\label{part-duncanome}}
@@ -152,7 +155,7 @@ When I get the time I like to sing \href{https://en.wikipedia.org/wiki/Bass_(voi
 \hypertarget{teaching}{%
 \chapter{Students}\label{teaching}}
 
-I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office, \href{https://www.youtube.com/channel/UCLBv_u8JmyUPqmRALIjVnLg}{on YouTube} and in the lecture theatre. 🎭
+I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office hours, on \href{https://www.youtube.com/@coding-your-future}{youtube.com/@coding-your-future} and in lecture theatres. 🎭
 
 \begin{figure}
 
@@ -301,21 +304,22 @@ If you are recruiting computer scientists and software engineers as a summer int
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3667}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2667}}@{}}
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 Institute
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 UCAS entry tariff
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 \href{https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/}{University of Manchester} & A* A* A* & \\
 \href{https://www.undergraduate.study.cam.ac.uk/courses/computer-science}{University of Cambridge} & A* A* A & \\
 \href{https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020}{University College London} & A* A* A & \\
 \href{https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/}{Imperial College London} & A* A* A & \\
 \href{https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science}{University of Oxford} & A* A A & \\
-\bottomrule()
 \end{longtable}
 
 If you are looking to recruit science and engineering students from other disciplines like \href{https://www.physics.manchester.ac.uk/}{Physics}, \href{https://www.maths.manchester.ac.uk/}{Maths}, \href{https://www.chemistry.manchester.ac.uk/}{Chemistry}, Mechnical, Aerospace \& Civil Engineering (\href{https://www.mace.manchester.ac.uk/}{MACE}), \href{https://www.materials.manchester.ac.uk/}{Materials Science} and Electrical \& Electronic Engineering (\href{https://www.eee.manchester.ac.uk/}{EEE}) you should talk to:
@@ -381,7 +385,7 @@ If you would like to co-supervise a project student in collaboration with an aca
   \textbf{Impact Acceleration Accounts}: We have a range of \href{https://epsrc.ukri.org/innovation/fundingforimpact/impact-acceleration-accounts/}{IAAs}, speak to the research office for details
 \end{itemize}
 
-For Bachelors and Masters projects, you can contact academic members of staff directly, or speak to \href{https://www.research.manchester.ac.uk/portal/tim.morris.html}{Tim Morris} (final year project lead) or \href{https://www.research.manchester.ac.uk/portal/caroline.jay.html}{Caroline Jay}, who leads our postgraduate taught (Masters) courses.
+For Bachelors and Masters projects, you can contact academic members of staff directly, or speak to \href{https://research.manchester.ac.uk/en/persons/terence.morley}{Terence Morley} (final year project lead) or \href{https://research.manchester.ac.uk/en/persons/thomas.thomson}{Thomas Thomson}, who leads our postgraduate taught (Masters) courses.
 
 \hypertarget{the-wednesday-waggle}{%
 \section{The Wednesday Waggle}\label{the-wednesday-waggle}}
@@ -414,11 +418,11 @@ At peak times, we can get \textbf{very busy} with many concurrent employer event
 
 \begin{figure}
 
-{\centering \includegraphics[width=1\linewidth]{images/high-fliers-table-2022} 
+{\centering \includegraphics[width=1\linewidth]{images/high-fliers-table-2023} 
 
 }
 
-\caption{According to \href{https://www.highfliers.co.uk}{highfliers.co.uk}, the University of Manchester is the most targeted University in the UK by the \href{https://www.top100graduateemployers.com}{Times Top 100 Graduate Employers} \citep{highfliers2022}}\label{fig:busy-fig}
+\caption{According to \href{https://www.highfliers.co.uk}{highfliers.co.uk}, the University of Manchester is the most targeted University in the UK by the \href{https://www.top100graduateemployers.com}{Times Top 100 Graduate Employers} \citep{highfliers2023}}\label{fig:busy-fig}
 \end{figure}
 
 \hypertarget{employability}{%
@@ -450,12 +454,12 @@ We are working hard to improve the employability of students because while havin
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
 
-There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, \href{Contact}{get in touch}.
+There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, \href{contact}{get in touch}.
 
 \hypertarget{research}{%
 \chapter{Research}\label{research}}
 
-My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuningcomplete}{live music}, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html}{working with schools}, \protect\hyperlink{wikipedia}{editing Wikipedia} and more.
+My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuningcomplete}{live music}, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html}{working with schools}, \protect\hyperlink{wikipedia}{editing Wikipedia} and more. Previously I've worked in \href{https://en.wikipedia.org/wiki/Bioinformatics}{bioinformatics}, \href{https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning}{knowledge representation and reasoning} and \href{https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence}{symbolic AI}.
 
 \begin{figure}
 
@@ -562,7 +566,7 @@ Tuning complete started as a \href{https://en.wikipedia.org/wiki/Boy_band}{boy b
 
 }
 
-\caption{The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly. With apologies to \href{Richard\%20Avedon}{https://en.wikipedia.org/wiki/Richard\_Avedon} and his psychedelic portraits of John, Paul, Ringo and George.}\label{fig:beatles-fig}
+\caption{The founder members of Tuning Complete were Jez Lloyd, Steve Furber, Justin Timberfake and yours truly. With apologies to \href{https://en.wikipedia.org/wiki/Richard_Avedon}{Richard Avedon} and his psychedelic portraits of John, Paul, Ringo and George. Artwork by Jez Lloyd.}\label{fig:beatles-fig}
 \end{figure}
 
 
@@ -949,6 +953,8 @@ You will be expected to work closely with the teacher to develop resources that
   engage students with one or more aspects of the new Computer Science curriculum at an appropriate key stage. This is usually \href{https://en.wikipedia.org/wiki/Key_Stage_3}{key stage 3}, \href{https://en.wikipedia.org/wiki/Key_Stage_4}{key stage 4} or \href{https://en.wikipedia.org/wiki/Key_Stage_5}{key stage 5} ages 11-18.
 \item
   complement \textbf{and extend} the schools current provision for computer science in the school
+\item
+  a substantial piece of software or hardware, this is a requirement for all projects in Computer Science
 \end{itemize}
 
 During the project you will be spending a significant amount of time in the classroom, visiting your school every week during school term time throughout the duration of your project to develop resources. These must include a computer-based teaching tool which may use, for example, Raspberry Pi's, visual aids, demonstrations, videos, online questionnaires, formative feedback, games, drones, robotics, music, \citep{Aaron2016} algorithms \citep{Kubica2012} or even just the command line \citep{conquerthecommandline} etc.\footnote{Conquer the command line is part of the The MagPi essentials series, there are lots of others like it you may find useful on using the camera module, gaming in python, simple electronics and more at \url{https://store.rpipress.cc}} In addition, guidance on classroom use, such as a lesson or series of lessons to support the tool. Remember that you don't actually need a computer, see \href{https://csunplugged.org}{Computer Science Unplugged}: Computer Science without a Computer. \citep{Bell2018}
@@ -971,6 +977,10 @@ Assessments for these projects will be as for standard projects, \citep{COMP3003
 \subsection{Blended learning}\label{blended}}
 
 COVID 19 has changed teaching, from primary and secondary school right through to higher education. You need to get clued up on \href{https://en.wikipedia.org/wiki/Blended_learning}{blended learning}. Start with \href{http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/}{Moving to Blended Learning, Part 1: Terminology and Concepts}, then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
+
+\begin{verbatim}
+## Google Chrome was not found. Try setting the `CHROMOTE_CHROME` environment variable to the executable of a Chromium-based browser, such as Google Chrome, Chromium or Brave.
+\end{verbatim}
 
 \begin{figure}
 
@@ -1044,7 +1054,17 @@ So you've selected \emph{Coding their future} as your third year project and now
 \hypertarget{referee}{%
 \chapter{Will you be my referee?}\label{referee}}
 
-As industrial experience and employability tutor, I get asked to write \emph{lots} of references for students applying for jobs and further study, see figure \ref{fig:referee-fig}. I'm happy to do this \textbf{if} you've been my personal tutee or I've worked with you closely outside of ordinary teaching. However, it's impossible for me to say YES to every request for a reference. For students I haven't worked with, it is difficult to do, because all I can confirm is facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+As industrial experience and employability tutor, I get asked to write \emph{lots} of references for students applying for jobs and further study, see figure \ref{fig:referee-fig}. I'm happy to do this \textbf{if}:
+
+\begin{itemize}
+\tightlist
+\item
+  You have been my personal tutee in first, second, placement or final year
+\item
+  We have worked together outside of ordinary teaching
+\end{itemize}
+
+However, it's impossible for me to say YES to every request for a reference. It is difficult for academics to write references for students they don't know much about, as all they can do is confirm facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
 
 \begin{figure}
 
@@ -1052,7 +1072,7 @@ As industrial experience and employability tutor, I get asked to write \emph{lot
 
 }
 
-\caption{Come on ref! ⚽️ I'm not \emph{that} kind of \href{https://en.wikipedia.org/wiki/Referee}{referee}, but I \emph{can} provide facts and opinions about you to employers subject to conditions outlined on this page. Whoever your referee is, make sure you ask their permission beforehand, otherwise you may receive an unexpected (virtual) \href{https://en.wikipedia.org/wiki/Penalty_card}{penalty card} from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons \href{https://w.wiki/3dqE}{w.wiki/3dqE} adapted using the \href{https://apps.apple.com/us/app/wikipedia/id324715238}{Wikipedia app}}\label{fig:referee-fig}
+\caption{Come on ref! I'm not \emph{that} kind of \href{https://en.wikipedia.org/wiki/Referee}{referee}, but I \emph{can} provide facts and opinions about you to employers subject to conditions outlined on this page. Whoever your referee is, make sure you ask their permission beforehand, otherwise you may receive an unexpected (virtual) \href{https://en.wikipedia.org/wiki/Penalty_card}{penalty card} from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons \href{https://w.wiki/3dqE}{w.wiki/3dqE} adapted using the \href{https://apps.apple.com/us/app/wikipedia/id324715238}{Wikipedia app} ⚽️}\label{fig:referee-fig}
 \end{figure}
 
 
@@ -1187,31 +1207,50 @@ My office is LF25 in the Kilburn building. Go through the double doors on the Lo
   🌐 \href{https://uk.linkedin.com/in/duncanhull}{linkedin.com/in/duncanhull}
 \end{itemize}
 
-\textbf{Mabel Yau, Careers and placements officer} 👩‍💻
+\textbf{Student Support Office } 👨‍👩‍👧‍👧
 
 \begin{itemize}
 \tightlist
 \item
   🏢 Engineering building
 \item
-  📥 email: mabel.yau ATE manchester.ac.uk
-\item
-  🌐 \href{https://uk.linkedin.com/in/mabel-yau}{linkedin.com/in/mabel-yau}
+  📥 email: \href{mailto:soe.placements@manchester.ac.uk}{\nolinkurl{soe.placements@manchester.ac.uk}}
 \end{itemize}
 
-\textbf{Student Support Office } 👨‍👩‍👧‍👧
+\hypertarget{other-contacts}{%
+\section{Other contacts}\label{other-contacts}}
 
-\begin{itemize}
-\tightlist
-\item
-  🏢 Engineering building foyer
-\item
-  📥 email \href{mailto:compsci-sso-ug@manchester.ac.uk}{\nolinkurl{compsci-sso-ug@manchester.ac.uk}}
-\item
-  📥 email \href{mailto:compsci-sso-pg@manchester.ac.uk}{\nolinkurl{compsci-sso-pg@manchester.ac.uk}}
-\item
-  ☎️ telephone: +44 161 549 1288
-\end{itemize}
+I might not be the best person to talk to, depending on what you want, you might be better off speaking to:
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.5000}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+Query
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+contact
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+General UG \& PGT Queries & \href{mailto:soe.programmes@manchester.ac.uk}{\nolinkurl{soe.programmes@manchester.ac.uk}} \\
+Appeals and Conduct & \href{mailto:soe.appealsandconduct@manchester.ac.uk}{\nolinkurl{soe.appealsandconduct@manchester.ac.uk}} \\
+Assessment and Progression & \href{mailto:soe.assessment@manchester.ac.uk}{\nolinkurl{soe.assessment@manchester.ac.uk}} \\
+Attendance Queries and Issues & \href{mailto:soe.attendance@manchester.ac.uk}{\nolinkurl{soe.attendance@manchester.ac.uk}} \\
+Programme Changes & \href{mailto:soe.programmes@manchester.ac.uk}{\nolinkurl{soe.programmes@manchester.ac.uk}} \\
+Course Unit Changes & \href{mailto:soe.courseunits@manchester.ac.uk}{\nolinkurl{soe.courseunits@manchester.ac.uk}} \\
+Mitigating Circumstances, support and Welfare & \href{mailto:soe.wellbeing@manchester.ac.uk}{\nolinkurl{soe.wellbeing@manchester.ac.uk}} \\
+Placements & \href{mailto:soe.placements@manchester.ac.uk}{\nolinkurl{soe.placements@manchester.ac.uk}} \\
+Timetabling & \href{mailto:soe.timetabling@manchester.ac.uk}{\nolinkurl{soe.timetabling@manchester.ac.uk}} \\
+Student Data & \href{mailto:soe.studentdata@manchester.ac.uk}{\nolinkurl{soe.studentdata@manchester.ac.uk}} \\
+Student Support Hub & \href{mailto:soe.hub@manchester.ac.uk}{\nolinkurl{soe.hub@manchester.ac.uk}} \\
+Student Experience & \href{mailto:soe.studentexperience@manchester.ac.uk}{\nolinkurl{soe.studentexperience@manchester.ac.uk}} \\
+Any Other Business (AOB) & \href{mailto:soe.programmes@manchester.ac.uk}{\nolinkurl{soe.programmes@manchester.ac.uk}} \\
+\end{longtable}
+
+Please indicate in email by stating that you are COMPSCI
 
 \hypertarget{video-conferencing}{%
 \section{Video conferencing}\label{video-conferencing}}
@@ -1260,13 +1299,17 @@ You can get in touch via t'internet at:
 \item
   Github: \href{https://github.com/dullhunk}{github.com/dullhunk}
 \item
+  LinkedIn: \href{https://uk.linkedin.com/in/duncanhull}{linkedin.com/in/duncanhull}
+\item
   Twitter: \href{https://twitter.com/dullhunk}{twitter.com/dullhunk}
+\item
+  YouTube: \href{https://www.youtube.com/@coding-your-future}{youtube.com/@coding-your-future}
 \end{itemize}
 
 \hypertarget{postal-address}{%
 \section{Postal address}\label{postal-address}}
 
-Send post by snail mail 🐌 to :
+Send post by snail mail to: 🐌
 
 Dr.~Duncan Hull\\
 Lecturer\\
@@ -1281,7 +1324,7 @@ M13 9PL\\
 \hypertarget{kilburn-building-directions}{%
 \section{Kilburn building directions}\label{kilburn-building-directions}}
 
-From the train stations, it takes about 20 minutes to walk from \href{https://www.nationalrail.co.uk/stations_destinations/man.aspx}{Manchester Piccadilly} (MAN) and ten minutes from \href{https://www.nationalrail.co.uk/stations/mco/details.aspx}{Manchester Oxford Road} (MCO). Our official postcode (M13 9PL) takes you to \href{http://www.conference.manchester.ac.uk/venues/search/details/?property=10}{University Place} next door, so you're better of using the \href{https://www.bbc.co.uk/news/uk-england-49319760}{what3words locations} \citep{what3words} below which are more accurate:
+From the train stations, it takes about 20 minutes to walk from \href{https://www.nationalrail.co.uk/stations_destinations/man.aspx}{Manchester Piccadilly} (MAN) and ten minutes from \href{https://www.nationalrail.co.uk/stations/mco/details.aspx}{Manchester Oxford Road} (MCO). Our official postcode (M13 9PL) takes you to \href{http://www.conference.manchester.ac.uk/venues/search/details/?property=10}{University Place} (which looks like a giant tin of baked beans) next door, so you're better of using the \href{https://www.bbc.co.uk/news/uk-england-49319760}{what3words locations} \citep{what3words} below which are more accurate:
 
 \begin{itemize}
 \tightlist
@@ -1438,24 +1481,26 @@ What's interesting about the difference between 1948 and now are the changes in 
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3483}}
   >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3371}}@{}}
 \caption{\label{tab:cputable} Advances in processor power 1948 to 2000, the \emph{Baby in 1948} is the Manchester Baby. The \emph{ARM in 2000} refers the \href{http://apt.cs.manchester.ac.uk/ftp/pub/apt/misc/Amu3Hv10.fm5.pdf}{ARM AMULET3H microprocessor} taken from \href{https://web.archive.org/web/20210630214331/https://studentnet.cs.manchester.ac.uk/pgt/2004/CSSyllabus.pdf}{CS501: Machine architecture}. Thanks to Jim Garside, Doug Edwards and \href{https://en.wikipedia.org/wiki/Steve_Furber}{Steve Furber} for the data. \citep{amulet, furberarm}}\tabularnewline
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Baby in 1948
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 ARM in 2000
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endfirsthead
-\toprule()
+\toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 Baby in 1948
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
 ARM in 2000
 \end{minipage} \\
-\midrule()
+\midrule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Size & Filled a medium sized room & fills 7mm by 3mm of silicon \\
 Power usage (Watts) & 3.5kW (3500W) & 215mW (0.215W) \\
 Instructions executed
@@ -1465,9 +1510,7 @@ Energy efficiency
 
 
 
-
 \\
-\bottomrule()
 \end{longtable} (that's 2,000,000,000 times more efficient than The Baby!)
 
 So where is all this going? What about the future? Let's take a \href{https://en.wikipedia.org/wiki/Long_Now_Foundation}{longer view}, and skip forward from 1948 to 2048\ldots{}

@@ -2,7 +2,7 @@
 
 # Students {#teaching}
 
-I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office, [on YouTube](https://www.youtube.com/@codingyourfuture6167) and in the lecture theatre. 🎭
+I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office hours, on [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future) and in lecture theatres. 🎭
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captionbbcsofa)"}
 knitr::include_graphics("images/bbcbreakfastsofa.png")

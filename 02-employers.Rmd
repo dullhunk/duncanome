@@ -120,7 +120,7 @@ ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = student
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
 
-There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch](Contact).
+There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch](contact).
 
 <!--
 ## Guest lectures from employers {#guestlectures}
