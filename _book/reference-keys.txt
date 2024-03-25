@@ -9,11 +9,13 @@ fig:beatles-fig
 fig:mrskilburn-fig
 fig:cdyf-fig
 fig:unnamed-chunk-5
+tab:schooltable
 fig:unnamed-chunk-6
 fig:unnamed-chunk-7
 fig:srp-fig
 fig:referee-fig
 fig:unnamed-chunk-8
+fig:unnamed-chunk-9
 fig:msc-fig
 fig:mu5-fig
 fig:tomfred-fig

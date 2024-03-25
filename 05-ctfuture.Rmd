@@ -21,23 +21,52 @@ Coding their future is a collaboration & partnership between secondary schools a
 ```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncodingtheirfuture)"}
 knitr::include_graphics("images/computer-science-education.jpeg")
 ```
-The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] Since these projects were started in 2012, our students have worked with a range of schools in the private and public sector, both selective and non-selective, co-educational and single-sex including:
+The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] Since these projects were started in 2012, our students have worked with a range of predominantly non-selective state schools, co-educational and single-sex shown in table  \@ref(tab:schooltable).
 
-* [Fairfield High School for Girls](http://www.fairfieldhigh.tameside.sch.uk/), Droylsden
-* [Trinity CofE High School](https://www.trinityhigh.com), Central Manchester
-* [University Technical College (UTC) $@$MediaCityUK](http://www.utcmediacityuk.org.uk/), Salford
-* [Manchester Communication Academy](https://www.manchestercommunicationacademy.com/), Harpurhey  
-* [The Barlow RC High School](https://thebarlowrchigh.co.uk/), Didsbury
-* [William Hulme Grammar School](https://www.whgs-academy.org/), Whalley Range
-* [Cheadle Hulme High School](https://www.chhs.org.uk/), (CHHS) Stockport
-* [Laurus Cheadle Hulme](https://www.lauruscheadlehulme.org.uk/), Stockport
-* [Knutsford Academy](https://www.knutsfordacademy.org.uk/), Knutsford
-* [Altrincham Grammar School for Girls](http://www.aggs.trafford.sch.uk/), Trafford
-* [Altrincham Grammar School for Boys](https://www.agsb.co.uk/), Trafford
-* [Manchester Grammar School](https://www.mgs.org/) (MGS), Fallowfield
-* [Stretford Grammar](https://www.stretfordgrammar.com/) (SGS), Stretford
+:  (\#tab:schooltable) Schools our undergraduate students have worked with in teaching computing in since 2013, ordered by the percentage of students entitled to free school meals (FSM). As of 2023, the UK average for students on FSM according to gov.uk is **23.8%**. [@averagefsm] This number has been increasing over the last decade as the UK falls behind on tackling child poverty [@childpoverty;@bbcfsm] 
 
-The projects were setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) (who retired in 2019), and are now run and supervised by Duncan. We hope to transfer ideas between private and public sector, as there are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+|   School                                                                             | Location     | % FSM via gov.uk website              |
++======================================================================================+==============+=======================================+
+| [theeastmanchesteracademy.co.uk](https://www.theeastmanchesteracademy.co.uk)         | Beswick      | [65.9%](https://bit.ly/temac)         |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [manchestercommunicationacademy.com](https://www.manchestercommunicationacademy.com) | Harpurhey    | [54.9%](https://bit.ly/mcommacad)     |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [wrhs1118.co.uk](https://wrhs1118.co.uk)                                             | Whalley Range| [41.6%](https://bit.ly/wrhschool)     |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [allhallowssalford.com](https://www.allhallowssalford.com)                           | Salford      | [37.4%](https://bit.ly/allhallowshigh)|
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [thebarlowrchigh.co.uk](https://thebarlowrchigh.co.uk)                               | Didsbury     | [37.2%](https://bit.ly/barlowrc)      |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [pwhs.co.uk](https://pwhs.co.uk)                                                     | Didsbury     | [35.6%](https://bit.ly/didsburyhigh)  |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [stannes.academy](https://www.stannes.academy)                                       | Stockport    | [34%](https://bit.ly/stannesrc)       |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [utcmediacityuk.org.uk](https://www.utcmediacityuk.org.uk)                           | Salford      | [31.3%](https://bit.ly/4ateW1q)       |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [trinityhigh.com](https://www.trinityhigh.com)                                       | Hulme        | [31.1%](https://bit.ly/trinityhighs)  |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [whgs-academy.org](https://www.whgs-academy.org)                                     | Whalley Range| [30.9%](https://bit.ly/whgs)          |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [fairfieldhigh.tameside.sch.uk](http://www.fairfieldhigh.tameside.sch.uk)            | Droylsden    | [23.1%](https://bit.ly/fairfieldhigh) |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [lauruscheadlehulme.org.uk](https://www.lauruscheadlehulme.org.uk)                   | Cheadle Hulme| [16.6%](https://bit.ly/laurusch)      |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [knutsfordacademy.org.uk](https://www.knutsfordacademy.org.uk)                       | Knutsford    | [12.4%](https://bit.ly/knutsacad)     |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [chhs.org.uk](https://www.chhs.org.uk)                                               | Cheadle Hulme| [11.1%](https://bit.ly/cheadlehhs)    |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [stretfordgrammar.com](https://www.stretfordgrammar.com)                             | Stretford    | [9.9%](https://bit.ly/stretfordg)     |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [agsb.co.uk](https://www.agsb.co.uk)                                                 | Altrincham   | [3%](https://bit.ly/alty-boys)        |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [aggs.bright-futures.co.uk](https://aggs.bright-futures.co.uk)                       | Altrincham   | [2.6%](https://bit.ly/alto-girls)     |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [mgs.org](https://www.mgs.org)                                                       | Rusholme     |  0%                                   |
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+
+
+The project was setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) in 2013, and are now run and supervised by Duncan. There are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
 
 ## Guidance for teachers
 

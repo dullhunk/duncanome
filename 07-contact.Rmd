@@ -44,7 +44,12 @@ I might not be the best person to talk to, depending on what you want, you might
 | Student Experience | soe.studentexperience@manchester.ac.uk |
 | Any Other Business (AOB) | soe.programmes@manchester.ac.uk |
 
-If you're emailing `soe.x@manchester.ac.uk` you're query can be dealt with more quickly if you state your student ID and the fact that you are a Computer Science student, as these a centralised School of Engineering (`soe`) contacts.
+If you  provide the following information in your email, they will be able to respond to your query more efficiently:
+
+* Name of Department (e.g. Computer Science)
+* Student ID Number
+* Programme of Study
+* Brief description of how we can assist you
 
 ## Video conferencing
 
@@ -97,7 +102,13 @@ From the train stations, it takes about 20 minutes to walk from [Manchester Picc
   + North entrance: [what3words.com/port.museum.rips](https://what3words.com/port.museum.rips)
   + South entrance: [what3words.com/common.wiping.email](https://what3words.com/common.wiping.email)
 * There is no formal reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
-* See also [cs.manchester.ac.uk/about/maps-and-travel/](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
+* See also [cs.manchester.ac.uk/about/maps-and-travel](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
+
+
+```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
+knitr::include_graphics("images/dooncan-hool.jpg")
+```
+(ref:captiondooncan) This is not the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building), this is the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) in 2009
 
 ## Parking
 
