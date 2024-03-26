@@ -8,25 +8,33 @@ You can get in touch using the details below, which include directions and parki
 knitr::include_graphics("images/turingicon.jpg")
 ```
 
-## Office {#office}
+## Kilburn office {#office}
 
-My office is LF25 in the Kilburn building. Go through the double doors on the Lower First (LF) floor, down the ramp on the South side of the building, LF25 is at the bottom of the ramp on the right, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor).
-
-**Dr. Duncan Hull, Lecturer** 👨‍💻
+My office is LF25 in the Kilburn building shown in figure \@ref(fig:kilburn-fig). From the Byte cafe on the lower first floor, go through the double doors on the South side of the building and down the ramp. LF25 is at the bottom of the ramp on the right, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor). 
 
 * 🏢 Room LF25, Kilburn Building
 * 📥 email:	`duncan.hull` ATE `manchester.ac.uk` where ATE=`@`
 * ☎️ telephone:	+44 161 275 6186
 * 🌐 [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 
-**Student Support Office ** 👨‍👩‍👧‍👧
+Details of my office hours can be found in the Wednesday Waggle. 🐝
 
-* 🏢 Engineering building
-* 📥 email:	soe.placements@manchester.ac.uk
+```{r kilburn-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnarama)", out.width = "100%"}
+knitr::include_graphics("images/kilburnarama.jpg")
+```
+(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on the Oxford Road. The building is next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), which looks like a giant tin of baked beans, shown on the right of the picture. 
 
-## Other contacts
+## Student support {#sso}
 
-I might not be the best person to talk to, depending on what you want, you might be better off speaking to: 
+I might not be the best person to talk to, depending on what you want. If you're a student, you might be better off contacting student support in person by the neon signs in the [engineering building](https://www.mecd.manchester.ac.uk/), see figure \@ref(fig:sso-fig).
+
+
+```{r sso-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionstudentsupport)", out.width = "100%"}
+knitr::include_graphics("images/studentsupport.jpg")
+```
+(ref:captionstudentsupport) The Student Support office on the first floor of the [engineering building](https://www.mecd.manchester.ac.uk/) are here to help you, they should be your first port of call. If you have something more specific about a personal, academic or employment issue I can help.
+
+You can also contact student support online at [www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk) or via one of the emails below.
 
 |  Query |  contact  | 
 |---|---|
@@ -51,7 +59,54 @@ If you  provide the following information in your email, they will be able to re
 * Programme of Study
 * Brief description of how we can assist you
 
-## Video conferencing
+
+## Postal address {#postal}
+
+Send post by snail mail to: 🐌
+
+Dr. Duncan Hull  
+Lecturer  
+Department of Computer Science  
+Kilburn Building  
+The University of Manchester  
+Oxford Road  
+Manchester  
+M13 9PL  
+[Lancashire](https://duncan.hull.name/2019/07/05/mancashire/) 🌹   
+
+```{r kilburnsouth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnsouth)", out.width = "100%"}
+knitr::include_graphics("images/kilburn-south-entrance.jpg")
+```
+(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) looking towards the Oxford Road. 
+
+
+## Kilburn building directions {#kilburn}
+
+The [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in figure \@ref(fig:kilburn-fig) is about 20 minutes walk from either [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) or ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). Our official postcode (M13 9PL) takes you to [University Place](http://www.conference.manchester.ac.uk/venues/search/details/?property=10) (which looks like a giant tin of baked beans) next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) [@what3words] below which are more accurate:
+
+* Google map of the Kilburn building [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
+* There are two ground floor entrances to the Kilburn building, North and South
+  + North entrance: [what3words.com/port.museum.rips](https://what3words.com/port.museum.rips), see figure \@ref(fig:kilburnnorth-fig)
+  + South entrance: [what3words.com/common.wiping.email](https://what3words.com/common.wiping.email), see figure \@ref(fig:kilburnsouth-fig)
+* There is no formal reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
+* See also [cs.manchester.ac.uk/about/maps-and-travel](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
+
+```{r kilburnnorth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnnorth)", out.width = "100%"}
+knitr::include_graphics("images/kilburn-north-entrance.jpg")
+```
+(ref:captionkilburnnorth) A panoramic picture of the North entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) looking towards the Oxford Road.
+
+
+## Parking {#parking}
+
+If you are driving, the nearest car parks are:
+
+* **University Car Park B** [Manchester Aquatics Centre Car Park](https://www.apcoa.co.uk/parking-in/manchester/aquatics-centre/), Apcoa [M13  9SS](http://maps.google.co.uk/maps?q=M13+9SS)
+* **University Car Park D** Booth Street West Car Park, [M15 6AR](http://maps.google.co.uk/maps?q=M15+6AR), access via Higher Cambridge Street
+* See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
+
+
+## Video conferencing {#video}
 
 The University of Manchester has an enterprise subscription for Zoom and Microsoft Teams. For the latter, you can contact me using [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull). For most other enterprise video conferencing software, your employer will need to host the meeting and send me an invitation link. Please provide any log in, dial in, invitation links or meeting IDs for:
 
@@ -69,7 +124,7 @@ You can also contact me using free versions of:
 * [Jitsi](https://en.wikipedia.org/wiki/Jitsi)
 * [Google Hangouts](https://en.wikipedia.org/wiki/Google_Hangouts) Google id is my University email address
 
-## Online and social media  
+## Online and social media  {#tinternet}
 
 You can get in touch via t'internet at:
 
@@ -79,41 +134,7 @@ You can get in touch via t'internet at:
 * Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk) 
 * YouTube: [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future)
 
-## Postal address
-
-Send post by snail mail to: 🐌
-
-Dr. Duncan Hull  
-Lecturer  
-Department of Computer Science  
-Kilburn Building  
-The University of Manchester  
-Oxford Road  
-Manchester  
-M13 9PL  
-[Lancashire](https://duncan.hull.name/2019/07/05/mancashire/) 🌹   
-
-## Kilburn building directions
-
-From the train stations, it takes about 20 minutes to walk from [Manchester Piccadilly](https://www.nationalrail.co.uk/stations_destinations/man.aspx) (MAN) and ten minutes from [Manchester Oxford Road](https://www.nationalrail.co.uk/stations/mco/details.aspx) (MCO). Our official postcode (M13 9PL) takes you to [University Place](http://www.conference.manchester.ac.uk/venues/search/details/?property=10) (which looks like a giant tin of baked beans) next door, so you're better of using the [what3words locations](https://www.bbc.co.uk/news/uk-england-49319760) [@what3words] below which are more accurate:
-
-* Google map of the Kilburn building [bit.ly/directions-to-kilburn-building](http://bit.ly/directions-to-kilburn-building)
-* There are two ground floor entrances to the Kilburn building, North and South
-  + North entrance: [what3words.com/port.museum.rips](https://what3words.com/port.museum.rips)
-  + South entrance: [what3words.com/common.wiping.email](https://what3words.com/common.wiping.email)
-* There is no formal reception so the best place to meet is [bit.ly/ByteCafe](http://bit.ly/ByteCafe) on the first floor
-* See also [cs.manchester.ac.uk/about/maps-and-travel](https://www.cs.manchester.ac.uk/about/maps-and-travel/)
-
-
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")
 ```
-(ref:captiondooncan) This is not the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building), this is the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) in 2009
-
-## Parking
-
-If you are driving, the nearest car parks are:
-
-* **University Car Park B** [Manchester Aquatics Centre Car Park](https://www.apcoa.co.uk/parking-in/manchester/aquatics-centre/), Apcoa [M13  9SS](http://maps.google.co.uk/maps?q=M13+9SS)
-* **University Car Park D** Booth Street West Car Park, [M15 6AR](http://maps.google.co.uk/maps?q=M15+6AR), access via Higher Cambridge Street
-* See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
+(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) in 2009 in the more optimistic days before people wanted to wrestle computation back from [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). [@internetcon]

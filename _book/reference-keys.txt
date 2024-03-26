@@ -15,6 +15,10 @@ fig:unnamed-chunk-7
 fig:srp-fig
 fig:referee-fig
 fig:unnamed-chunk-8
+fig:kilburn-fig
+fig:sso-fig
+fig:kilburnsouth-fig
+fig:kilburnnorth-fig
 fig:unnamed-chunk-9
 fig:msc-fig
 fig:mu5-fig
@@ -54,6 +58,7 @@ coding-your-future
 reading
 downloading
 coding-their-future
+schools
 guidance-for-teachers
 what-the-university-is-offering-your-school
 what-the-university-expects-from-your-school
@@ -74,12 +79,12 @@ how-can-i-help-my-referee
 can-i-have-a-copy-of-my-reference
 contact
 office
-other-contacts
-video-conferencing
-online-and-social-media
-postal-address
-kilburn-building-directions
+sso
+postal
+kilburn
 parking
+video
+tinternet
 mastersofscience
 y2003
 y1978
