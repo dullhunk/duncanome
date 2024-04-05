@@ -22,7 +22,7 @@ Details of my office hours can be found in the Wednesday Waggle. 🐝
 ```{r kilburn-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnarama)", out.width = "100%"}
 knitr::include_graphics("images/kilburnarama.jpg")
 ```
-(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on the Oxford Road. The building is next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), which looks like a giant tin of baked beans, shown on the right of the picture. 
+(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on the Oxford Road. The building is next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), which looks like a giant tin of baked beans, shown in the right of the picture. 
 
 ## Student support {#sso}
 
@@ -77,7 +77,7 @@ M13 9PL
 ```{r kilburnsouth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnsouth)", out.width = "100%"}
 knitr::include_graphics("images/kilburn-south-entrance.jpg")
 ```
-(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) looking towards the Oxford Road. 
+(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the left hand side of the picture. 
 
 
 ## Kilburn building directions {#kilburn}
@@ -94,7 +94,7 @@ The [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in 
 ```{r kilburnnorth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnnorth)", out.width = "100%"}
 knitr::include_graphics("images/kilburn-north-entrance.jpg")
 ```
-(ref:captionkilburnnorth) A panoramic picture of the North entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) looking towards the Oxford Road.
+(ref:captionkilburnnorth) A panoramic picture of the North entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the right hand side of the picture. 
 
 
 ## Parking {#parking}
@@ -137,4 +137,4 @@ You can get in touch via t'internet at:
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")
 ```
-(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) in 2009 in the more optimistic days before people wanted to wrestle computation back from [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). [@internetcon]
+(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days on 2009 before we wanted to wrestle computation back from [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). [@internetcon]

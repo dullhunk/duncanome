@@ -66,6 +66,8 @@ Since these projects were started in 2012, our undergraduate students have worke
 +--------------------------------------------------------------------------------------+--------------+---------------------------------------+
 | [chhs.org.uk](https://www.chhs.org.uk)                                               | Cheadle Hulme| [11.1%](https://bit.ly/cheadlehhs)    |
 +--------------------------------------------------------------------------------------+--------------+---------------------------------------+
+| [blue-coat.org](https://www.blue-coat.org)                                           | Oldham       | [10.3%](https://bit.ly/bluecoat-oldham)|
++--------------------------------------------------------------------------------------+--------------+---------------------------------------+
 | [stretfordgrammar.com](https://www.stretfordgrammar.com)                             | Stretford    | [9.9%](https://bit.ly/stretfordg)     |
 +--------------------------------------------------------------------------------------+--------------+---------------------------------------+
 | [agsb.co.uk](https://www.agsb.co.uk)                                                 | Altrincham   | [3%](https://bit.ly/alty-boys)        |
