@@ -22,7 +22,7 @@ Details of my office hours can be found in the Wednesday Waggle. 🐝
 ```{r kilburn-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnarama)", out.width = "100%"}
 knitr::include_graphics("images/kilburnarama.jpg")
 ```
-(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on the Oxford Road. The building is next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), which looks like a giant tin of baked beans, shown in the right of the picture. 
+(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) taken from the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road). The building stands next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), shown in the right of the picture here, which looks a bit like a giant tin of baked beans.
 
 ## Student support {#sso}
 
@@ -50,6 +50,7 @@ You can also contact student support online at [www.studentsupport.manchester.ac
 | Student Data | soe.studentdata@manchester.ac.uk |
 | Student Support Hub | soe.hub@manchester.ac.uk |
 | Student Experience | soe.studentexperience@manchester.ac.uk |
+| Visas | visas@manchester.ac.uk |
 | Any Other Business (AOB) | soe.programmes@manchester.ac.uk |
 
 If you  provide the following information in your email, they will be able to respond to your query more efficiently:
@@ -62,7 +63,7 @@ If you  provide the following information in your email, they will be able to re
 
 ## Postal address {#postal}
 
-Send post by snail mail to: 🐌
+Send post by carrier pigeon or snail mail to: 🐌
 
 Dr. Duncan Hull  
 Lecturer  
@@ -137,4 +138,4 @@ You can get in touch via t'internet at:
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")
 ```
-(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days on 2009 before we wanted to wrestle computation back from [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). [@internetcon]
+(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days of 2009 before we wanted to wrestle computation back from [Big Tech](https://en.wikipedia.org/wiki/Big_Tech). [@internetcon]

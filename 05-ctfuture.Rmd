@@ -2,6 +2,15 @@
 
 Their future is bright, their future needs coding. So let's start coding their future... 
 
+(ref:captioncodingtheirfuture) Is it art or is it science? It's both: Undergraduate students regularly practice the art of [computer science education](https://en.wikipedia.org/wiki/Computer_science_education) in secondary schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020; @m20202] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/) Picture of children coding adapted from an original by Arno Mikkor on Wikimedia Commons [w.wiki/65A2](https://w.wiki/65A2) using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
+
+```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncodingtheirfuture)"}
+knitr::include_graphics("images/computer-science-education.jpeg")
+```
+
+
+Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. 
+
 ::: {.rmdnote}
 
 For: 
@@ -10,17 +19,12 @@ For:
 * Coding **THEIR** future: a collaboration between secondary schools in Greater Manchester and the University of Manchester, read on...
 :::
 
-Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
+Our aims are to:
 
 * improve and support computing education before, during and after [GCSE Computer Science](https://www.bbc.co.uk/bitesize/subjects/z34k7ty), particularly at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
 * [widen participation in higher education](https://www.manchester.ac.uk/discover/social-responsibility/widening-participation/), especially in under-represented groups. [@wideningparticipation; @classceiling; @nicebutdim; @breakintoelite]
 * enable our undergraduate students to develop their leadership and communication skills by working with young people in the classroom
 
-(ref:captioncodingtheirfuture) Is it art or is it science? It's both: Undergraduate students regularly practice the art of [computer science education](https://en.wikipedia.org/wiki/Computer_science_education) in secondary schools as part of our wider [social responsibility activities](https://www.cs.manchester.ac.uk/connect/social-responsibility/) [@m2020; @m20202] and [schools, colleges and public activities](https://www.cs.manchester.ac.uk/connect/schools-colleges-public/) Picture of children coding adapted from an original by Arno Mikkor on Wikimedia Commons [w.wiki/65A2](https://w.wiki/65A2) using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238)
-
-```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncodingtheirfuture)"}
-knitr::include_graphics("images/computer-science-education.jpeg")
-```
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] 
 
 ## Schools participating in Coding Their Future {#schools}
