@@ -1,6 +1,7 @@
 fig:unsplashed-fig
 fig:unnamed-chunk-1
 fig:bugfeature-fig
+fig:su-fig
 fig:unnamed-chunk-2
 fig:busy-fig
 fig:ie-fig
@@ -34,7 +35,8 @@ penultimate
 finalyear
 masters
 phds
-extracurricular
+extra
+awards
 employers
 recruiting
 careersfairs

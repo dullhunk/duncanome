@@ -49,7 +49,7 @@ You can also contact student support online at [www.studentsupport.manchester.ac
 | Timetabling |soe.timetabling@manchester.ac.uk  |
 | Student Data | soe.studentdata@manchester.ac.uk |
 | Student Support Hub | soe.hub@manchester.ac.uk |
-| Student Experience | soe.studentexperience@manchester.ac.uk |
+| Student Experience^[for FSE careers bulletin] | soe.studentexperience@manchester.ac.uk |
 | Visas | visas@manchester.ac.uk |
 | Any Other Business (AOB) | soe.programmes@manchester.ac.uk |
 

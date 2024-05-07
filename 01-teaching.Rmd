@@ -70,9 +70,20 @@ If you're doing a Masters degree, you'll find me:
 
 If you've got any interesting PhD research ideas you like to pitch to me, particularly if they involve [computer science education](https://sigcse.cs.manchester.ac.uk) or professional issues, I'm all ears! 👂
 
-## Extracurricular
+## Extracurricular {#extra}
 
 Outside all of the above, I also get involved in:
 
 * Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
 * Judging competitions such as [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
+
+
+## Teaching awards {#awards}
+
+Thanks to all the students at the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) who nominated me for an academic advising chamption award in 2024, see [manchesterstudentsunion.com/awards](https://manchesterstudentsunion.com/awards) figure \@ref(fig:su-fig). These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. [@su2024]
+
+```{r su-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:su2024)"}
+knitr::include_url('https://www.youtube.com/embed/pe-M8_lKUz0')
+```
+
+(ref:su2024) Thanks to all the students at the UMSU who nominated me for academic advising award and thanks Sambbhav for recording it. UMSU is the largest students' union in the UK representing over 40,000 students. You can also watch the full 30 second video embedded in this figure at [youtu.be/pe-M8_lKUz0](https://youtu.be/pe-M8_lKUz0) [@youtube-su2024]
