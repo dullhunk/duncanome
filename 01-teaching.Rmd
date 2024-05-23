@@ -70,12 +70,17 @@ If you're doing a Masters degree, you'll find me:
 
 If you've got any interesting PhD research ideas you like to pitch to me, particularly if they involve [computer science education](https://sigcse.cs.manchester.ac.uk) or professional issues, I'm all ears! 👂
 
-## Extracurricular {#extra}
+## Extracurricular and flexible learning {#extra}
 
-Outside all of the above, I also get involved in:
+Outside all of the above, I'm in flexible and extracurricular learning including:
 
 * Organising, facilitating and promoting extra-curricular activities such as [hackathons](https://en.wikipedia.org/wiki/Hackathon) [@Briscoe; @Warner2017] and [edit-a-thons](https://en.wikipedia.org/wiki/Edit-a-thon). [@goodbadugly; @troubled; @findingada2019] These usually occur off-timetable, for example Wednesday afternoons, evenings and weekends.
 * Judging competitions such as [studenthack.com](https://www.studenthack.com) and [greatunihack.com](https://greatunihack.com) since 2014. These two hackathons are organised by [UniCS](https://www.unicsmcr.com/), a student-led tech society formed by the merger of HackSoc (computer geekery) and CSSoc (socialising). Many other hackathons exist, they are usually aimed at beginners looking to learn new skills, rather than experts looking to compete. [@Briscoe; @hafb]
+* Piloting the introduction of Microsoft Fundamental Certifications across the University in collaboration with the [Flexible Learning Program](https://www.manchester.ac.uk/discover/teaching-and-learning-excellence/flexible-learning/) see [cdyf.me/achieving#microsoft](https://www.cdyf.me/achieving#microsoft) and below. [@georgepettifer]
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7186701578349817856" height="1570" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
 
 
 ## Teaching awards {#awards}

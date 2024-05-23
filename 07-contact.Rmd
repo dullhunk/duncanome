@@ -133,10 +133,10 @@ You can get in touch via t'internet at:
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
 * LinkedIn: [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
-* Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk) 
 * YouTube: [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future)
+* ~~Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)~~ 
 
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")
 ```
-(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days of [don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil) [@scifoo2007;@scifoo2009] and before the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet. [@internetcon]
+(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in California. Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days of “[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)” [@dontbeevil;@scifoo2007;@scifoo2009] and before the [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet. [@internetcon]
