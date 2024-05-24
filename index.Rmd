@@ -15,7 +15,7 @@ url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 
 ---
 
-# Hello {-}
+# Hello World {-}
 
 ```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "Hello my name is Duncan, this is what I look like now (left) and when I was a longer-haired undergraduate (right). I'm a lecturer here in the Department of Computer Science at the University of Manchester."}
 knitr::include_graphics("images/duncan_hull.png")
@@ -24,12 +24,13 @@ knitr::include_graphics("images/duncan_hull.png")
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](https://personalpages.manchester.ac.uk/staff/duncan.hull/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [industrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/), [departmental forum](https://bit.ly/cs-departmental-forum) chair and a member of [University senate](https://www.manchester.ac.uk/discover/governance/structure/senate/). I'm interested [improving teaching, learning and the student experience](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html) by:
 
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
-* Teaching engineers to [make better software](https://software-eng.netlify.app/) in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
-* Updating students weekly on opportunities with the Wednesday waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝
+* Updating students weekly on opportunities with the Wednesday Waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝
 * Improving students written communication skills by enabling them to start [writing their future](https://www.cdyf.me/writing)
 * Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
 * Growing and building the teaching community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/) and serving on the board of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)
-* Supporting local schools teaching computing by [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html)
+* Supporting local schools teaching computing as a school governor and through the project [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html)
+* Teaching engineers to [make better software](https://software-eng.netlify.app/) in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
+
 
 Our elective industrial experience program has [up to 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. If you are an [employer](https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
 
