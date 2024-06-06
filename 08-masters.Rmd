@@ -1,6 +1,6 @@
 # (APPENDIX) POSTSCRIPT {-}
 
-# Computing the future  {#mastersofscience}
+# Computing the Future  {#mastersofscience}
 
 > One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
 > some pictures, dad jokes and geek history.

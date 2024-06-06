@@ -17,7 +17,7 @@ url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 
 # Hello World {-}
 
-```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "Hello my name is Duncan, this is what I look like now (left) and when I was a longer-haired undergraduate (right). I'm a lecturer here in the Department of Computer Science at the University of Manchester."}
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "[Hello world](https://en.wikipedia.org/wiki/Hello,_World), my name is Duncan and I'm a lecturer here in the Department of Computer Science at the University of Manchester. This is what I look like now (left) and when I was a longer-haired undergraduate (right).."}
 knitr::include_graphics("images/duncan_hull.png")
 ```
 

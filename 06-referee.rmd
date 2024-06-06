@@ -1,12 +1,17 @@
 
-# Will you be my referee? {#referee}
+# Refereeing Your Future {#referee}
 
-As industrial experience and employability tutor, I get asked to write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). I'm happy to do this **if**: 
+So you need a reference for a job or further study?
+
+
+## Will you be my referee? {#willyou}
+
+This is a question academics like me get asked a lot. As industrial experience and employability tutor, I write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). I'm happy to do this for you **if (and only if)**: 
 
 * You have been my personal tutee in first, second, placement or final year
 * We have worked together outside of ordinary teaching
 
-However, it's impossible for me to say YES to every request for a reference. It is difficult for academics to write references for students they don't know much about, as all they can do is confirm facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+However, it's impossible for me (or any other academic) to say YES to every request for a reference. It is difficult for academics to write references for students they don't know much about, as all they can do is confirm facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
 
 ```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
 knitr::include_graphics("images/referee.jpeg")
