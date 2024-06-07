@@ -1,6 +1,6 @@
 # Contacting me {#contact}
 
-You can get in touch using the details below, which include directions and parking information.
+You can get in touch with me (and my colleagues) using the details below, which include directions and parking information.
 
 (ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). According to [Jonathan Swinton](https://www.manturing.net/jonathan), Turing is the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial), [some blue plaques](https://duncan.hull.name/2021/07/07/turings-house/) and the [Alan Turing Way](https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/) [@turingway]
 
@@ -134,7 +134,7 @@ You can get in touch via t'internet at:
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
 * LinkedIn: [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 * YouTube: [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future)
-* ~~Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)~~ 
+* ~~Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)~~ RIP Twitter (2006-2022) you lived fast but you died young, at the tender age of 16 ☠️
 
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")

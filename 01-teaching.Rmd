@@ -85,7 +85,7 @@ cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:718670
 
 ## Teaching awards {#awards}
 
-Thanks to all the students at the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) who nominated me for an academic advising champion award in 2024, see [manchesterstudentsunion.com/awards](https://manchesterstudentsunion.com/awards) and figure \@ref(fig:su-fig). These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. [@su2024]
+Thanks to all the students at the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU) who nominated me for an academic advising champion award in 2024, see [manchesterstudentsunion.com/awards](https://manchesterstudentsunion.com/awards) and figure \@ref(fig:su-fig). These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. [@su2024]
 
 ```{r su-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:su2024)"}
 knitr::include_url('https://www.youtube.com/embed/pe-M8_lKUz0')

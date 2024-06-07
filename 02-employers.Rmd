@@ -1,10 +1,17 @@
 # Employing Your Future {#employers}
-Young people and graduates are the future of your organisation. Collaborating with us enables undergraduates and graduates to join your organisation as employees. If you're not recruiting graduates, your organisation may suffer in the longer term. 
+If you are an employer, graduates and undergraduates are the future of your organisation. Collaborating with us in the Department of Computer Science will increase the chance of graduates from the University of Manchester joining your organisation as employees both before and after they graduate, see figure \@ref(fig:graduating-your-fig).
 
+```{r graduating-your-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongradceremony)"}
+knitr::include_graphics("images/employing-your-future.jpeg")
+```
 
-## Recruiting students {#recruiting}
+(ref:captiongradceremony) Are these graduates the future of your organisation? If you want them to be, you need to engage early and engage often with students *before* they graduate. This will increase your chances of recruiting them. Manchester graduates celebrating outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building with photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
 
-We collaborate with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment to start their careers. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [@times100; @highfliers2021; @highfliers2020; @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester; @manchattan]
+If you're not recruiting graduates, your organisation may suffer in the longer term as talented new employees decide to work for your rivals or elsewhere. Recruiting graduates is a cost effective way to build the skills and knowledge your organisation needs to succeed in the future.
+
+## Recruiting Computer Science Students {#recruiting}
+
+We collaborate with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment to start their careers. According to [highfliers.co.uk](https://www.highfliers.co.uk), the University of Manchester is the most targeted University in the UK by the [Times Top 100 Graduate Employers](https://www.top100graduateemployers.com). [ @Birchall2019] We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the [Northern Powerhouse](https://northernpowerhouse.gov.uk/), see [git.io/manc](https://git.io/manc). [@gitmanc; @londonvstherest; @hebdenbridge; @manhattanchester; @manchattan]
 
 ```{r echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "Any employer recruiting our students is welcome to join our industry club, see details below"}
 knitr::include_graphics("images/industry-club-wide.png")
@@ -37,14 +44,14 @@ If you are looking to recruit science and engineering students from other discip
 
 <!--UPDATE THIS: A demographic breakdown of our students in Computer Science is show in Figure fig:pie-fig-->
 
-## Careers fairs {#careersfairs}
+## Careers Fairs {#careersfairs}
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. We give priority to employers that offer internships, placements and graduate roles and have contributed to our community through the activities described on this page. The central careers service also organises:  
 
 * the big careers fair every autumn, see the [events](https://www.careers.manchester.ac.uk/events/)
 * a smaller careers fair in May
 * hundreds of other employer events on campus during term time [@highfliers2020]
 
-## Drop-in sessions {#dropins}
+## Drop-in Sessions {#dropins}
 If you aren't willing or able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in [term time](https://www.manchester.ac.uk/discover/key-dates/). If you're interested in exhibiting at either of these events, please [contact the careers and placements officer Mabel Yau](#office).
 
 ## Industry Club {#industryclub}
@@ -57,10 +64,10 @@ All employers are welcome to join our industry club mailing list by sending an e
 
 The mailing list is low-traffic, typically two to three updates per year and an invitation to our annual industry club meeting. We promise not to spam you or sell your email details on to third parties.
 
-## Industrial mentoring {#mentoring}
+## Industrial Mentoring {#mentoring}
 The [Industrial mentoring scheme for software engineers](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/) allows employers meet students during code review sessions.
 
-## Co-supervised projects {#cosupervise}
+## Co-supervised Projects {#cosupervise}
 If you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:
 
 * **Bachelors projects**: these are completed in the final year of a Bachelors degree and last for six months, starting in September and finishing in March. Projects are proposed (and offered to students) in March and start in September of the same year.
@@ -78,7 +85,7 @@ For Bachelors and Masters projects, you can contact academic members of staff di
 
 During term time, we highlight events and vacancies for Computer Science students from a [wide range of sources](https://www.cdyf.me/finding) in a weekly newsletter called the *Wednesday Waggle* ([waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about)) 🐝. This goes out to around ~1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at [careerconnect.manchester.ac.uk](https://careerconnect.manchester.ac.uk/), and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see [advertising vacancies to students](https://www.cdyf.me/finding#studentjobs). It can help students find your needle in the jobs haystack.
 
-## Join the community
+## Join the Community
 
 There is a thriving community of engineers and [entrepreneurs](https://www.accelerateme.co/) in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and _contribute_ to the community. Get involved in events, [sponsor a hackathon](https://www.unicsmcr.com/), deliver a guest lecture, host your own event or [become a software engineering mentor](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/). Employers who engage **early and often** are much more likely to get something back. As an employer, you may also be interested in events run by:
 

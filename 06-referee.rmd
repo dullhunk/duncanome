@@ -1,25 +1,26 @@
 
 # Refereeing Your Future {#referee}
 
-So you need a reference for a job or further study?
+So, you're a student who needs a reference for a new job or future study?
 
 
-## Will you be my referee? {#willyou}
+## “Will you be my referee?” {#willyou}
 
-This is a question academics like me get asked a lot. As industrial experience and employability tutor, I write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). I'm happy to do this for you **if (and only if)**: 
-
-* You have been my personal tutee in first, second, placement or final year
-* We have worked together outside of ordinary teaching
-
-However, it's impossible for me (or any other academic) to say YES to every request for a reference. It is difficult for academics to write references for students they don't know much about, as all they can do is confirm facts (attendance, academic marks, degree program) without opinions which doesn't make for a very compelling reference.
+This is a question academics get asked a lot. As industrial experience and employability tutor, I write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). 
 
 ```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
 knitr::include_graphics("images/referee.jpeg")
 ```
 (ref:captionreferee) Come on ref! I'm not *that* kind of [referee](https://en.wikipedia.org/wiki/Referee), but I *can* provide facts and opinions about you to employers subject to conditions outlined on this page. Whoever your referee is, make sure you ask their permission beforehand, otherwise you may receive an unexpected (virtual) [penalty card](https://en.wikipedia.org/wiki/Penalty_card) from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons [w.wiki/3dqE](https://w.wiki/3dqE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) ⚽️
 
+Unfortunately, like you, my time is a precious and finite resource. So I can write a reference for you [if and only if](https://en.wikipedia.org/wiki/If_and_only_if): 
 
-For progressing students, you can obtain an unofficial copy of your transcript by emailing `soe.hub@manchester.ac.uk`. For graduating students, transcripts of marks can be obtained at [man.ac.uk/fQ9otX](http://man.ac.uk/fQ9otX)
+* You have been my personal tutee in first, second, placement or final year
+* We have worked together outside of ordinary teaching
+
+It is impossible for me (or any other academic) to say YES to every request for a reference. It is time consuming and difficult for academics to write lots of references for students they don't know much about, as all they can do is confirm facts (attendance, academic marks, degree program) without opinions. This doesn't make for a very compelling reference and can be provided by administrators at the University anyway.
+
+You can obtain an unofficial copy of your transcript by emailing `soe.hub@manchester.ac.uk`. For graduating students, transcripts of marks can be obtained at [man.ac.uk/fQ9otX](http://man.ac.uk/fQ9otX)
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 
