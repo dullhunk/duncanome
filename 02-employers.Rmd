@@ -1,13 +1,13 @@
 # Employing Your Future {#employers}
-If you are an employer, graduates and undergraduates are the future of your organisation. Collaborating with us in the Department of Computer Science will increase the chance of graduates from the University of Manchester joining your organisation as employees both before and after they graduate, see figure \@ref(fig:graduating-your-fig).
+If you are an employer, graduates and undergraduates are the future of your organisation. Collaborating with us in the Department of Computer Science is one of the best ways to encourage students from the University of Manchester to join your organisation as employees both before and after they graduate, see figure \@ref(fig:graduating-your-fig).
 
 ```{r graduating-your-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongradceremony)"}
 knitr::include_graphics("images/employing-your-future.jpeg")
 ```
 
-(ref:captiongradceremony) Are these graduates the future of your organisation? If you want them to be, you need to engage early and engage often with students *before* they graduate. This will increase your chances of recruiting them. Manchester graduates celebrating outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building with photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
+(ref:captiongradceremony) Are these graduates the future of your organisation? If you want them to be, you need to engage early and often with students *before* they graduate. This will increase your chances of recruiting them. University of Manchester graduates celebrating their graduation outside the [Samuel Alexander](https://en.wikipedia.org/wiki/Samuel_Alexander) building with photobombing by [Gavin Brown](https://profgavinbrown.github.io/) 🎓
 
-If you're not recruiting graduates, your organisation may suffer in the longer term as talented new employees decide to work for your rivals or elsewhere. Recruiting graduates is a cost effective way to build the skills and knowledge your organisation needs to succeed in the future.
+If you're not recruiting graduates, your organisation may suffer in the longer term as talented and young employees decide to work for other employers. Recruiting graduates is a cost effective way to build the skills and knowledge your organisation needs to succeed in the future.
 
 ## Recruiting Computer Science Students {#recruiting}
 
@@ -17,7 +17,7 @@ We collaborate with a wide range of employers from the smallest bedroom startup 
 knitr::include_graphics("images/industry-club-wide.png")
 ```
 
-If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
+If you are recruiting computer scientists and software engineers as a summer interns, placement students or as graduates please get in touch with me or [Mabel Yau](https://uk.linkedin.com/in/mabel-yau) (careers and placements officer). We typically have around 250 undergraduate students graduating annually, alongside a smaller number of Masters and PhD students. The [entry tariff](https://www.ucas.com/ucas/tariff-calculator) of our undergraduate students (A* A* A* including mathematics) is comparable to other leading Computer Science (CS) departments in [Russell Group](https://en.wikipedia.org/wiki/Russell_Group) universities as shown in the table below.
 
 
 Institute | UCAS entry tariff  
