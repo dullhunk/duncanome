@@ -15,16 +15,16 @@ url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 
 ---
 
-# Hello World {-}
+# Hello, World {-}
 
-```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "[Hello world](https://en.wikipedia.org/wiki/Hello,_World), my name is Duncan and I'm a lecturer here in the Department of Computer Science at the University of Manchester. This is approximately what I look like now (picture left) and when I was a longer-haired undergraduate (picture right)."}
+```{r unsplashed-fig, echo = FALSE, fig.align = "center", out.width = "66%", fig.cap = "[Hello, World](https://en.wikipedia.org/wiki/Hello,_World): my name is Duncan and I'm a lecturer here in the Department of Computer Science at the University of Manchester. This is approximately what I look like now (picture left) and when I was a longer-haired undergraduate (picture right)."}
 knitr::include_graphics("images/duncan_hull.png")
 ```
 
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My name is Duncan and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](https://personalpages.manchester.ac.uk/staff/duncan.hull/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [industrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/), [departmental forum](https://bit.ly/cs-departmental-forum) chair and a member of [University senate](https://www.manchester.ac.uk/discover/governance/structure/senate/). I'm interested [improving teaching, learning and the student experience](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html) by:
 
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
-* Improving students communication skills by enabling them to start [writing their future](https://www.cdyf.me/writing), [debugging their future](https://www.cdyf.me/writing) and [speaking their future](https://www.cdyf.me/speaking)
+* Improving students communication skills by enabling them to start [writing their future](https://www.cdyf.me/writing), [debugging their future](https://www.cdyf.me/debugging) and [speaking their future](https://www.cdyf.me/speaking)
 * Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
 * Growing and building the teaching community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/) and serving on the board of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)
 * Supporting local schools both as a school governor and with the project [Coding Their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html)

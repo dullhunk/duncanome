@@ -22,9 +22,9 @@ If you are recruiting computer scientists and software engineers as a summer int
 
 Institute | UCAS entry tariff  
 ----------- | ----------- | --------
-[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2019/00560/bsc-computer-science/) | A* A* A*
+[University of Manchester](https://www.manchester.ac.uk/study/undergraduate/courses/2024/00560/bsc-computer-science/course-details/) | A* A* A*
 [University of Cambridge](https://www.undergraduate.study.cam.ac.uk/courses/computer-science) | A* A* A
-[University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc/2020)| A* A* A
+[University College London](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc)| A* A* A
 [Imperial College London](https://www.imperial.ac.uk/computing/prospective-students/courses/ug/beng-meng-computing/) | A* A* A
 [University of Oxford](https://www.ox.ac.uk/admissions/undergraduate/courses-listing/computer-science) | A* A A
 
