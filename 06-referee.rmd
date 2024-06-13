@@ -6,7 +6,7 @@ So, you're a student who needs a reference for a new job or future study?
 
 ## “Will you be my referee?” {#willyou}
 
-This is a question academics get asked a lot. As industrial experience and employability tutor, I write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). 
+This is a question academics get asked a lot. As industrial experience and employability tutor, I get asked that question a lot and already write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). 
 
 ```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
 knitr::include_graphics("images/referee.jpeg")
@@ -24,7 +24,7 @@ You can obtain an unofficial copy of your transcript by emailing `soe.hub@manche
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 
-## Who can provide a reference for me?
+## “Who can provide a reference for me? {#who}
 
 The best person to provide a reference for you is somebody who knows you, such as your personal tutor. See the careers service guide [what are references and how should I choose a referee?](http://www.careers.manchester.ac.uk/applicationsinterviews/faqs/references) and [guidance to staff providing references for students](http://documents.manchester.ac.uk/display.aspx?DocID=1921) from the University of Manchester, which gives extra context.
 
@@ -39,10 +39,10 @@ It is good to have references from different sources, so if you are providing se
 
 If you ask somebody who does not know you very well to write a reference for you, all that they are able to do in a reference is confirm rather dull facts such as your grades, your attendance, start date and graduation date. As I've already said, this does not make for a very useful reference.
 
-## Should I ask permission from my referee?
+## “Should I ask permission from my referee? {#permission}
 You should always ask the person providing your reference, see figure \@ref(fig:referee-fig).
 
-## What is a reference for?
+## “What is a reference for? {#for}
 
 References have two main purposes:
 
@@ -54,7 +54,7 @@ References have two main purposes:
 question, and his/her potential for the future
 
 
-## How can I help my referee?
+## “How can I help my referee?” {#help}
 
 It can make it much easier for your referee if you provide them with information you would like them to mention in your reference. This might include:
 
@@ -67,7 +67,7 @@ It can make it much easier for your referee if you provide them with information
 
 All of this information will help your referee to write a better reference for you.
 
-## Can I have a copy of my reference?
+## “Can I have a copy of my reference?” {#copy}
 It is unusual for a referee to provide a reference directly to its subject (that's you).
 
 Typically, a referee is asked to provide a reference for a student (or former student) directly by the organisation concerned. For example, if you're applying for postgraduate study, the reference request will be sent by the University directly to your referees email address, who will usually respond by clicking on a link to upload the reference document.

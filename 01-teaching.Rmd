@@ -9,7 +9,7 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 ```
 (ref:captionbbcsofa) Posing on the [BBC Breakfast](https://en.wikipedia.org/wiki/BBC_Breakfast) red sofa with the winning team of the BBC / Barclays University Technology Challenge (UTC) in [MediaCityUK](https://en.wikipedia.org/wiki/MediaCityUK), Salford
 
-## All years: Debug your future {#allyears}
+## All Years: Debug Your Future {#allyears}
 
 If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging) [@debugyourfuture] and [hacking your future](https://www.cdyf.me/hacking) [@hackingyourfuture], especially if you haven't written a CV, Résumé or LinkedIn profile before. Once you've done this you can send me any relevant documentation and then:
 
@@ -24,7 +24,7 @@ knitr::include_graphics("images/Features not bugs.png")
 
 Outside of term time, it's best to book a debugging appointment. 🐛
 
-## First year students {#year1}
+## First Year Students {#year1}
 
 If you're in your first year of study, I serve as:
 
@@ -32,11 +32,7 @@ If you're in your first year of study, I serve as:
 * Mentor and tutor to one group of six first year students
 * Organiser of first year guest lectures, which mostly run in the second semester, February to May
 
-
-
-
-
-## Second year students {#year2}
+## Second Year Students {#year2}
 
 If you're in your second year of study, I serve as:
 
@@ -46,31 +42,31 @@ If you're in your second year of study, I serve as:
 
 Previously I served as [second year tutor](https://studentnet.cs.manchester.ac.uk/ugt/year2/) from 2016 through to 2020, and course leader for second year software engineering from 2020 to 2022.
 
-## Penultimate year students {#penultimate}
+## Penultimate Year Students {#penultimate}
 
 If you're on placement during your penultimate year (your last-but-one), I serve as:
 
 * Course leader for "with industrial experience" (IE), an elective and intercalated year in industry.
 * Year tutor for students on placement, either face to face or via telecon
 
-## Final year students {#finalyear}
+## Final Year Students {#finalyear}
 
 If you're in your final year of study, you'll find me:
 
 * Supervising final year educational projects based in secondary schools in Greater Manchester, see [coding their future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future). [@computinged] 👩‍💻👨‍💻
 
-## Masters students {#masters}
+## Masters Students {#masters}
 
 If you're doing a Masters degree, you'll find me:
 
 * Leading the course on [Principles of Digital Biology](http://studentnet.cs.manchester.ac.uk/pgt/COMP60532/syllabus/) which covers [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics), [Computational Biolgy](https://en.wikipedia.org/wiki/Computational_biology) and a bit of [medical informatics](https://en.wikipedia.org/wiki/Health_informatics) 🧬
 * Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This typically involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
-## PhD students {#phds}
+## PhD Students {#phds}
 
 If you've got any interesting PhD research ideas you like to pitch to me, particularly if they involve [computer science education](https://sigcse.cs.manchester.ac.uk) or professional issues, I'm all ears! 👂
 
-## Extracurricular and flexible learning {#extra}
+## Extracurricular and Flexible Learning {#extra}
 
 Outside all of the above, I'm in flexible and extracurricular learning including:
 
@@ -83,7 +79,7 @@ cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:718670
 ```
 
 
-## Teaching awards {#awards}
+## Teaching Awards {#awards}
 
 Thanks to all the students at the [University of Manchester Students' Union](https://en.wikipedia.org/wiki/University_of_Manchester_Students%27_Union) (UMSU) who nominated me for an academic advising champion award in 2024, see [manchesterstudentsunion.com/awards](https://manchesterstudentsunion.com/awards) and figure \@ref(fig:su-fig). These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. [@su2024]
 

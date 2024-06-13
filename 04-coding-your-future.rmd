@@ -10,7 +10,7 @@ knitr::include_graphics("images/CDYF-vision.png")
 
 (ref:captioncdyf) Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see [www.cdyf.me](https://www.cdyf.me). *Coding your Future* illustration by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
 
-## Reading your future {#reading}
+## Reading Your Future {#reading}
 
 Coding your future is a guidebook and course is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn’t actually matter:
 
@@ -22,7 +22,7 @@ Coding your future is a guidebook and course is aimed at ALL students in higher 
 
 *Coding your Future* has something for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
-## Downloading your future {#downloading}
+## Downloading Your Future {#downloading}
 
 The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read the guidebook in a single ebook file, you can download a copy at:
 

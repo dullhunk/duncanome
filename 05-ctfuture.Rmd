@@ -27,7 +27,7 @@ Our aims are to:
 
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] 
 
-## Schools participating in Coding Their Future {#schools}
+## Participating Schools {#schools}
 
 Since these projects were started in 2012, our undergraduate students have worked in twenty different schools in Greater Manchester. Participating organisations are mostly non-selective state schools, to align with the [University of Manchester's values of social responsibility and civic engagement](https://www.manchester.ac.uk/discover/vision/). Current and previous participating schools are shown in table \@ref(tab:schooltable), ranked by the percentage of their students entitled to free school meals (FSM). 
 
@@ -88,7 +88,7 @@ The project was setup by [Duncan Hull][Contact] and [David Rydeheard](http://www
 
 There's a well documented shortage of Computer Science teachers in the UK.[@mysteryshortage;@tesshortage;@royalshortage] Students working in schools can address this issue by learning from and supporting current teachers of Comptuer Science.
 
-## Guidance for teachers
+## Guidance for Teachers
 
 (ref:captionraspberrypi) An abundance of free software and relatively cheap new hardware like the [Raspberry Pi](https://www.raspberrypi.org) [@raspberrypi], [Microbit](https://microbit.org), [@Sentance2017] [Makey Makey](https://makeymakey.com) [@nevertooold; @makeymakey;] [Crumble Controller](https://redfernelectronics.co.uk/crumble/) and [Arduino](https://www.arduino.cc) [@arduino] has opened up lots of new possibilities for teaching Computer Science. Picture via Alex Bate. [@SnazzyRPi])
 
@@ -98,7 +98,7 @@ knitr::include_graphics("images/raspberrypi.png")
 
 Our aim is to support the teaching and learning of Computer Science in your school and to help engage schoolchildren in the subject. This page describes what we can provide you with and what we expect to get in return.
 
-### What the University is offering your school
+### What the University is Offering Your School
 
 The University of Manchester will provide your school or college with at least one student ambassador with some relevant training who has completed two years of study in Computer Science and has:
 
@@ -107,7 +107,7 @@ The University of Manchester will provide your school or college with at least o
 * An interest in teaching and working with young people
 * Achieved a minimum of a 2:1 or 1st class degree in their second year
 
-### What the University expects from your school
+### What the University Expects From Your School {#expectations}
 
 In return, we expect that the school provides the undergraduate student with:
 
@@ -115,11 +115,11 @@ In return, we expect that the school provides the undergraduate student with:
 * Advice, suggestions, feedback, assessment and encouragement from you to suggest the kinds of resources that would be useful, appropriate or engaging for the Computer Science curriculum you are teaching
 * Classroom and behaviour management: the students are not trained teachers and will be relying on your expertise in classroom and behaviour management.
 
-### Resources developed by students
+### Resources Developed by Students {#resources}
 
 Undergraduates typically develop a range of resources. The project will involve development of a computer-based system together with supporting activities, lessons and resources. The resource could be a variety of things including, a game, robotics, animations, hardware (Raspberry Pi, Arduino etc) or software, intended to enthuse school students at one of the Key stages 3 or 4 about fundamental concepts in computing preferably linked to one of the new Computer Science curricula.
 
-### Project timing
+### Project Timing {#timing}
 
 The projects run for 6 months from September to March, divided into three phases.
 
@@ -127,11 +127,11 @@ The projects run for 6 months from September to March, divided into three phases
 2. **November to January** From November to January, our students develop and tests prototype tool (or tools) with the supporting material, this can happen sooner for students who make a quick start to the project.
 3. **February to April**  From February to April, our students are expected to liaise closely with teachers to develop an educational tool that will be of use in the classroom using teachers' suggestions as to what is appropriate to build. Students will spend some time in a classroom working closely with teachers and students developing and delivering a new resource for teaching. More details on final year projects can be found in COMP300, the undergraduates already know what is required from their project
 
-### Assessment and monitoring
+### Assessment and Monitoring {#assessment}
 
 Formal supervision and mentoring is undertaken by the university (Duncan and David), but we will ask you to fill in a one page form on your assessment of their progress during their time at your school, we very much value your input and hope that these projects can beneficial for both your school and the University. We don’t want to burden you with unnecessary bureaucracy that all teachers battle with!
 
-## Guidance for students
+## Guidance for Students
 
 ```{r echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "Lecture theatre 1.1 (LT 1.1) in Kilburn full of first year students"}
 knitr::include_graphics("images/studentspanorama.png")
@@ -149,13 +149,13 @@ work as part of a team (in the school) and join a small group of like-minded und
 * last, but not least, there is a good chance you will have lots of fun and have a rewarding experience of teaching
 make yourself more employable by doing all of the above
 
-### Who is involved?
+### Who is Involved?
 
 Initially, the number of undergraduate students involved in these projects will be less than ten. We also require that you will have a minimum of a 2:1 or 1st in your second year exams. Projects are co-supervised by Duncan with additional supervision from an experienced member of teaching staff at a participating school.
 
 We have carefully selected schools in Manchester that are relatively easy for you to get to, are already teaching Computer Science and have supportive staff and teachers in place to help you. You will be expected to work directly with school children with the support of the teaching staff in your school. Schools we have worked with are all the Manchester area.
 
-### What will the educational projects be expected to deliver?
+### What will Educational Projects be Expected to Deliver?
 
 You will be expected to work closely with the teacher to develop resources that
 
@@ -173,7 +173,7 @@ All deliverables for standard final year projects will be expected of these proj
 
 Assessments for these projects will be as for standard projects, [@COMP30030; @COMP30040] but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
-### Blended learning {#blended}
+### Blended Learning {#blended}
 COVID 19 has changed teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
 
@@ -187,11 +187,11 @@ knitr::include_url('https://www.youtube.com/embed/Y50mTVIzAYk')
 
 When you teach, think about how you can support students before and after your time in the classroom.
 
-### When do the projects start and finish? {#finishing}
+### When do the Projects Start and Finish? {#finishing}
 
 Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact [Duncan Hull](#Contact).
 
-## Getting a head start
+## Getting a Head Start
 So you've selected *Coding their future* as your third year project and now you are ready to get started. There are plenty of resources to help you prepare and improve your effectiveness in the classroom.
 
 * **Work with young people**

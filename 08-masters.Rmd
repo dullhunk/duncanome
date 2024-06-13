@@ -5,7 +5,7 @@
 > One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
 > some pictures, dad jokes and geek history.
 
-## The class of 2003 {#y2003}  
+## The Class of 2003 {#y2003}  
 
 Let's start our computational odyssey in 2003, figure \@ref(fig:msc-fig) shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by [Richard Giordano](https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page), who took this picture while teaching. We are part of a community of more than 10,000 students have graduated a degree in Computer Science (undergraduate or postgraduate) since the University [was the first in the UK to provide an undergraduate Computer Science degree course](http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml) in 1965. [@babygrowsup]
 
@@ -16,7 +16,7 @@ knitr::include_graphics("images/msc-2003.jpeg")
 
 Twenty five years earlier, before many of the people in the above picture were born, there was the class of 1978...
 
-## The class of 1978 {#y1978}
+## The Class of 1978 {#y1978}
 
 Figure \@ref(fig:mu5-fig) shows Manchester staff operating the [MU5 computer](https://en.wikipedia.org/wiki/Manchester_computers#MU5) sometime around 1978. Most people will have little interest in the hardware that the people in the picture are using. However, a wider audience may be interested in the suave and sophisticated seventies *[Saturday Night Fever](https://en.wikipedia.org/wiki/Saturday_Night_Fever)* dancing shoes that Pat McKissack on the left of the picture is wearing. [@nightfever]
 
@@ -34,7 +34,7 @@ Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) ha
 
 They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of [mechanical discs and wheels](https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers), or even better [Meccano](https://en.wikipedia.org/wiki/Differential_analyser#Use_of_Meccano). [@meccano; @hartree] Moving on swiftly, we go back a little further in time, thirty years earlier...
 
-## The class of 1948 {#y1948}
+## The Class of 1948 {#y1948}
 Our next stop is in 1948. We have to stop here because the [Manchester Baby](https://en.wikipedia.org/wiki/Manchester_Baby) first ran on 21st June 1948. Figure \@ref(fig:tomfred-fig) shows Tom and Freddie with the Baby. [@lavington]
 
 ```{r tomfred-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:captiontomfred)"}
@@ -67,7 +67,7 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 
 ... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
 
-### Numbers speak louder than words {#louder}
+### Numbers Speak Louder Than Words {#louder}
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table  \@ref(tab:cputable). It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
@@ -92,7 +92,7 @@ What's interesting about the difference between 1948 and now are the changes in 
 
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
-## The class of 2048? {#y2048}
+## The Class of 2048? {#y2048}
 Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also `100000000000` in binary (2^11^) and the maximum number of **bits** (not `bytes`) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits, or 256 bytes, with 8 bit bytes! [@kilburnphd]
 
 What will classes in the year 2048 be studying? Well, in the year 2048, Computer Science won't exist anymore either because:
