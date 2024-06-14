@@ -47,9 +47,9 @@ You can contact student support using the emails below:
 
 If you  provide the following information in your email, they will be able to respond to your query more efficiently:
 
-* Name of Department (e.g. Computer Science)
-* Student ID Number
-* Programme of Study
+* `Name of Department` e.g. Computer Science
+* `Student ID Number` 
+* `Programme of Study` e.g. BSc Computer Science
 * Brief description of how we can assist you
 
 ## Kilburn Office {#office}
