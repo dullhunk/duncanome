@@ -90,6 +90,8 @@ What's interesting about the difference between 1948 and now are the changes in 
 (ref:twothousand) (that's 2,000,000,000 times more efficient than The Baby!)
 
 
+
+
 So where is all this going? What about the future? Let's take a [longer view](https://en.wikipedia.org/wiki/Long_Now_Foundation), and skip forward from 1948 to 2048...
 
 ## The Class of 2048? {#y2048}

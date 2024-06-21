@@ -1,5 +1,5 @@
 # Employing Your Future {#employers}
-If you are an employer, graduates and undergraduates are the future of your organisation. Collaborating with us in the Department of Computer Science is one of the best ways to encourage students from the University of Manchester to join your organisation as employees both before and after they graduate, see figure \@ref(fig:graduating-your-fig).
+If you are an employer, graduates and undergraduates are an important part of the future of your organisation. Collaborating with us in the Department of Computer Science is one of the best ways to encourage students from the University of Manchester to join your organisation as employees both before and after they graduate, see figure \@ref(fig:graduating-your-fig).
 
 ```{r graduating-your-fig, echo = FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:captiongradceremony)"}
 knitr::include_graphics("images/employing-your-future.jpeg")

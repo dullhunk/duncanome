@@ -1,6 +1,6 @@
 # Contacting me {#contact}
 
-You can get in touch with me (and my colleagues) using the details below, which include directions and parking information.
+You can get in touch with me (and my colleagues) using the details below, which include my contact details, directions to the Kilburn Buidling and parking information.
 
 (ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). According to [Jonathan Swinton](https://www.manturing.net/jonathan), Turing is the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial), [some blue plaques](https://duncan.hull.name/2021/07/07/turings-house/) and the [Alan Turing Way](https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/) [@turingway]
 
@@ -52,7 +52,7 @@ If you  provide the following information in your email, they will be able to re
 * `Programme of Study` e.g. BSc Computer Science
 * Brief description of how we can assist you
 
-## Kilburn Office {#office}
+## Office in the Kilburn Building {#office}
 
 My office is on the Lower First floor, Room LF25 of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in figure \@ref(fig:kilburn-fig). From the Byte cafe on the lower first floor, go through the double doors on the South side of the building and down the ramp. LF25 is at the bottom of the ramp on the right, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor). 
 
@@ -103,7 +103,7 @@ knitr::include_graphics("images/kilburn-north-entrance.jpg")
 (ref:captionkilburnnorth) A panoramic picture of the North entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the right hand side of the picture. 
 
 
-## Parking {#parking}
+## Parking at the Kilburn Building {#parking}
 
 If you are driving, the nearest car parks are:
 
@@ -112,17 +112,15 @@ If you are driving, the nearest car parks are:
 * See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
 
 
-## Connecting Online  {#tinternet}
+## Duncan's Digital Doppelgangers  {#tinternet}
 
-You can get in touch with me online via t'internet at:
+You can connect online with my digital doppelgängers on t'internet at:
 
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Email:	`firstname.surname@manchester.ac.uk` 
 * Github: [github.com/dullhunk](https://github.com/dullhunk)
 * LinkedIn: [linkedin.com/in/duncanhull](https://uk.linkedin.com/in/duncanhull)
 * [Microsoft Teams](https://en.wikipedia.org/wiki/Microsoft_Teams): using email `firstname.surname@manchester.ac.uk`
-* ~~Twitter: [twitter.com/dullhunk](https://twitter.com/dullhunk)~~ 
-    + RIP Twitter (2006-2022): you lived fast but you died young, at the tender age of 16 ☠️
 * YouTube: [youtube.com/\@coding-your-future](https://www.youtube.com/\@coding-your-future)
 * Zoom: [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull)
 
@@ -133,4 +131,4 @@ If I have to, I can also use most other video conferencing software including^[s
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
 knitr::include_graphics("images/dooncan-hool.jpg")
 ```
-(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) in [Mountain View, California](https://en.wikipedia.org/wiki/Mountain_View,_California). Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days of “[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)” [@dontbeevil;@scifoo2007;@scifoo2009] and before the unfortunate [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet. [@internetcon]
+(ref:captiondooncan) Posing outside the [Googleplex](https://en.wikipedia.org/wiki/Googleplex) at 1600 Amphitheatre Parkway in [Mountain View, California](https://en.wikipedia.org/wiki/Mountain_View,_California). Thanks to [Andrew Lang](https://www.linkedin.com/in/andrewlang) for taking this picture during [Science Foo Camp](https://en.wikipedia.org/wiki/Science_Foo_Camp) back in the more optimistic days of “[Don't be evil](https://en.wikipedia.org/wiki/Don%27t_be_evil)” [@dontbeevil;@scifoo2007;@scifoo2009] and before the unfortunate [enshittification](https://en.wikipedia.org/wiki/Enshittification) of the internet. [@internetcon]
