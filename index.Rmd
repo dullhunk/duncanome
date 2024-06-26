@@ -10,7 +10,7 @@ fontsize: 12pt
 github-repo: dullhunk/duncanome
 twitter-handle: dullhunk
 always_allow_html: true
-description: "Dr. Duncan Hull, Lecturer (Assistant Professor) in the Department of Computer Science at the University of Manchester"
+description: "Dr. Duncan Hull, Senior Lecturer (Assistant Professor) in the Department of Computer Science at the University of Manchester"
 url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 
 ---
@@ -21,7 +21,7 @@ url: 'https\://personalpages.manchester.ac.uk/staff/duncan.hull/'
 knitr::include_graphics("images/duncan_hull.png")
 ```
 
-(ref:helloworldy) [Hello, World](https://en.wikipedia.org/wiki/Hello,_World): my name is Duncan and I'm a lecturer here in the Department of Computer Science at the University of Manchester. This is approximately what I look like now (picture left) and when I was a longer-haired undergraduate (picture right).
+(ref:helloworldy) [Hello, World](https://en.wikipedia.org/wiki/Hello,_World): my name is Duncan and I'm a Senior Lecturer here in the Department of Computer Science at the University of Manchester. This is approximately what I look like now (picture left) and when I was a longer-haired undergraduate (picture right).
 
 Hello and welcome to the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the [University of Manchester](https://www.manchester.ac.uk). My [name is Duncan](https://en.wikipedia.org/wiki/Duncan_(given_name)) and I'm a lecturer (≈ [Assistant Professor](https://en.wikipedia.org/wiki/Assistant_professor)) here with responsibility for managing our [Industrial Experience](https://www.cs.manchester.ac.uk/study/undergraduate/industrial-experience/) (IE) program. I [teach](https://personalpages.manchester.ac.uk/staff/duncan.hull/teaching.html) undergraduate & postgraduate students, supervise tutorials & projects while serving as [industrial experience & employability tutor](http://studentnet.cs.manchester.ac.uk/employment/placement/), [departmental forum](https://bit.ly/cs-departmental-forum) chair and a member of [University senate](https://www.manchester.ac.uk/discover/governance/structure/senate/). I'm interested [improving teaching, learning and the student experience](https://personalpages.manchester.ac.uk/staff/duncan.hull/research.html) by:
 
