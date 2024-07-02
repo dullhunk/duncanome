@@ -6,7 +6,7 @@ So, you're a student who needs a reference for a new job or future study?
 
 ## “Will you be my referee?” {#willyou}
 
-This is a question academics get asked a lot. As industrial experience and employability tutor, I get asked that question a lot and already write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). 
+This is a question academics get asked a lot. As industrial experience and employability tutor, I get asked that question more than most and already write *lots* of references for students applying for jobs and further study, see figure \@ref(fig:referee-fig). 
 
 ```{r referee-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap='(ref:captionreferee)'}
 knitr::include_graphics("images/referee.jpeg")

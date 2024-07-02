@@ -65,7 +65,13 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 
 
 
-... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig).
+... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig). In 2023, the BBC published archive footage of Tom Kilburn being interviewed by [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) in 1981 about the machine and its successors, shown in figure \@ref(fig:redhead-fig)
+
+```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
+knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
+```
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews Yorkshire's Computing Pioneer Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
+
 
 ### Numbers Speak Louder Than Words {#louder}
 
@@ -112,4 +118,4 @@ knitr::include_graphics("images/niels-bohr-prediction.jpeg")
 ```
 (ref:captionbohr) “Prediction is very difficult, especially if it's about the future”. Often attributed to Physicist [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr), it is disputed if he *actually* said this, see [wikiquote.org/wiki/Niels_Bohr#Disputed](https://en.wikiquote.org/wiki/Niels_Bohr#Disputed). Public domain image of Niels Bohr by the Nobel foundation on Wikimedia Commons [w.wiki/3dqV](https://w.wiki/3dqV)
 
-Prediction is very difficult, especially if it's about the future. Which is a good point to close this essay on.^[Originally written in 2004, for some reason all my quotes were from men. Updated and refreshed in 2021 from the original at [https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html](https://web.archive.org/web/20180729110412/http://www.cs.man.ac.uk/~hulld/msc2003.html)]
+Prediction is very difficult, especially if it's about the future. Which is a good point to close this essay on.^[Originally written in ~2006, for some reason all my quotes were from men. Updated and refreshed in 2021 from the original at [https://web.archive.org/web/20060304101200/http://www.cs.man.ac.uk/~hulld/msc2003.html](https://web.archive.org/web/20060304101200/http://www.cs.man.ac.uk/~hulld/msc2003.html)]

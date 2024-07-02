@@ -9,17 +9,7 @@ knitr::include_graphics("images/computer-science-education.jpeg")
 ```
 
 
-Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. 
-
-::: {.rmdnote}
-
-For: 
-
-* Coding **YOUR** future: a guidebook for students, see [cdyf.me](https://www.cdyf.me/)
-* Coding **THEIR** future: a collaboration between secondary schools in Greater Manchester and the University of Manchester, read on...
-:::
-
-Our aims are to:
+Coding their future is a collaboration & partnership between secondary schools and the [Department of Computer Science](https://www.cs.manchester.ac.uk/) at the University of Manchester. Our aims are to:
 
 * improve and support computing education before, during and after [GCSE Computer Science](https://www.bbc.co.uk/bitesize/subjects/z34k7ty), particularly at key stages 3, 4 and 5. [@shutdownrestart; @afterthereboot; @cse; @cambridgegcse]
 * [widen participation in higher education](https://www.manchester.ac.uk/discover/social-responsibility/widening-participation/), especially in under-represented groups. [@assir; @classceiling; @nicebutdim; @breakintoelite]

@@ -1,6 +1,6 @@
 # Contacting me {#contact}
 
-You can get in touch with me (and my colleagues) using the details below, which include my contact details, directions to the Kilburn Buidling and parking information.
+You can get in touch with me, my digital doppelgängers, and my colleagues using the details below, which include my contact details, directions to the Kilburn Buidling and parking information.
 
 (ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). According to [Jonathan Swinton](https://www.manturing.net/jonathan), Turing is the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial), [some blue plaques](https://duncan.hull.name/2021/07/07/turings-house/) and the [Alan Turing Way](https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/) [@turingway]
 
@@ -71,7 +71,7 @@ knitr::include_graphics("images/kilburnarama.jpg")
 Send post by carrier pigeon or snail mail to: 🐌
 
 Dr. Duncan Hull  
-Lecturer  
+Senior Lecturer  
 Department of Computer Science  
 Kilburn Building  
 The University of Manchester  
@@ -112,9 +112,9 @@ If you are driving, the nearest car parks are:
 * See [estates.manchester.ac.uk/services/operationalservices/carparking](https://www.estates.manchester.ac.uk/services/operationalservices/carparking/)
 
 
-## Duncan's Digital Doppelgangers  {#tinternet}
+## Duncan's Digital Doppelgängers  {#tinternet}
 
-You can connect online with my digital doppelgängers on t'internet at:
+You can connect online with my [digital doppelgängers](https://en.wikipedia.org/wiki/Doppelganger:_A_Trip_Into_the_Mirror_World) on t'internet at:
 
 * Blog: [duncan.hull.name](https://duncan.hull.name)
 * Email:	`firstname.surname@manchester.ac.uk` 
@@ -125,7 +125,7 @@ You can connect online with my digital doppelgängers on t'internet at:
 * Zoom: [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull)
 
 
-If I have to, I can also use most other video conferencing software including^[so much software to choose from!]: [Amazon Chime](https://aws.amazon.com/chime/), [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans), [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex), [Discord](https://en.wikipedia.org/wiki/Discord_(software)), [Google Hangouts](https://en.wikipedia.org/wiki/Google_Hangouts), [Jitsi](https://en.wikipedia.org/wiki/Jitsi), [Skype](https://en.wikipedia.org/wiki/Skype), [Skype for business](https://en.wikipedia.org/wiki/Skype_for_Business) and [Slack](https://en.wikipedia.org/wiki/Slack_(software)). 
+Besides Zoom/Teams, I can also use most other video conferencing software including^[so much software to choose from!]: [Amazon Chime](https://aws.amazon.com/chime/), [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans), [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex), [Discord](https://en.wikipedia.org/wiki/Discord_(software)), [Google Hangouts](https://en.wikipedia.org/wiki/Google_Hangouts), [Jitsi](https://en.wikipedia.org/wiki/Jitsi), [Skype](https://en.wikipedia.org/wiki/Skype), [Skype for business](https://en.wikipedia.org/wiki/Skype_for_Business) and [Slack](https://en.wikipedia.org/wiki/Slack_(software)). 
 
 
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}
