@@ -70,7 +70,7 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 ```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
 knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
 ```
-(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews Yorkshire's Computing Pioneer Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman (and Manchester United fan) Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
 
 
 ### Numbers Speak Louder Than Words {#louder}

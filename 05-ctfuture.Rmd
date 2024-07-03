@@ -74,7 +74,7 @@ Since these projects were started in 2012, our undergraduate students have worke
 <!-- stupid hack to make it fit the table-->
 (ref:bogstandard) [23.8%](https://bit.ly/bog-standard)
 
-The project was setup by [Duncan Hull][Contact] and [David Rydeheard](http://www.cs.man.ac.uk/~david/) and is now run by Duncan. There are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
+The project was setup by [Duncan Hull](contact) and [David Rydeheard](http://www.cs.man.ac.uk/~david/) and is now led by Duncan. There are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
 
 There's a well documented shortage of Computer Science teachers in the UK.[@mysteryshortage;@tesshortage;@royalshortage] Students working in schools can address this issue by learning from and supporting current teachers of Comptuer Science.
 
