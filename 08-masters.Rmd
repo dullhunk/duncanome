@@ -65,12 +65,12 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 
 
 
-... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig). In 2023, the BBC published archive footage of Tom Kilburn being interviewed by [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) in 1981 about the machine and its successors, shown in figure \@ref(fig:redhead-fig)
+... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig). In 2023, the BBC published archive footage of [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) being interviewed by [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) in 1981 about the big machine and its successors, shown in figure \@ref(fig:redhead-fig)
 
 ```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
 knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
 ```
-(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman (and Manchester United fan) Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
 
 
 ### Numbers Speak Louder Than Words {#louder}
