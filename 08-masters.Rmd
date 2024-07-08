@@ -59,19 +59,20 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 * tablet, phone, satnav
 * car, a computer with wheels
 * plane, a computer with wings
-* games console, wearable tech
+* games console, wearable tech etc
 * [smart card](https://en.wikipedia.org/wiki/Smart_card), embedded system etc
+* [Smart motorway](https://en.wikipedia.org/wiki/Smart_motorway) or transport system
 * household appliances, washing machine, doorbell etc
 
 
-
-... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig). In 2023, the BBC published archive footage of [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) being interviewed by [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) in 1981 about the big machine and its successors, shown in figure \@ref(fig:redhead-fig)
+... is a direct descendant of the rather strange looking machine in figure \@ref(fig:tomfred-fig). In 2023, the BBC published archive footage of [Tom Kilburn](https://en.wikipedia.org/wiki/Tom_Kilburn) being interviewed by [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) in 1981 about the big machine and its successors, shown in figure \@ref(fig:redhead-fig).
 
 ```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
 knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
 ```
-(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead]
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead] This clip looks *very* dated now but provides an interesting window on the past. 
 
+You don't need to be a Manchester United supporter or from Yorkshire to appreciate computing. A little basic arithmetic helps illustrate how far we've come since 1948 and 1981.
 
 ### Numbers Speak Louder Than Words {#louder}
 

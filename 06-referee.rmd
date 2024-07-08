@@ -13,7 +13,7 @@ knitr::include_graphics("images/referee.jpg")
 ```
 (ref:captionreferee) Come on ref! I'm not *that* kind of [referee](https://en.wikipedia.org/wiki/Referee), but I *can* provide facts and opinions about you to employers subject to conditions outlined on this page. Whoever your referee is, make sure you ask their permission beforehand, otherwise you may receive an unexpected (virtual) [penalty card](https://en.wikipedia.org/wiki/Penalty_card) from your referee. CC BY image of a referee by Jason Gulledge on Wikimedia Commons [w.wiki/3dqE](https://w.wiki/3dqE) adapted using the [Wikipedia app](https://apps.apple.com/us/app/wikipedia/id324715238) ⚽️
 
-Unfortunately, like you, my time is a precious and finite resource. So I can write a reference for you [if and only if](https://en.wikipedia.org/wiki/If_and_only_if): 
+Unfortunately, like yours, my time is a precious and finite resource. So I can write a reference for you if: 
 
 * You have been my personal tutee in first, second, placement or final year
 * We have worked together outside of ordinary teaching
