@@ -42,7 +42,7 @@ If you ask somebody who does not know you very well to write a reference for you
 ## “Should I ask permission from my referee? {#permission}
 You should always ask the person providing your reference, see figure \@ref(fig:referee-fig).
 
-## “What is a reference for? {#for}
+## “What is a reference for?” {#for}
 
 References have two main purposes:
 

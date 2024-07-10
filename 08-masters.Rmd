@@ -70,9 +70,9 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 ```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
 knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
 ```
-(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead] This clip looks *very* dated now but provides an interesting window on the past. 
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead] This clip looks *very* dated now (stale, male and pale) but provides an interesting window on the past. 
 
-You don't need to be a Manchester United supporter or from Yorkshire to appreciate computing. A little basic arithmetic helps illustrate how far we've come since 1948 and 1981.
+You don't need to be a Manchester United supporter or from Yorkshire, like Kilburn was, to appreciate computing. A little basic arithmetic helps illustrate how far we've come since 1948 and 1981.
 
 ### Numbers Speak Louder Than Words {#louder}
 
