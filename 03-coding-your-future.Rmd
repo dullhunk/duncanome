@@ -1,0 +1,32 @@
+# Coding Your Future
+
+Your future is bright, your future needs coding. So let's starting coding your future.
+
+*Coding Your Future* is a guidebook written to help students design, build, test and code their futures in computing, see figure \@ref(fig:cdyf-fig). Written by yours truly, [@cdyf] the full text of the book is freely available online at [www.cdyf.me](https://www.cdyf.me). If you'd prefer to read it in ebook format, you can also download it in a single file, see section \@ref(downloading).
+
+```{r cdyf-fig, echo = FALSE, fig.align = "center", out.width = "98%", fig.cap = "(ref:captioncdyf)"}
+knitr::include_graphics("images/CDYF-vision.png")
+```
+
+(ref:captioncdyf) Coding your Future is a guidebook to help students design, build, test and code their futures in computing, see [www.cdyf.me](https://www.cdyf.me). *Coding your Future* illustration by [Visual Thinkery](https://visualthinkery.com/) is licensed under [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+## Reading Your Future {#reading}
+
+Coding your future is a guidebook and course is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn’t actually matter:
+
+* *where* in the world you are studying
+* what *stage* of your degree you are at, from first year through to final year
+* what *level* you are studying at, foundation, undergraduate or postgraduate
+* what *institution* you are studying at, this book is University and institution agnostic
+* what *subject* you are studying, as long as you are **computationally curious**
+
+*Coding your Future* has something for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
+
+## Downloading Your Future {#downloading}
+
+The full text of the guidebook is freely available at [www.cdyf.me](https://www.cdyf.me/), this means the web version (that's all the `*.html`) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read the guidebook in a single ebook file, you can download a copy at:
+
+* [cdyf.pdf](https://www.cdyf.me/cdyf.pdf)
+* [cdyf.epub](https://www.cdyf.me/cdyf.epub)
+
+Since the guidebook is published open access and open source, I welcome constructive feedback from students, employers, academics and any other contributors, see [cdyf.me/#contributing](https://www.cdyf.me/#contributing)
