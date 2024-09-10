@@ -32,7 +32,7 @@ echo "replaced contact.html"
 find . -name "*.html" -exec sed -I '' 's/mastersofscience.html/mastersofscience/g' {} +
 echo "replaced mastersofscience.html"
 
-find . -name "*.html" -exec sed -I '' 's/hearing-your-future.html/hearing-your-fiture/g' {} +
+find . -name "*.html" -exec sed -I '' 's/hearing-your-future.html/hearing-your-future/g' {} +
 echo "replaced hearing-your-future.html"
 
 find . -name "*.html" -exec sed -I '' 's/references.html/references/g' {} +
