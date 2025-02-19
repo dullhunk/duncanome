@@ -17,6 +17,19 @@ Coding their future is a collaboration & partnership between secondary schools a
 
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the [Undergraduate Ambassador Scheme](https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme) (UAS), [@uas; @Cooper2005] and school placements [@Moller2019] except students work is assessed using our final year project framework. [@COMP30030; @COMP30040] 
 
+
+## Why Teach Coding? {#whycode}
+
+Coding, programming, software engineering and computer science - whatever you want to call it, builds key foundational skills and knowledge that **all** students need to learn regardless of their aspirations. Children don't learn to code just to become coders, they learn to code so they can build problem solving skills and develop an understanding how the digital world they inhabit functions. [@peytoncode] Sam Aaron, creator of the [sonic-pi.net](https://sonic-pi.net/) makes this case in figure \@ref(fig:sonic-pi-fig).
+
+```{r sonic-pi-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:sonicpi)"}
+knitr::include_url('https://www.youtube.com/embed/0lTZ8Tuyu5I')
+```
+
+(ref:sonicpi) If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at [youtu.be/0lTZ8Tuyu5I](https://youtu.be/0lTZ8Tuyu5I) [@youtube-sonicpi]
+
+Like Maths and English: Coding is for everybody, not just the techies. 
+
 ## Participating Schools {#schools}
 
 Since these projects were started in 2012, our undergraduate students have worked in twenty different schools in Greater Manchester. Participating organisations are mostly non-selective state schools, to align with the [University of Manchester's values of social responsibility and civic engagement](https://www.manchester.ac.uk/discover/vision/). Current and previous participating schools are shown in table \@ref(tab:schooltable), ranked by the percentage of their students entitled to free school meals (FSM). 
@@ -72,7 +85,7 @@ Since these projects were started in 2012, our undergraduate students have worke
 +--------------------------------------------------------------------------------------+--------------+---------------------------------------+
 
 <!-- stupid hack to make it fit the table-->
-(ref:bogstandard) [23.8%](https://bit.ly/bog-standard)
+(ref:bogstandard) [24.6%](https://bit.ly/bog-standard)
 
 The project was setup by [Duncan Hull](contact) and [David Rydeheard](http://www.cs.man.ac.uk/~david/) and is now led by Duncan. There are lots of open questions about how Computer Science should be taught. [@cse; @suemcr; @stephenson; @fincherpetre] To find out more, see the [guidance for teachers] and [guidance for students] below.
 
@@ -164,7 +177,7 @@ All deliverables for standard final year projects will be expected of these proj
 Assessments for these projects will be as for standard projects, [@COMP30030; @COMP30040] but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
 ### Blended Learning {#blended}
-COVID 19 has changed teaching, from primary and secondary school right through to higher education. You need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). Start with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
+COVID 19 has accelerated changes in the way we teach and learn, from primary and secondary school right through to higher education. As a teacher, you need to get clued up on [blended learning](https://en.wikipedia.org/wiki/Blended_learning). A good place to start is with [Moving to Blended Learning, Part 1: Terminology and Concepts](http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/), then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
 
 ```{r srp-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:srp)"}

@@ -3,7 +3,7 @@
 # Computing the Future  {#mastersofscience}
 
 > One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
-> some pictures, dad jokes and geek history.
+> some pictures, [dad jokes](https://en.wikipedia.org/wiki/Dad_joke) and geek history.
 
 ## The Class of 2003 {#y2003}  
 
@@ -25,7 +25,7 @@ knitr::include_graphics("images/classof1970something2.png")
 ```
 (ref:captionmu5) “You know Simon once we've debugged this code, we're going straight down the discotheque to dance the night away to that groovy new hit record by those [local Manchester lads the Bee Gees](https://en.wikipedia.org/wiki/Bee_Gees). How does it go? *[Night fever, night fever, we know how to show it](https://en.wikipedia.org/wiki/Night_Fever)*.” The people in the picture are, from left to right, Pat McKissack (wearer of fantastic shoes), Simon Lavington, Gordon Frank, Roland Ibbett, Peter Whitehead, Tony Whitehouse and Lynne Plant (seated at the system performance monitor). The MU5 console is in the foreground with the big machine in the background. The picture is probably taken sometime between about 1972 and 1978, but we've gone for 1978 so that we can make gratuitous references to seventies disco music. See the original unadulterated image via [Simon Lavington](http://www.computinghistory.org.uk/det/3638/Simon-Lavington/) and the Computer Conservation Society. [@mu5]
 
-Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. [@gosling] But the class of 1948 (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) [@fouryorkshiremen] they'd probably say:
+Now, Java junkie [James Gosling](https://en.wikipedia.org/wiki/James_Gosling) has [fond memories of using a whopping 8K of memory](http://web.archive.org/web/20041010131526/http://today.java.net/jag/page6.html#51) from around about the same period. [@gosling] But if the class of 1948 (see section \@ref(y1948)) were alive today and had seen the [Four Yorkshiremen sketch](https://en.wikipedia.org/wiki/Four_Yorkshiremen_sketch) [@fouryorkshiremen] they'd probably say:
 
 > Memory? Memory! LUXURY....'Ere in Manchester, when we were lads and built computers, we didn't even
 > have any memory. We had to make our own from an [old bit o' tube](https://en.wikipedia.org/wiki/Williams_tube) we found lying around in t'lab.
@@ -70,7 +70,7 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 ```{r redhead-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:redheadcaption)"}
 knitr::include_url('https://www.youtube.com/embed/CQ2EBw7AgZY')
 ```
-(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. You can also watch this 14 minute video at [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead] This clip looks *very* dated now ([male, pale and stale](https://www.oxfordreference.com/display/10.1093/acref/9780191827822.001.0001/acref-9780191827822-e-2138)) but provides an interesting window on the past. It was acceptable in the 80s, it was acceptable at the time.
+(ref:redheadcaption) Broadcaster [Brian Redhead](https://en.wikipedia.org/wiki/Brian_Redhead) interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. You can also watch this 14 minute video at [youtu.be/CQ2EBw7AgZY](https://youtu.be/CQ2EBw7AgZY) [@youtube-redhead] This clip looks *very* dated now ([male, pale and stale](https://www.oxfordreference.com/display/10.1093/acref/9780191827822.001.0001/acref-9780191827822-e-2138)) but provides an interesting window on the past. It was acceptable in the 80s, it was acceptable at the time. [@acceptableinthe80s]
 
 You don't need to be a Manchester United supporter or from Yorkshire, like Kilburn was, to appreciate computing. A little basic arithmetic helps illustrate how far we've come since 1948 and 1981.
 
