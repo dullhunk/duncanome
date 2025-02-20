@@ -2,7 +2,7 @@ bookdown::bs4_book:
   includes:
     in_header: [header.html]
   theme:
-    primary: "#8B0000"
+    primary: "#4183C4"
   repo: https://github.com/dullhunk/hulled
   # css: "libs/custom/dunk.css" no need for this because of primary above
 

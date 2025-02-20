@@ -38,6 +38,8 @@ Wikipedia and [wikidata.org](https://www.wikidata.org) [@Vrandecic2014; @Turki20
 
 As an experienced and long serving editor of Wikipedia since 2004, I organise and participate in [Wikipedia training events](https://en.wikipedia.org/wiki/Edit-a-thon) which recruit new Wikipedia editors. Some recent examples include:
 
+1. 2025-02-12 [Raising Representation CAHAE event](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Raising_Representation_CAHAE_event), run in collaboration with the [Department of Classics, Ancient History, Archaeology and Egyptology](https://www.alc.manchester.ac.uk/cahae/) (CAHAE)
+1. 2024-11-07 [Raising Representation](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Raising_Representation) of Women in Archaeology, run in collaboration with Hannah Cobb
 1. 2020-06-24 [Wikipedia: Women, War and Peace](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Women_in_War_and_Peace) run in collaboration with the [Imperial War Museums' War and Conflict Subject Specialist Network](https://www.iwm.org.uk/partnerships/subject-specialist-network), with support from the Arts Council England and Art Fund.
 1. 2020-02-26 [Wikimedia in Education UK Summit, Coventry University](https://wikiedusummit.coventry.domains) #wikiedu20
 1. 2019-11-22 [Training of Trainers (ToT) workshop, University of Glasgow](https://duncan.hull.name/2019/12/10/glasgow/)

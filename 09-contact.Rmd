@@ -1,6 +1,8 @@
-# Contacting me {#contact}
+# Contacting the Future {#contact}
 
-You can get in touch with me, my digital doppelgängers, and my colleagues using the details below, which include my contact details, directions to the Kilburn Buidling and parking information.
+Unfortunately, you can't contact the future. The time travel machine that my friend in the [Department of Physics and Astronomy](https://en.wikipedia.org/wiki/Department_of_Physics_and_Astronomy,_University_of_Manchester) has been working on isn't quite ready (yet). 
+
+However, you *can* contact me using the information below which includes directions to the Kilburn Buidling and parking information.
 
 (ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). According to [Jonathan Swinton](https://www.manturing.net/jonathan), Turing is the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial), [some blue plaques](https://duncan.hull.name/2021/07/07/turings-house/) and the [Alan Turing Way](https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/) [@turingway]
 
@@ -12,19 +14,19 @@ knitr::include_graphics("images/turingicon.jpg")
 
 If you're a student, please make sure you've [Read The Friendly Manual](https://en.wikipedia.org/wiki/RTFM) (RTFM), before asking me or my colleagues. There's a good chance your question will already be answered there, in particular:
 
-* The Undergraduate (UG) Handbook [wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main](https://wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main)
-* The UG Handbook section on Industrial Experience (IE) [Main#I:_Industrial_Experience](https://wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main#I:_Industrial_Experience)
+* The Undergraduate (UG) Handbook <!--[wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main](https://wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main)-->
+* The Placement handbook
 * The student support website at [www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk/)
 
 ## Student Support {#sso}
 
-If you can't find an answer to your question in section \@ref(rtfm), then get in touch. Bear in mind, I might not be the best person to talk to, depending on what you want. If you're a student, you might be better off contacting student support in person by the neon signs in the [engineering building](https://www.mecd.manchester.ac.uk/), see figure \@ref(fig:sso-fig).
+If you can't find an answer to your question in section \@ref(rtfm), then get in touch. Bear in mind, I might not be the best person to talk to, depending on what you want. If you're a student, you might be better off contacting student support in person by the neon signs in the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building), see figure \@ref(fig:sso-fig).
 
 
 ```{r sso-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionstudentsupport)", out.width = "100%"}
 knitr::include_graphics("images/studentsupport.jpg")
 ```
-(ref:captionstudentsupport) The Student Support Office (SSO) on the first floor of the [engineering building](https://www.mecd.manchester.ac.uk/) are here to help you, they should be your first port of call. If you have something more specific about a personal, academic or employment issue I may be able to help you.
+(ref:captionstudentsupport) The Student Support Office (SSO) on the first floor of the [Nancy Rothwell Building](https://en.wikipedia.org/wiki/Nancy_Rothwell_Building) are here to help you, they should be your first port of call. If you have something more specific about a personal, academic or employment issue I may be able to help you.
 
 You can contact student support using the emails below:
 

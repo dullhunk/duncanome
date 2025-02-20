@@ -29,7 +29,6 @@ Hello and welcome to the [Department of Computer Science](https://www.cs.manches
 * Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
 * Growing and building the teaching community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/) and serving on the board of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)
 * Supporting local schools both as a school governor and with the project [Coding Their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html)
-* Teaching engineers to [make better software](https://software-eng.netlify.app/) in collaboration with our [industrial mentors](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Updating students weekly on opportunities with the Wednesday Waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝
 
 Our elective industrial experience program has [up to 100](#employability) students every year working in paid employment for the penultimate (“sandwich”) year-in-industry of their undergraduate degrees. If you are an [employer](https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html) who would like to recruit a summer intern, placement student or graduate please [get in touch](https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html).
