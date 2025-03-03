@@ -1,8 +1,8 @@
 # Contacting the Future {#contact}
 
-Unfortunately, you can't contact the future. The time travel machine that my friend in the [Department of Physics and Astronomy](https://en.wikipedia.org/wiki/Department_of_Physics_and_Astronomy,_University_of_Manchester) has been working on isn't quite ready (yet). 
+> The future has arrived — It’s Just Not Evenly Distributed Yet. [@gibson]
 
-However, you *can* contact me using the information below which includes directions to the Kilburn Buidling and parking information.
+Unfortunately you can't contact the future (yet) While we wait for it to become more evenly distrubuted you *can* contact me using the information below which includes directions to the Kilburn Buidling and parking information.
 
 (ref:captioncycloturing) Paying homage to [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) at a mural on the [Princess Parkway](https://en.wikipedia.org/wiki/A5103_road) by [tankpetrol.com](http://tankpetrol.com/). According to [Jonathan Swinton](https://www.manturing.net/jonathan), Turing is the “patron saint of Manchester” [@manturing]. As a [Manchester icon](https://en.wikipedia.org/wiki/Symbols_of_Manchester), he is commemorated locally by the [Alan Turing building](https://en.wikipedia.org/wiki/Alan_Turing_Building), the [Alan Turing Memorial](https://en.wikipedia.org/wiki/Alan_Turing_Memorial), [some blue plaques](https://duncan.hull.name/2021/07/07/turings-house/) and the [Alan Turing Way](https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/) [@turingway]
 
@@ -127,7 +127,7 @@ You can connect online with my [digital doppelgängers](https://en.wikipedia.org
 * Zoom: [zoom.us/my/duncanhull](https://zoom.us/my/duncanhull)
 
 
-Besides Zoom/Teams, I can also use most other video conferencing software including^[so much software to choose from!]: [Amazon Chime](https://aws.amazon.com/chime/), [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans), [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex), [Discord](https://en.wikipedia.org/wiki/Discord_(software)), [Google Hangouts](https://en.wikipedia.org/wiki/Google_Hangouts), [Jitsi](https://en.wikipedia.org/wiki/Jitsi), [Skype](https://en.wikipedia.org/wiki/Skype), [Skype for business](https://en.wikipedia.org/wiki/Skype_for_Business) and [Slack](https://en.wikipedia.org/wiki/Slack_(software)). [@doppelganger]
+Besides Zoom/Teams, I can also use most other video conferencing software including^[so much software to choose from!]: [Amazon Chime](https://aws.amazon.com/chime/), [Bluejeans](https://en.wikipedia.org/wiki/BlueJeans), [Cisco Webex](https://en.wikipedia.org/wiki/Cisco_Webex), [Discord](https://en.wikipedia.org/wiki/Discord_(software)), [Google Hangouts](https://en.wikipedia.org/wiki/Google_Hangouts), [Jitsi](https://en.wikipedia.org/wiki/Jitsi) and [Slack](https://en.wikipedia.org/wiki/Slack_(software)). [@doppelganger]
 
 
 ```{r echo = FALSE, fig.align = "center", fig.cap = "(ref:captiondooncan)", out.width = "100%"}

@@ -132,6 +132,14 @@ Previously our students have secured year long placements at a wide range of emp
 
 There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch](contact).
 
+## Test
+
+```{r, eval=knitr::is_html_output(excludes = "epub"), results='asis', echo=FALSE}
+cat('<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7292113486992556032" height="1070" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>')
+```
+
+
+
 <!--
 ## Guest lectures from employers {#guestlectures}
 
