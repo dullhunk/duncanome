@@ -1,5 +1,6 @@
 fig:unsplashed-fig
 fig:unnamed-chunk-1
+fig:qr-fig
 fig:bugfeature-fig
 fig:su-fig
 fig:graduating-your-fig

@@ -11,9 +11,17 @@ knitr::include_graphics("images/bbcbreakfastsofa.png")
 
 ## All Years: Debug Your Future {#allyears}
 
-If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging) [@debugyourfuture] and [hacking your future](https://www.cdyf.me/hacking) [@hackingyourfuture], especially if you haven't written a CV, Résumé or LinkedIn profile before. Once you've done this you can:
+If you'd like to debug your CV, application form, covering letter and job search etc, read [debugging your future](https://www.cdyf.me/debugging) [@debugyourfuture] and [hacking your future](https://www.cdyf.me/hacking) [@hackingyourfuture], especially if you haven't written a CV, Résumé or LinkedIn profile before. Once you've checked your CV against short checklist at [cdyf.me/debugging#quick](https://www.cdyf.me/debugging#quick) you can get feedback from me by submitting your CV (etc) at [bit.ly/debug-my-cv](https://bit.ly/debug-my-cv) or using the QR code in figure \@ref(fig:qr-fig)
 
-* Get feedback by submitting your CV (etc) at [bit.ly/debug-my-cv](https://bit.ly/debug-my-cv)
+```{r qr-fig, echo = FALSE, fig.show = "hold", out.width = "33%", fig.cap = "(ref:captionqr)"}
+knitr::include_graphics(rep("images/qr.jpg", 3))
+```
+
+(ref:captionqr) Once you've self-checked your CV using [cdyf.me/debugging#quick](https://www.cdyf.me/debugging#quick) you can get feedback by submitting your CV (etc) at [bit.ly/debug-my-cv](https://bit.ly/debug-my-cv) (login required)
+ 
+Once you've submitted your CV you can:
+
+
 * Drop-in to my weekly one-to-one CV clinics for Computer Science students online during term-time during my open office hours, Wednesday 10am to midday on the lower first floor of the Kilburn building
 * Get feedback on your CV from as many other people as possible, because "[given enough eyeballs, all bugs are shallow](https://en.wikipedia.org/wiki/Linus%27s_law)" [@Raymond1999]
 
