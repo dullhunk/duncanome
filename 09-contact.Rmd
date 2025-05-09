@@ -55,6 +55,8 @@ If you  provide the following information in your email, they will be able to re
 * `Programme of Study` e.g. BSc Computer Science
 * Brief description of how we can assist you
 
+You can do this via [bit.ly/student-services-enquiry-form](https://bit.ly/student-services-enquiry-form)
+
 ## Office in the Kilburn Building {#office}
 
 My office is on the Lower First floor, Room LF25 of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) shown in figure \@ref(fig:kilburn-fig). From the Byte cafe on the lower first floor, go through the double doors on the South side of the building and down the ramp. LF25 is at the bottom of the ramp on the right, see [bit.ly/Kilburn-lower-first-floor](https://bit.ly/Kilburn-lower-first-floor). 
@@ -84,9 +86,9 @@ M13 9PL
 [Lancashire](https://duncan.hull.name/2019/07/05/mancashire/) 🌹   
 
 ```{r kilburnsouth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnsouth)", out.width = "100%"}
-knitr::include_graphics("images/kilburn-south-entrance.jpg")
+knitr::include_graphics("images/kilburn-south-entrance-new-door.jpg")
 ```
-(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the left hand side of the picture. 
+(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on Wilton Street with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the left and the [Alan Turing Building](https://en.wikipedia.org/wiki/Alan_Turing_Building) on the right hand side of the picture. CC BY SA picture from Wikimedia Commons.
 
 
 ## Kilburn Building Directions {#kilburn}
