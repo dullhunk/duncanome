@@ -69,7 +69,7 @@ Details of my office hours can be found in the Wednesday Waggle. 🐝
 ```{r kilburn-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnarama)", out.width = "100%"}
 knitr::include_graphics("images/kilburnarama.jpg")
 ```
-(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) taken from the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road). The building stands next to [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10), shown in the right of the picture here, which looks a bit like a giant tin of baked beans.
+(ref:captionkilburnarama) A panoramic picture of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) which looks a like a giant brick [heat sink](https://en.wikipedia.org/wiki/Heat_sink). This picture is taken from the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) showing [University Place](https://www.conference.manchester.ac.uk/venues/search/details/?property=10) on the right, which looks like a giant tin of baked beans. Creative Commons [BY](https://creativecommons.org/licenses/by/2.0/deed.en) Image by Yours Truly via Wikimedia Commons [w.wiki/E6Qk](https://w.wiki/E6Qk)
 
 ## Postal Address {#postal}
 
@@ -88,7 +88,7 @@ M13 9PL
 ```{r kilburnsouth-fig, echo = FALSE, fig.align = "center", fig.cap = "(ref:captionkilburnsouth)", out.width = "100%"}
 knitr::include_graphics("images/kilburn-south-entrance-new-door.jpg")
 ```
-(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on Wilton Street with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the left and the [Alan Turing Building](https://en.wikipedia.org/wiki/Alan_Turing_Building) on the right hand side of the picture. CC BY SA picture from Wikimedia Commons.
+(ref:captionkilburnsouth) A panoramic picture of the South entrance of the [Kilburn building](https://en.wikipedia.org/wiki/Kilburn_Building) on Wilton Street with the [Oxford Road](https://en.wikipedia.org/wiki/Wilmslow_Road) on the left and the [Alan Turing Building](https://en.wikipedia.org/wiki/Alan_Turing_Building) on the right hand side of the picture.
 
 
 ## Kilburn Building Directions {#kilburn}
