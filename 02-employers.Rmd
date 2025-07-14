@@ -106,7 +106,8 @@ knitr::include_graphics("images/high-fliers-table-2024.png")
 ```
 
 ## Employability
-We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry to around 100 per year, see figure \@ref(fig:ie-fig). This is a win-win-win situation for:
+We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. [@unemployed; @shadboltreview; @fincherreview; @finchergecco] Over the last decade we have been successful in *more than doubling* the number of our students going on year long placements in industry to around 100 per year, see figure \@ref(fig:ie-fig). The IE program is now the largest elective program of Industrial Experience in the University, see figure \@ref(fig:csreputation-fig). This is a win-win-win situation for:
+
 
 1. **Students**: benefit from a broader education, and develop social and non-cognitive skills that can be challenging to teach and learn in a purely academic environment. This is known as the [winning personality](https://www.suttontrust.com/research-paper/a-winning-personality-confidence-aspirations-social-mobility/) [@winningpersonality].
 2. **Employers**: placements are a cost-effective way for employers to recruit (and retain) graduate talent
@@ -129,6 +130,22 @@ ggplot(data = evenmoarplacements) + geom_bar(mapping = aes(x = year, y = student
 
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
+
+```{r csreputation-fig, echo = FALSE, results='hide', message=FALSE, warning=FALSE, fig.align = "center", out.width = "100%", fig.cap = "(ref:iebig)"}
+
+library(tidyverse)
+library(ggplot2)
+library(forcats)
+
+ieuom <- readr::read_csv("https://raw.githubusercontent.com/dullhunk/cdyf/refs/heads/master/data/ieuom.csv")
+
+ggplot(ieuom, aes(y = forcats::fct_rev(forcats::fct_infreq(Department)))) +
+  geom_bar() +
+  labs(y = "Department at the University of Manchester", x = "Number of undergraduate students starting IE placements in 2024")
+```
+(ref:iebig) The Department of Computer Science has the biggest elective program of Industrial Experience (IE) at the University of Manchester. The chart shows the number of students starting an Industrial Experience placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: `CS`: Department of Computer Science [cs.manchester.ac.uk](https://www.cs.manchester.ac.uk/), `MACE`: Department of Mechanical, Aerospace and Civil Engineering (MACE) [mace.manchester.ac.uk](https://www.mace.manchester.ac.uk/), `EEE`: Department of Electrical and Electronic Engineering [eee.manchester.ac.uk](https://www.eee.manchester.ac.uk/), `ChemEng`: Department of Chemical Engineering [ce.manchester.ac.uk](https://www.ce.manchester.ac.uk/), `Chemistry`: Department of Chemistry [chemistry.manchester.ac.uk](https://www.chemistry.manchester.ac.uk/), `Maths`: Department of Mathematics [maths.manchester.ac.uk](https://www.maths.manchester.ac.uk), `Physics`: Department of Physics & Astronomy [physics.manchester.ac.uk](https://www.physics.manchester.ac.uk), `Materials`: Department of Materials [materials.manchester.ac.uk](https://www.materials.manchester.ac.uk/), `EES`: Department of Earth and Environmental Sciences [ees.manchester.ac.uk](https://www.ees.manchester.ac.uk/). Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.
+
+
 
 There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, [get in touch](contact).
 

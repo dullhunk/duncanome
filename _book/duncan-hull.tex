@@ -110,17 +110,17 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
-\usepackage{bookmark}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
   pdftitle={Dr.~Duncan Hull},
-  pdfauthor={Yours truly, last updated on 04 June, 2025},
+  pdfauthor={Yours truly, last updated on 14 July, 2025},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 \title{Dr.~Duncan Hull}
-\author{Yours truly, last updated on 04 June, 2025}
+\author{Yours truly, last updated on 14 July, 2025}
 \date{}
 
 \begin{document}
@@ -130,7 +130,8 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\chapter*{Hello, World}\label{hello-world}
+\hypertarget{hello-world}{%
+\chapter*{Hello, World}\label{hello-world}}
 \addcontentsline{toc}{chapter}{Hello, World}
 
 \begin{figure}
@@ -162,31 +163,37 @@ Hello and welcome to the \href{https://www.cs.manchester.ac.uk/}{Department of C
   Updating students weekly on opportunities with the Wednesday Waggle newsletter at \href{https://waggle.cs.manchester.ac.uk/waggle/about}{waggle.cs.manchester.ac.uk} 🐝
 \end{itemize}
 
-Our elective industrial experience program has \hyperref[employability]{up to 100} students every year working in paid employment for the penultimate (``sandwich'') year-in-industry of their undergraduate degrees. If you are an \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html}{employer} who would like to recruit a summer intern, placement student or graduate please \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html}{get in touch}.
+Our elective industrial experience program has \protect\hyperlink{employability}{up to 100} students every year working in paid employment for the penultimate (``sandwich'') year-in-industry of their undergraduate degrees. If you are an \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/employers.html}{employer} who would like to recruit a summer intern, placement student or graduate please \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/contact.html}{get in touch}.
 
-\section*{Full stack teaching}\label{full-stack-teaching}
+\hypertarget{full-stack-teaching}{%
+\section*{Full stack teaching}\label{full-stack-teaching}}
 \addcontentsline{toc}{section}{Full stack teaching}
 
 Regardless of the age or the stage, I enjoy the challenges of teaching and have taught english, maths, science and engineering to primary \& secondary school children, undergraduates \& postgraduates. In 2011, I completed a \href{https://en.wikipedia.org/wiki/Postgraduate_Certificate_in_Education}{Postgraduate Certificate in Education} (PGCE) at the \href{https://www.bath.ac.uk/}{University of Bath} and worked as a high school science teacher in co-educational \href{https://www.gov.uk/types-of-school}{comprehensive (non-selective) state schools} in Swindon, Shaftesbury and Stockport before returning to higher education. I serve as a \href{https://www.manchester.ac.uk/connect/teachers/school-governors/}{school governor} on the governing board of a school in Greater Manchester. As well as teaching in the UK I have also taught in India, Japan and America too. 🇪🇺🇬🇧🇮🇳🇯🇵🇺🇸
 
-\section*{What's the Story?}\label{whats-the-story}
+\hypertarget{whats-the-story}{%
+\section*{What's the Story?}\label{whats-the-story}}
 \addcontentsline{toc}{section}{What's the Story?}
 
 What's the story, Jackanory? Born in \href{https://en.wikipedia.org/wiki/Bath,_Somerset}{Bath, Somerset} and raised using a \href{https://en.wikipedia.org/wiki/West_Country}{secret West Country recipe}, \href{https://uk.linkedin.com/in/duncanhull}{my story} is a mixture of Natural Science (\href{https://speakerdeck.com/dullhunk/why-study-plants}{Plant Sciences, BSc}), Computer Science (\href{mastersofscience.html}{MSc} \& \href{https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/1r887gn/alma992976677936301631}{PhD}) and software engineering. Outside of academia, I've worked as a consultant and software developer for \href{https://en.wikipedia.org/wiki/BBC_Monitoring}{BBC Monitoring}, the \href{https://en.wikipedia.org/wiki/Ford_Motor_Company}{Ford Motor Company} and the \href{https://en.wikipedia.org/wiki/National_Health_Service}{National Health Service} (NHS). As an academic, I have been part of the \href{https://esciencelab.org.uk/}{e-Science lab}, \href{https://en.wikipedia.org/wiki/Apache_Taverna}{Apache Taverna} and \href{https://en.wikipedia.org/wiki/MyGrid}{myGrid} projects and completed a \href{https://en.wikipedia.org/wiki/Postdoctoral_researcher}{postdoc} at the \href{https://www.mib.manchester.ac.uk/}{Manchester Institute of Biotechnology} (MIB) on the \href{https://pubmed.ncbi.nlm.nih.gov/20529930/}{Pathtext project}. This was followed by a short stint as a software engineer of \href{https://en.wikipedia.org/wiki/ChEBI}{Chemical Entities of Biological Interest} (ChEBI) at the \href{https://en.wikipedia.org/wiki/European_Bioinformatics_Institute}{European Bioinformatics Institute} (EBI) in Cambridge, UK. 🧬👨‍🔬
 
-\section*{Toolbox}\label{toolbox}
+\hypertarget{toolbox}{%
+\section*{Toolbox}\label{toolbox}}
 \addcontentsline{toc}{section}{Toolbox}
 
 This website was built using \href{https://bookdown.org}{bookdown}, \href{https://en.wikipedia.org/wiki/Markdown}{markdown}, the \href{https://en.wikipedia.org/wiki/R_(programming_language)}{R language}, \href{https://en.wikipedia.org/wiki/JavaScript}{JavaScript}, \href{https://en.wikipedia.org/wiki/Knitr}{knitr}, \href{https://latex4year1.netlify.app}{LaTeX}, \href{https://en.wikipedia.org/wiki/Pandoc}{Pandoc}, \href{https://en.wikipedia.org/wiki/GitHub}{GitHub}, \href{https://en.wikipedia.org/wiki/RStudio}{RStudio} and TLC. The \href{https://github.com/dullhunk/duncanome}{source code is available} and the documentation in \emph{\href{https://bookdown.org/yihui/bookdown/}{Authoring Books and Technical Documents with R Markdown}}. These pages are also available \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.pdf}{in one single pdf file} and \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/duncan-hull.epub}{and an ebook}. Thanks to \href{https://en.wikipedia.org/wiki/Yihui_Xie}{Yihui Xie} and his collaborators for the handy tools and excellent documentation. 🙏
 
-\section*{Get a Life!}\label{get-a-life}
+\hypertarget{get-a-life}{%
+\section*{Get a Life!}\label{get-a-life}}
 \addcontentsline{toc}{section}{Get a Life!}
 
 Outside of work I sing a \href{https://en.wikipedia.org/wiki/Bass_(voice_type)}{bassy}-\href{https://en.wikipedia.org/wiki/Baritone}{baritone} in a local community \href{https://en.wikipedia.org/wiki/Show_choir}{show choir}, look after bees and enjoy learning greek language and culture, preferably in a \href{https://en.wikipedia.org/wiki/Taverna}{ταβέρνα} or on a \href{https://en.wikipedia.org/wiki/Beach}{Παραλία} in Greece. Άντε γειά! 🏖️🇬🇷
 
-\part{DUNCANOME}\label{part-duncanome}
+\hypertarget{part-duncanome}{%
+\part{DUNCANOME}\label{part-duncanome}}
 
-\chapter{Studying Your Future}\label{teaching}
+\hypertarget{teaching}{%
+\chapter{Studying Your Future}\label{teaching}}
 
 I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and postgraduate courses. You can find me online during office hours, in the labs, my office hours, on \href{https://www.youtube.com/@coding-your-future}{youtube.com/@coding-your-future} and in lecture theatres. 🎭
 
@@ -201,7 +208,8 @@ I teach, mentor, tutor, lecture on and supervise a variety of undergraduate and 
 
 
 
-\section{All Years: Debug Your Future}\label{allyears}
+\hypertarget{allyears}{%
+\section{All Years: Debug Your Future}\label{allyears}}
 
 If you'd like to debug your CV, application form, covering letter and job search etc, read \href{https://www.cdyf.me/debugging}{debugging your future} \citep{debugyourfuture} and \href{https://www.cdyf.me/hacking}{hacking your future} \citep{hackingyourfuture}, especially if you haven't written a CV, Résumé or LinkedIn profile before. Once you've checked your CV against short checklist at \href{https://www.cdyf.me/debugging\#quick}{cdyf.me/debugging\#quick} you can get feedback from me by submitting your CV (etc) at \href{https://bit.ly/debug-my-cv}{bit.ly/debug-my-cv} or using the QR code in figure \ref{fig:qr-fig}
 
@@ -234,7 +242,8 @@ Once you've submitted your CV you can:
 
 Outside of term time, it's best to book a debugging appointment. 🐛
 
-\section{First Year Students}\label{year1}
+\hypertarget{year1}{%
+\section{First Year Students}\label{year1}}
 
 If you're in your first year of study, I serve as:
 
@@ -248,7 +257,8 @@ If you're in your first year of study, I serve as:
   Organiser of first year guest lectures, which mostly run in the second semester, February to May
 \end{itemize}
 
-\section{Second Year Students}\label{year2}
+\hypertarget{year2}{%
+\section{Second Year Students}\label{year2}}
 
 If you're in your second year of study, I serve as:
 
@@ -258,7 +268,8 @@ If you're in your second year of study, I serve as:
   Course leader for \href{https://www.cdyf.me/}{Coding your Future: COMP2CARS} a course designed by me for (primarily) second year students to design, build, test and debug their futures in computing.
 \end{itemize}
 
-\section{Penultimate Year Students}\label{penultimate}
+\hypertarget{penultimate}{%
+\section{Penultimate Year Students}\label{penultimate}}
 
 If you're on placement during your penultimate year (your last-but-one), I serve as:
 
@@ -270,7 +281,8 @@ If you're on placement during your penultimate year (your last-but-one), I serve
   Year tutor for students on placement, either face to face or via telecon
 \end{itemize}
 
-\section{Final Year Students}\label{finalyear}
+\hypertarget{finalyear}{%
+\section{Final Year Students}\label{finalyear}}
 
 If you're in your final year of study, you'll find me:
 
@@ -280,7 +292,8 @@ If you're in your final year of study, you'll find me:
   Supervising final year educational projects based in secondary schools in Greater Manchester, see \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future}{coding their future}. \citep{computinged} 👩‍💻👨‍💻
 \end{itemize}
 
-\section{Masters Students}\label{masters}
+\hypertarget{masters}{%
+\section{Masters Students}\label{masters}}
 
 If you're doing a Masters degree, you'll find me:
 
@@ -292,11 +305,13 @@ If you're doing a Masters degree, you'll find me:
   Supervising \href{https://www.cs.manchester.ac.uk/study/masters/}{Master of Science} projects in Computer Science and Data Science. \citep{r4ds} This typically involves various combinations of Wikipedia, Wikdata, \href{https://en.wikipedia.org/wiki/SPARQL}{SPARQL} \citep{ducharme} and chatbots. 🤖 \citep{myca}
 \end{itemize}
 
-\section{PhD Students}\label{phds}
+\hypertarget{phds}{%
+\section{PhD Students}\label{phds}}
 
 If you've got any interesting PhD research ideas you like to pitch to me, particularly if they involve \href{https://sigcse.cs.manchester.ac.uk}{computer science education} or professional issues, I'm all ears! 👂
 
-\section{Extracurricular and Flexible Learning}\label{extra}
+\hypertarget{extra}{%
+\section{Extracurricular and Flexible Learning}\label{extra}}
 
 Outside all of the above, I'm a promoter and supporter of flexible and extracurricular learning including:
 
@@ -310,7 +325,8 @@ Outside all of the above, I'm a promoter and supporter of flexible and extracurr
   Piloting the introduction of Microsoft Fundamental Certifications across the University in collaboration with the \href{https://www.manchester.ac.uk/discover/teaching-and-learning-excellence/flexible-learning/}{Flexible Learning Program} see \href{https://www.cdyf.me/achieving\#microsoft}{cdyf.me/achieving\#microsoft}. \citep{georgepettifer}
 \end{itemize}
 
-\section{Previous teaching}\label{previously}
+\hypertarget{previously}{%
+\section{Previous teaching}\label{previously}}
 
 Previously I have served as:
 
@@ -326,15 +342,28 @@ Previously I have served as:
   \href{https://studentnet.cs.manchester.ac.uk/ugt/year2/}{Second year tutor} from 2016 through to 2020
 \end{itemize}
 
-\section{Teaching Awards}\label{awards}
+\hypertarget{awards}{%
+\section{Teaching Awards}\label{awards}}
 
 Thanks to all the students at the \href{https://en.wikipedia.org/wiki/University_of_Manchester_Students\%27_Union}{University of Manchester Students' Union} (UMSU) who nominated me for an academic advising champion award in 2024, see \href{https://manchesterstudentsunion.com/awards}{manchesterstudentsunion.com/awards} and figure \ref{fig:su-fig}. These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. \citep{su2024}
 
-\label{fig:su-fig}Thanks to all the students at the UMSU who nominated me for academic advising award and thanks Sambbhav for recording it. UMSU is the largest students' union in the UK representing over 40,000 students. You can also watch the full 30 second video embedded in this figure at \href{https://youtu.be/pe-M8_lKUz0}{youtu.be/pe-M8\_lKUz0} \citep{youtube-su2024}
+\begin{verbatim}
+## Google Chrome was not found. Try setting the `CHROMOTE_CHROME` environment variable to the executable of a Chromium-based browser, such as Google Chrome, Chromium or Brave.
+\end{verbatim}
+
+\begin{figure}
+
+{\centering \href{https://www.youtube.com/embed/pe-M8_lKUz0}{\includegraphics[width=0.99\linewidth]{duncan-hull_files/figure-latex/su-fig-1} }
+
+}
+
+\caption{Thanks to all the students at the UMSU who nominated me for academic advising award and thanks Sambbhav for recording it. UMSU is the largest students' union in the UK representing over 40,000 students. You can also watch the full 30 second video embedded in this figure at \href{https://youtu.be/pe-M8_lKUz0}{youtu.be/pe-M8\_lKUz0} \citep{youtube-su2024}}\label{fig:su-fig}
+\end{figure}
 
 
 
-\chapter{Employing Your Future}\label{employers}
+\hypertarget{employers}{%
+\chapter{Employing Your Future}\label{employers}}
 
 If you are an employer, graduates and undergraduates are an important part of the future of your organisation. Collaborating with us in the Department of Computer Science is one of the best ways to encourage students from the University of Manchester to join your organisation as employees both before and after they graduate, see figure \ref{fig:graduating-your-fig}.
 
@@ -351,7 +380,8 @@ If you are an employer, graduates and undergraduates are an important part of th
 
 If you're not recruiting graduates, your organisation may suffer in the longer term as talented and young employees decide to work for other employers. Recruiting graduates is a cost effective way to build the skills and knowledge your organisation needs to succeed in the future.
 
-\section{Recruiting Computer Science Students}\label{recruiting}
+\hypertarget{recruiting}{%
+\section{Recruiting Computer Science Students}\label{recruiting}}
 
 We collaborate with a wide range of employers from the smallest bedroom startup to the worlds largest multi-national corporations, and are always looking for more organisations that can offer our students a stimulating working environment to start their careers. According to \href{https://www.highfliers.co.uk}{highfliers.co.uk}, the University of Manchester is the most targeted University in the UK by the \href{https://www.top100graduateemployers.com}{Times Top 100 Graduate Employers}. \citep{Birchall2019} We can still do better, for example by engaging with a more diverse group of employers, especially those in Manchester and the \href{https://northernpowerhouse.gov.uk/}{Northern Powerhouse}, see \href{https://git.io/manc}{git.io/manc}. \citep{gitmanc, londonvstherest, hebdenbridge, manhattanchester, manchattan}
 
@@ -398,7 +428,8 @@ If you are looking to recruit science and engineering students from other discip
   the central careers service of the University via \href{http://www.employers.manchester.ac.uk/}{employers.manchester.ac.uk}
 \end{itemize}
 
-\section{Careers Fairs}\label{careersfairs}
+\hypertarget{careersfairs}{%
+\section{Careers Fairs}\label{careersfairs}}
 
 Our annual Computer Science careers fair is held in the Kilburn building in autumn, we typically have around 30 employers exhibiting over two days. As space is limited, we are always over-subscribed and are not able to accommodate every employer that our students will be interested in. We give priority to employers that offer internships, placements and graduate roles and have contributed to our community through the activities described on this page. The central careers service also organises:
 
@@ -412,11 +443,13 @@ Our annual Computer Science careers fair is held in the Kilburn building in autu
   hundreds of other employer events on campus during term time \citep{highfliers2020}
 \end{itemize}
 
-\section{Drop-in Sessions}\label{dropins}
+\hypertarget{dropins}{%
+\section{Drop-in Sessions}\label{dropins}}
 
-If you aren't willing or able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in \href{https://www.manchester.ac.uk/discover/key-dates/}{term time}. If you're interested in exhibiting at either of these events, please \hyperref[office]{contact the careers and placements officer Mabel Yau}.
+If you aren't willing or able to exhibit at careers fairs, we also run ad-hoc drop-in sessions where employers can come in and set up a stand in the foyer to talk to computer science students informally on their way to and from lectures. These usually happen during lunch in \href{https://www.manchester.ac.uk/discover/key-dates/}{term time}. If you're interested in exhibiting at either of these events, please \protect\hyperlink{office}{contact the careers and placements officer Mabel Yau}.
 
-\section{Industry Club}\label{industryclub}
+\hypertarget{industryclub}{%
+\section{Industry Club}\label{industryclub}}
 
 \begin{center}\includegraphics[width=0.4\linewidth]{images/industry-club-black} \end{center}
 
@@ -424,11 +457,13 @@ All employers are welcome to join our industry club mailing list by sending an e
 
 The mailing list is low-traffic, typically two to three updates per year and an invitation to our annual industry club meeting. We promise not to spam you or sell your email details on to third parties.
 
-\section{Industrial Mentoring}\label{mentoring}
+\hypertarget{mentoring}{%
+\section{Industrial Mentoring}\label{mentoring}}
 
 The \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{Industrial mentoring scheme for software engineers} allows employers meet students during code review sessions.
 
-\section{Co-supervised Projects}\label{cosupervise}
+\hypertarget{cosupervise}{%
+\section{Co-supervised Projects}\label{cosupervise}}
 
 If you would like to co-supervise a project student in collaboration with an academic member of staff, there are several options. The best option depends on the domain, level and duration of the project:
 
@@ -448,11 +483,13 @@ If you would like to co-supervise a project student in collaboration with an aca
 
 For Bachelors and Masters projects, you can contact academic members of staff directly, or speak to \href{https://research.manchester.ac.uk/en/persons/terence.morley}{Terence Morley} (final year project lead) or \href{https://research.manchester.ac.uk/en/persons/thomas.thomson}{Thomas Thomson}, who leads our postgraduate taught (Masters) courses.
 
-\section{The Wednesday Waggle}\label{the-wednesday-waggle}
+\hypertarget{the-wednesday-waggle}{%
+\section{The Wednesday Waggle}\label{the-wednesday-waggle}}
 
 During term time, we highlight events and vacancies for Computer Science students from a \href{https://www.cdyf.me/finding}{wide range of sources} in a weekly newsletter called the \emph{Wednesday Waggle} (\href{https://waggle.cs.manchester.ac.uk/waggle/about}{waggle.cs.manchester.ac.uk}) 🐝. This goes out to around \textasciitilde1500 Bachelors and Masters Computer Science students in Manchester each week. If you have vacancies or events you would like our students to know about, you can advertise them at \href{https://careerconnect.manchester.ac.uk/}{careerconnect.manchester.ac.uk}, and let me know when they are live in the system, then I can highlight them to the weekly newsletter. Alternatively, point us to where they are advertised online, see \href{https://www.cdyf.me/finding\#studentjobs}{advertising vacancies to students}. It can help students find your needle in the jobs haystack.
 
-\section{Join the Community}\label{join-the-community}
+\hypertarget{join-the-community}{%
+\section{Join the Community}\label{join-the-community}}
 
 There is a thriving community of engineers and \href{https://www.accelerateme.co/}{entrepreneurs} in Manchester and across the North of England. One of the best ways to recruit engineers and scientists is to join and \emph{contribute} to the community. Get involved in events, \href{https://www.unicsmcr.com/}{sponsor a hackathon}, deliver a guest lecture, host your own event or \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{become a software engineering mentor}. Employers who engage \textbf{early and often} are much more likely to get something back. As an employer, you may also be interested in events run by:
 
@@ -468,7 +505,8 @@ There is a thriving community of engineers and \href{https://www.accelerateme.co
 
 If you're a startup new to employment, you may find the guide at \href{https://www.gov.uk/employ-someone}{gov.uk/employ-someone} useful.
 
-\section{Buzzing!}\label{buzzing}
+\hypertarget{buzzing}{%
+\section{Buzzing!}\label{buzzing}}
 
 At peak times, we can get \textbf{very busy} with many concurrent employer events on campus, see figure \ref{fig:busy-fig}. Please be patient and persistent if we do not reply immediately. Unfortunately, we are not always able to respond to everyone because our students, staff and space are all finite resources. We give priority to employers that have already given their time and expertise to our community.
 
@@ -483,9 +521,10 @@ At peak times, we can get \textbf{very busy} with many concurrent employer event
 \caption{According to \href{https://www.highfliers.co.uk}{highfliers.co.uk}, the University of Manchester is the second most targeted University in the UK by the \href{https://www.top100graduateemployers.com}{Times Top 100 Graduate Employers} \citep{highfliers2024}}\label{fig:busy-fig}
 \end{figure}
 
-\section{Employability}\label{employability}
+\hypertarget{employability}{%
+\section{Employability}\label{employability}}
 
-We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. \citep{unemployed, shadboltreview, fincherreview, finchergecco} Over the last decade we have been successful in \emph{more than doubling} the number of our students going on year long placements in industry to around 100 per year, see figure \ref{fig:ie-fig}. This is a win-win-win situation for:
+We are working hard to improve the employability of students because while having a Computer Science is necessary for some jobs, it is not sufficient. \citep{unemployed, shadboltreview, fincherreview, finchergecco} Over the last decade we have been successful in \emph{more than doubling} the number of our students going on year long placements in industry to around 100 per year, see figure \ref{fig:ie-fig}. The IE program is now the largest elective program of Industrial Experience in the University, see figure \ref{fig:csreputation-fig}. This is a win-win-win situation for:
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -511,9 +550,21 @@ We are working hard to improve the employability of students because while havin
 
 Previously our students have secured year long placements at a wide range of employers including Accenture, Agilent Technologies, Amazon, AND Digital, Apadmi, Arggo, ARM, Autodesk, AVL Powertrain, BAML, the BBC, Biorelate, BJSS, Bloomberg, BMW Mini, Bsquare Controls, BT, Cantarus, Celtra, CERN, Codethink, d3t, Elysian Systems, Feral Interactive, Fidelity, FiveAI, HMRC, IBM, Imagination Technologies, Intel, ISA Software, JP Morgan, Keysight Technologies, KPMG, Matillion, McAfee, Mentor Graphics, Monoprix, Morgan Stanley, NCC Group, Nokia, Nomura, Novacoast, Ocado, PA Consulting, PwC, Schlumberger, ServiceNow, Siemens, Soda Software, SteamaCo, The Hut Group, The Start Up Factory, Uber, Visa and Vodafone.
 
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{duncan-hull_files/figure-latex/csreputation-fig-1} 
+
+}
+
+\caption{The Department of Computer Science has the biggest elective program of Industrial Experience (IE) at the University of Manchester. The chart shows the number of students starting an Industrial Experience placement year in 2024 as part of their undergraduate study at the University of Manchester. The data is plotted by Department: \texttt{CS}: Department of Computer Science \href{https://www.cs.manchester.ac.uk/}{cs.manchester.ac.uk}, \texttt{MACE}: Department of Mechanical, Aerospace and Civil Engineering (MACE) \href{https://www.mace.manchester.ac.uk/}{mace.manchester.ac.uk}, \texttt{EEE}: Department of Electrical and Electronic Engineering \href{https://www.eee.manchester.ac.uk/}{eee.manchester.ac.uk}, \texttt{ChemEng}: Department of Chemical Engineering \href{https://www.ce.manchester.ac.uk/}{ce.manchester.ac.uk}, \texttt{Chemistry}: Department of Chemistry \href{https://www.chemistry.manchester.ac.uk/}{chemistry.manchester.ac.uk}, \texttt{Maths}: Department of Mathematics \href{https://www.maths.manchester.ac.uk}{maths.manchester.ac.uk}, \texttt{Physics}: Department of Physics \& Astronomy \href{https://www.physics.manchester.ac.uk}{physics.manchester.ac.uk}, \texttt{Materials}: Department of Materials \href{https://www.materials.manchester.ac.uk/}{materials.manchester.ac.uk}, \texttt{EES}: Department of Earth and Environmental Sciences \href{https://www.ees.manchester.ac.uk/}{ees.manchester.ac.uk}. Data from PowerBI as of 2025, note that summer internships are shown in this bar chart, only year long placements.}\label{fig:csreputation-fig}
+\end{figure}
+
+
+
 There's still more we can do to improve the employability of our graduates. If you'd like to help our graduates become more employable, \href{contact}{get in touch}.
 
-\chapter{Coding Your Future}\label{coding-your-future}
+\hypertarget{coding-your-future}{%
+\chapter{Coding Your Future}\label{coding-your-future}}
 
 Your future is bright, your future needs coding. So let's starting coding your future.
 
@@ -530,7 +581,8 @@ Your future is bright, your future needs coding. So let's starting coding your f
 
 
 
-\section{Reading Your Future}\label{reading}
+\hypertarget{reading}{%
+\section{Reading Your Future}\label{reading}}
 
 Coding your future is a guidebook and course is aimed at ALL students in higher education. While the guide supports undergraduate teaching at the University of Manchester, it doesn't actually matter:
 
@@ -550,7 +602,8 @@ Coding your future is a guidebook and course is aimed at ALL students in higher 
 
 \emph{Coding your Future} has something for any student of computing, both those inside and outside of Computer Science departments. 👨🏿‍💻👨‍💻👩🏽‍💻👩‍💻👩🏿‍💻
 
-\section{Downloading Your Future}\label{downloading}
+\hypertarget{downloading}{%
+\section{Downloading Your Future}\label{downloading}}
 
 The full text of the guidebook is freely available at \href{https://www.cdyf.me/}{www.cdyf.me}, this means the web version (that's all the \texttt{*.html}) is searchable, browsable and linkable in any web browser on your phone, tablet or desktop computer. If you'd prefer to read the guidebook in a single ebook file, you can download a copy at:
 
@@ -564,7 +617,8 @@ The full text of the guidebook is freely available at \href{https://www.cdyf.me/
 
 Since the guidebook is published open access and open source, I welcome constructive feedback from students, employers, academics and any other contributors, see \href{https://www.cdyf.me/\#contributing}{cdyf.me/\#contributing}
 
-\chapter{Coding Their Future}\label{coding-their-future}
+\hypertarget{coding-their-future}{%
+\chapter{Coding Their Future}\label{coding-their-future}}
 
 Their future is bright, their future needs coding. So let's start coding their future\ldots{}
 
@@ -593,17 +647,26 @@ Coding their future is a collaboration \& partnership between secondary schools 
 
 The University provides schools with a final year student who can teach Computer Science in your school or college as a teaching assistant (TA). In return, the school provides our undergraduate students with a safe and supportive environment in which to teach which extends and augments your current curriculum. This can either be an after school, extension / lunchtime club or during scheduled lesson time, typically between year 7 and 13. This is similar to the \href{https://en.wikipedia.org/wiki/Undergraduate_Ambassadors_Scheme}{Undergraduate Ambassador Scheme} (UAS), \citep{uas, Cooper2005} and school placements \citep{Moller2019} except students work is assessed using our final year project framework. \citep{COMP30030, COMP30040}
 
-\section{Why Teach Coding?}\label{whycode}
+\hypertarget{whycode}{%
+\section{Why Teach Coding?}\label{whycode}}
 
 Coding, programming, software engineering and computer science - whatever you want to call it, builds key foundational skills and knowledge that \textbf{all} students need to learn regardless of their aspirations. Children don't learn to code just to become coders, they learn to code so they can build problem solving skills and develop an understanding how the digital world they inhabit functions. \citep{peytoncode} Sam Aaron, creator of the \href{https://sonic-pi.net/}{sonic-pi.net} makes this case in figure \ref{fig:sonic-pi-fig}.
 
-\label{fig:sonic-pi-fig}If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/0lTZ8Tuyu5I}{youtu.be/0lTZ8Tuyu5I} \citep{youtube-sonicpi}
+\begin{figure}
+
+{\centering \href{https://www.youtube.com/embed/0lTZ8Tuyu5I}{\includegraphics[width=0.99\linewidth]{duncan-hull_files/figure-latex/sonic-pi-fig-1} }
+
+}
+
+\caption{If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/0lTZ8Tuyu5I}{youtu.be/0lTZ8Tuyu5I} \citep{youtube-sonicpi}}\label{fig:sonic-pi-fig}
+\end{figure}
 
 
 
 Like Maths and English: Coding is for everybody, not just the techies.
 
-\section{Participating Schools}\label{schools}
+\hypertarget{schools}{%
+\section{Participating Schools}\label{schools}}
 
 Since these projects were started in 2012, our undergraduate students have worked in twenty different schools in Greater Manchester. Participating organisations are mostly non-selective state schools, to align with the \href{https://www.manchester.ac.uk/discover/vision/}{University of Manchester's values of social responsibility and civic engagement}. Current and previous participating schools are shown in table \ref{tab:schooltable}, ranked by the percentage of their students entitled to free \href{https://en.wikipedia.org/wiki/School_meal}{school meal}s (FSM).
 
@@ -664,11 +727,12 @@ Location
 
 
 
-The project was setup by \href{contact}{Duncan Hull} and \href{http://www.cs.man.ac.uk/~david/}{David Rydeheard} and is now led by Duncan. There are lots of open questions about how Computer Science should be taught. \citep{cse, suemcr, stephenson, fincherpetre} To find out more, see the \hyperref[guidance-for-teachers]{guidance for teachers} and \hyperref[guidance-for-students]{guidance for students} below.
+The project was setup by \href{contact}{Duncan Hull} and \href{http://www.cs.man.ac.uk/~david/}{David Rydeheard} and is now led by Duncan. There are lots of open questions about how Computer Science should be taught. \citep{cse, suemcr, stephenson, fincherpetre} To find out more, see the \protect\hyperlink{guidance-for-teachers}{guidance for teachers} and \protect\hyperlink{guidance-for-students}{guidance for students} below.
 
 There's a well documented shortage of Computer Science teachers in the UK.\citep{mysteryshortage, tesshortage, royalshortage} Students working in schools can address this issue by learning from and supporting current teachers of Comptuer Science.
 
-\section{Guidance for Teachers}\label{guidance-for-teachers}
+\hypertarget{guidance-for-teachers}{%
+\section{Guidance for Teachers}\label{guidance-for-teachers}}
 
 
 
@@ -683,7 +747,8 @@ There's a well documented shortage of Computer Science teachers in the UK.\citep
 
 Our aim is to support the teaching and learning of Computer Science in your school and to help engage schoolchildren in the subject. This page describes what we can provide you with and what we expect to get in return.
 
-\subsection{What the University is Offering Your School}\label{what-the-university-is-offering-your-school}
+\hypertarget{what-the-university-is-offering-your-school}{%
+\subsection{What the University is Offering Your School}\label{what-the-university-is-offering-your-school}}
 
 The University of Manchester will provide your school or college with at least one student ambassador with some relevant training who has completed two years of study in Computer Science and has:
 
@@ -699,7 +764,8 @@ The University of Manchester will provide your school or college with at least o
   Achieved a minimum of a 2:1 or 1st class degree in their second year
 \end{itemize}
 
-\subsection{What the University Expects From Your School}\label{expectations}
+\hypertarget{expectations}{%
+\subsection{What the University Expects From Your School}\label{expectations}}
 
 In return, we expect that the school provides the undergraduate student with:
 
@@ -713,11 +779,13 @@ In return, we expect that the school provides the undergraduate student with:
   Classroom and behaviour management: the students are not trained teachers and will be relying on your expertise in classroom and behaviour management.
 \end{itemize}
 
-\subsection{Resources Developed by Students}\label{resources}
+\hypertarget{resources}{%
+\subsection{Resources Developed by Students}\label{resources}}
 
 Undergraduates typically develop a range of resources. The project will involve development of a computer-based system together with supporting activities, lessons and resources. The resource could be a variety of things including, a game, robotics, animations, hardware (Raspberry Pi, Arduino etc) or software, intended to enthuse school students at one of the Key stages 3 or 4 about fundamental concepts in computing preferably linked to one of the new Computer Science curricula.
 
-\subsection{Project Timing}\label{timing}
+\hypertarget{timing}{%
+\subsection{Project Timing}\label{timing}}
 
 The projects run for 6 months from September to March, divided into three phases.
 
@@ -732,11 +800,13 @@ The projects run for 6 months from September to March, divided into three phases
   \textbf{February to April} From February to April, our students are expected to liaise closely with teachers to develop an educational tool that will be of use in the classroom using teachers' suggestions as to what is appropriate to build. Students will spend some time in a classroom working closely with teachers and students developing and delivering a new resource for teaching. More details on final year projects can be found in COMP300, the undergraduates already know what is required from their project
 \end{enumerate}
 
-\subsection{Assessment and Monitoring}\label{assessment}
+\hypertarget{assessment}{%
+\subsection{Assessment and Monitoring}\label{assessment}}
 
 Formal supervision and mentoring is undertaken by the university (Duncan and David), but we will ask you to fill in a one page form on your assessment of their progress during their time at your school, we very much value your input and hope that these projects can beneficial for both your school and the University. We don't want to burden you with unnecessary bureaucracy that all teachers battle with!
 
-\section{Guidance for Students}\label{guidance-for-students}
+\hypertarget{guidance-for-students}{%
+\section{Guidance for Students}\label{guidance-for-students}}
 
 \begin{figure}
 
@@ -767,13 +837,15 @@ Undergraduate students can make a significant difference here, by supporting tea
   make yourself more employable by doing all of the above
 \end{itemize}
 
-\subsection{Who is Involved?}\label{who-is-involved}
+\hypertarget{who-is-involved}{%
+\subsection{Who is Involved?}\label{who-is-involved}}
 
 Initially, the number of undergraduate students involved in these projects will be less than ten. We also require that you will have a minimum of a 2:1 or 1st in your second year exams. Projects are co-supervised by Duncan with additional supervision from an experienced member of teaching staff at a participating school.
 
 We have carefully selected schools in Manchester that are relatively easy for you to get to, are already teaching Computer Science and have supportive staff and teachers in place to help you. You will be expected to work directly with school children with the support of the teaching staff in your school. Schools we have worked with are all the Manchester area.
 
-\subsection{What will Educational Projects be Expected to Deliver?}\label{what-will-educational-projects-be-expected-to-deliver}
+\hypertarget{what-will-educational-projects-be-expected-to-deliver}{%
+\subsection{What will Educational Projects be Expected to Deliver?}\label{what-will-educational-projects-be-expected-to-deliver}}
 
 You will be expected to work closely with the teacher to develop resources that
 
@@ -803,21 +875,31 @@ All deliverables for standard final year projects will be expected of these proj
 
 Assessments for these projects will be as for standard projects, \citep{COMP30030, COMP30040} but part of the evaluation of the project will be a classroom demonstration, a description and evaluation of which should be included in your final report.
 
-\subsection{Blended Learning}\label{blended}
+\hypertarget{blended}{%
+\subsection{Blended Learning}\label{blended}}
 
 COVID 19 has accelerated changes in the way we teach and learn, from primary and secondary school right through to higher education. As a teacher, you need to get clued up on \href{https://en.wikipedia.org/wiki/Blended_learning}{blended learning}. A good place to start is with \href{http://www.elearning.fse.manchester.ac.uk/fseta/moving-to-blended-learning-part-1-terminology-and-concepts/}{Moving to Blended Learning, Part 1: Terminology and Concepts}, then take a look the video below with Steve Pettifer explaining techniques for slides that work for blended learning videos:
 
-\label{fig:srp-fig}If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/Y50mTVIzAYk}{youtu.be/Y50mTVIzAYk} \citep{youtube-srp}
+\begin{figure}
+
+{\centering \href{https://www.youtube.com/embed/Y50mTVIzAYk}{\includegraphics[width=0.99\linewidth]{duncan-hull_files/figure-latex/srp-fig-1} }
+
+}
+
+\caption{If you're making presentations for students to watch before or after your lessons, its worth spending some time thinking about how to make your slides video friendly. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/Y50mTVIzAYk}{youtu.be/Y50mTVIzAYk} \citep{youtube-srp}}\label{fig:srp-fig}
+\end{figure}
 
 
 
 When you teach, think about how you can support students before and after your time in the classroom.
 
-\subsection{When do the Projects Start and Finish?}\label{finishing}
+\hypertarget{finishing}{%
+\subsection{When do the Projects Start and Finish?}\label{finishing}}
 
-Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact \hyperref[Contact]{Duncan Hull}.
+Projects start annually in September and are handed at Easter time, see final year project guidelines. For more information contact \protect\hyperlink{Contact}{Duncan Hull}.
 
-\section{Getting a Head Start}\label{getting-a-head-start}
+\hypertarget{getting-a-head-start}{%
+\section{Getting a Head Start}\label{getting-a-head-start}}
 
 So you've selected \emph{Coding their future} as your third year project and now you are ready to get started. There are plenty of resources to help you prepare and improve your effectiveness in the classroom.
 
@@ -867,7 +949,8 @@ So you've selected \emph{Coding their future} as your third year project and now
   \textbf{Join the community} The UK Special Interest Group (SIG) on Computer Science Education (CSE) has monthly events listed online at \href{https://uki-sigcse.acm.org/events}{uki-sigcse.acm.org/events}, these cover computing events from primary through to secondary and higher education
 \end{itemize}
 
-\chapter{Hearing Your Future}\label{hearing-your-future}
+\hypertarget{hearing-your-future}{%
+\chapter{Hearing Your Future}\label{hearing-your-future}}
 
 \emph{Hearing Your Future} is a podcast which accompanies the Coding Your Future guidebook. We talk to \href{https://en.wiktionary.org/wiki/graduand}{graduands} and graduates of computer science, see figure \ref{fig:collage-fig}, to hear more about their journey from student to professional. As part of their exit interview we ask them what happens after graduation? What comes next?
 
@@ -882,7 +965,8 @@ So you've selected \emph{Coding their future} as your third year project and now
 
 
 
-\section{From student to professional}\label{pro}
+\hypertarget{pro}{%
+\section{From student to professional}\label{pro}}
 
 Listen in to the episodes below, or read the transcripts, to find out more about how these students are coding their future:
 
@@ -904,7 +988,8 @@ Find out more by listening here or subscribing wherever you get your podcasts.
 
 Your future is bright, your future needs hearing, so let's start hearing your future.
 
-\section{Subscribing to your future}\label{subscribing}
+\hypertarget{subscribing}{%
+\section{Subscribing to your future}\label{subscribing}}
 
 You can subscribe (for free!) by following one of the links below to your favourite podcast tool. Alternatively you can search for \texttt{Coding\ Your\ Future} or \texttt{Hearing\ Your\ Future} in your podcast application. You will see the logo shown in figure \ref{fig:hearing-fig} when you find it.
 
@@ -938,11 +1023,13 @@ If all else fails, you can cut-and-paste the raw \texttt{rss} feed URL below int
 
 
 
-\chapter{Refereeing Your Future}\label{referee}
+\hypertarget{referee}{%
+\chapter{Refereeing Your Future}\label{referee}}
 
 So, you're a student who needs a reference for a new job or future study?
 
-\section{``Will you be my referee?''}\label{willyou}
+\hypertarget{willyou}{%
+\section{``Will you be my referee?''}\label{willyou}}
 
 This is a question academics get asked a lot. As industrial experience and employability tutor, I get asked that question more than most and already write \emph{lots} of references for students applying for jobs and further study, see figure \ref{fig:referee-fig}.
 
@@ -973,7 +1060,8 @@ You can obtain an unofficial copy of your transcript by emailing \texttt{soe.hub
 
 Whoever agrees to be your referee, make sure you read and understand the following:
 
-\section{``Who can provide a reference for me?}\label{who}
+\hypertarget{who}{%
+\section{``Who can provide a reference for me?}\label{who}}
 
 The best person to provide a reference for you is somebody who knows you, such as your personal tutor. See the careers service guide \href{http://www.careers.manchester.ac.uk/applicationsinterviews/faqs/references}{what are references and how should I choose a referee?} and \href{http://documents.manchester.ac.uk/display.aspx?DocID=1921}{guidance to staff providing references for students} from the University of Manchester, which gives extra context.
 
@@ -997,11 +1085,13 @@ It is good to have references from different sources, so if you are providing se
 
 If you ask somebody who does not know you very well to write a reference for you, all that they are able to do in a reference is confirm rather dull facts such as your grades, your attendance, start date and graduation date. As I've already said, this does not make for a very useful reference.
 
-\section{``Should I ask permission from my referee?}\label{permission}
+\hypertarget{permission}{%
+\section{``Should I ask permission from my referee?}\label{permission}}
 
 You should always ask the person providing your reference, see figure \ref{fig:referee-fig}.
 
-\section{``What is a reference for?''}\label{for}
+\hypertarget{for}{%
+\section{``What is a reference for?''}\label{for}}
 
 References have two main purposes:
 
@@ -1031,7 +1121,8 @@ References have two main purposes:
   \end{enumerate}
 \end{enumerate}
 
-\section{``How can I help my referee?''}\label{help}
+\hypertarget{help}{%
+\section{``How can I help my referee?''}\label{help}}
 
 It can make it much easier for your referee if you provide them with information you would like them to mention in your reference. This might include:
 
@@ -1053,7 +1144,8 @@ It can make it much easier for your referee if you provide them with information
 
 All of this information will help your referee to write a better reference for you.
 
-\section{``Can I have a copy of my reference?''}\label{copy}
+\hypertarget{copy}{%
+\section{``Can I have a copy of my reference?''}\label{copy}}
 
 It is unusual for a referee to provide a reference directly to its subject (that's you).
 
@@ -1061,9 +1153,10 @@ Typically, a referee is asked to provide a reference for a student (or former st
 
 You can, once you're employed, make a request to see your reference under data protection law.
 
-\chapter{Researching the Future}\label{research}
+\hypertarget{research}{%
+\chapter{Researching the Future}\label{research}}
 
-My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \hyperref[tuningcomplete]{live music}, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html}{working with schools}, \hyperref[wikipedia]{editing Wikipedia} and more. Previously I've worked in \href{https://en.wikipedia.org/wiki/Bioinformatics}{bioinformatics}, \href{https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning}{knowledge representation and reasoning} and \href{https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence}{symbolic AI}, see publications in section \ref{publications}.
+My research interests are in \href{https://en.wikipedia.org/wiki/Computer_science_education}{Computer Science Education} and \href{https://en.wikipedia.org/wiki/Pedagogy}{pedagogy}. \citep{CERhandbook, JohnBiggs2011, Fry2014} I'm interested in methods that can improve learning and student experience using techniques like \href{https://www.cdyf.me}{coding your future}, \href{https://sigcse.cs.manchester.ac.uk/}{journal clubbing}, \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring}, \protect\hyperlink{tuningcomplete}{live music}, \href{https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future.html}{working with schools}, \protect\hyperlink{wikipedia}{editing Wikipedia} and more. Previously I've worked in \href{https://en.wikipedia.org/wiki/Bioinformatics}{bioinformatics}, \href{https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning}{knowledge representation and reasoning} and \href{https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence}{symbolic AI}, see publications in section \ref{publications}.
 
 \begin{figure}
 
@@ -1076,7 +1169,8 @@ My research interests are in \href{https://en.wikipedia.org/wiki/Computer_scienc
 
 
 
-\section{SIGCSE}\label{sigcse}
+\hypertarget{sigcse}{%
+\section{SIGCSE}\label{sigcse}}
 
 Computer Science has only been taught to undergraduates in the UK for 50 short years \citep{babygrowsup, sigcse50}, so there's lots of open questions about how to teach the practical, theoretical and professional aspects of the subject. To that end:
 
@@ -1088,19 +1182,22 @@ Computer Science has only been taught to undergraduates in the UK for 50 short y
   I serve on the program committee of the \href{https://www.ukicer.com/}{United Kingdom and Ireland Computing Education Research (UIKICER)} conference, on the board of \href{https://uki-sigcse.acm.org/about}{UK ACM SIGCSE} and have served on the program committee for \href{http://community.dur.ac.uk/cep.conference}{Computing Education \& Practice (CEP)} conference at Durham University
 \end{itemize}
 
-\section{Industrial Mentoring}\label{industrial-mentoring}
+\hypertarget{industrial-mentoring}{%
+\section{Industrial Mentoring}\label{industrial-mentoring}}
 
 Since we started the \href{https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/}{industrial mentoring scheme for software engineers} in 2015, more than 1000 students have been through the mentoring scheme with 250 students taking the course every year. We are very grateful for continued support from our industrial partners in making this happen.
 
 Mentors meet with a group of six second year students for two one hour meetings and do some gentle code review of their gitlab repository, as they start to fix bugs and add features to a large open source software project. You don't \emph{need} to be an expert in the tools students are using (Java, Eclipse, Jenkins, Git, JUnit and Ant) it is more about the general process (and politics) of building and testing high quality software in large and distributed teams, than the specifics of the \href{https://stendhalgame.org/}{stendhalgame.org} codebase we happen to be using. Mentors are typically software engineers, both junior and senior.
 
-\section{Coderdojo \& Code Club}\label{codeclub}
+\hypertarget{codeclub}{%
+\section{Coderdojo \& Code Club}\label{codeclub}}
 
 I'm a volunteer at \href{https://coderdojo.com/}{coderdojo.com} \citep{coderdojo}. Coder \href{https://en.wikipedia.org/wiki/Dojo}{dojos} are local community engineering clubs for young people; with several other volunteers I help out at \href{https://twitter.com/coderdojonw}{CoderDojo North West}. We meet once a month to help young people broaden their digital and computational horizons.
 
 Previously I lead an after school \href{https://codeclub.org}{CodeClub} as part of a global network of free coding clubs for 9--13 year olds. \citep{codeclub} As with coderdojo, the aim is to have fun using \href{https://scratch.mit.edu/}{Scratch}, \citep{Resnick2009} python and other interesting technology we can get our hands on including \href{https://www.raspberrypi.org/}{Raspberry Pi}, \citep{raspberrypi} \href{https://microbit.org/}{Micro:bits}, \citep{Sentance2017} \href{https://www.lego.com/en-gb/themes/mindstorms}{LEGO® MINDSTORMS®}, \citep{Papert1980, Klassner2003} \href{https://www.oculus.com}{Oculus Rift}, \href{https://sonic-pi.net/}{Sonic Pi} \citep{Aaron2016} and \href{http://www.codebug.org.uk/}{CodeBug} etc.
 
-\section{Wikipedia}\label{wikipedia}
+\hypertarget{wikipedia}{%
+\section{Wikipedia}\label{wikipedia}}
 
 Wikipedia and \href{https://www.wikidata.org}{wikidata.org} \citep{Vrandecic2014, Turki2019} are powerful tools for improving both digital skills and communication skills, regardless of your age or level of computer literacy, \citep{Proffitt2018, goodfaith, Littlejohn2019} particularly in the following areas:
 
@@ -1159,7 +1256,8 @@ More information on past and future events like this can be found at:
   \href{https://en.wikipedia.org/wiki/User:Duncan.Hull}{en.wikipedia.org/wiki/User:Duncan.Hull}
 \end{itemize}
 
-\section{Tuning Complete}\label{tuningcomplete}
+\hypertarget{tuningcomplete}{%
+\section{Tuning Complete}\label{tuningcomplete}}
 
 Tuning complete started as a \href{https://en.wikipedia.org/wiki/Boy_band}{boy band} in \href{https://duncan.hull.name/2019/07/05/mancashire/}{Manchester, Lancashire 🌹}, named after the famous Computer Scientist \href{https://en.wikipedia.org/wiki/Alan_Turing}{Alan Tuning}. We use his eponymous \href{https://en.wikipedia.org/wiki/Turing_machine}{Tuning machine} to make music which is quality assured using the \href{https://en.wikipedia.org/wiki/Turing_test}{Tuning test}.
 
@@ -1221,7 +1319,8 @@ We played our debut gigs to packed theatres of over 200 second year \& first yea
 \caption{Mrs. Kilburn is our manager, booking agent and promoter. She is the power behind our boy band throne, so all bookings must be approved and scheduled by her office. Please do not approach band members directly with gig requests or offers of marriage, we are all answered for!}\label{fig:mrskilburn-fig}
 \end{figure}
 
-\subsection{From boy band to Musical Collective}\label{collective}
+\hypertarget{collective}{%
+\subsection{From boy band to Musical Collective}\label{collective}}
 
 After several years of rehearsing, touring and time in the studio, we decided to invite women to join our boy band, because we soon realised they could do all the things we weren't so good at such as:
 
@@ -1259,7 +1358,8 @@ So, as of 2024, Tuning Complete are a \href{https://en.wikipedia.org/wiki/Musica
 
 If you can sing, dance or play a musical instrument and would like to join us, please get in touch.
 
-\section{Publications}\label{publications}
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
 
 Informal publications can be my lab log:
 
@@ -1308,17 +1408,20 @@ According to Google scholar, my most cited papers are on:
 
 The first paper for which I was formally acknowledged was on simulated environmental change in the subarctic published in \href{https://en.wikipedia.org/wiki/New_Phytologist}{\emph{New Phytologist}} \citep{subarctic}. I was a humble field assistant, not a co-author, one of the \emph{absolut} best summer jobs I've ever had!
 
-\appendix
+\hypertarget{appendix-postscript}{%
+\appendix}
 
 
-\chapter{Computing the Future}\label{mastersofscience}
+\hypertarget{mastersofscience}{%
+\chapter{Computing the Future}\label{mastersofscience}}
 
 \begin{quote}
 One hundred years of computing from 1948 to 2048, stopping at the classes of 2003 and 1978, with
 some pictures, \href{https://en.wikipedia.org/wiki/Dad_joke}{dad jokes} and geek history.
 \end{quote}
 
-\section{The Class of 2003}\label{y2003}
+\hypertarget{y2003}{%
+\section{The Class of 2003}\label{y2003}}
 
 Let's start our computational odyssey in 2003, figure \ref{fig:msc-fig} shows students of the MSc Computer Science class of 2003. That's me in the back row standing highest on the left hand side. We are smiling because we were being entertained and educated by \href{https://www.southampton.ac.uk/healthsciences/about/staff/richard_giordano.page}{Richard Giordano}, who took this picture while teaching. We are proud members of a community of more than 10,000 students have graduated with a degree\footnote{either undergraduate or postgraduate} in Computer Science since the University \href{http://www.bbc.co.uk/manchester/content/articles/2005/11/07/baby_computer_40_interview_feature.shtml}{was the first in the UK to provide an undergraduate Computer Science degree course} in 1965. \citep{babygrowsup}
 
@@ -1335,7 +1438,8 @@ Let's start our computational odyssey in 2003, figure \ref{fig:msc-fig} shows st
 
 Twenty five years earlier, before many of the people in the above picture were born, there was the class of 1978\ldots{}
 
-\section{The Class of 1978}\label{y1978}
+\hypertarget{y1978}{%
+\section{The Class of 1978}\label{y1978}}
 
 Figure \ref{fig:mu5-fig} shows Manchester staff operating the \href{https://en.wikipedia.org/wiki/Manchester_computers\#MU5}{MU5 computer} sometime around 1978. Most people will have little interest in the hardware that the people in the picture are using. However, a wider audience may be interested in the suave and sophisticated seventies \emph{\href{https://en.wikipedia.org/wiki/Saturday_Night_Fever}{Saturday Night Fever}} dancing shoes that Pat McKissack on the left of the picture is wearing. \citep{nightfever}
 
@@ -1361,7 +1465,8 @@ memory\ldots.
 
 They may have had to use very primitive memory, but at least Tom and Freddie didn't have to build their computers out of \href{https://www.sciencemuseum.org.uk/objects-and-stories/lovelace-turing-and-invention-computers}{mechanical discs and wheels}, or even better \href{https://en.wikipedia.org/wiki/Differential_analyser\#Use_of_Meccano}{Meccano}. \citep{meccano, hartree} Moving on swiftly, we go back a little further in time, thirty years earlier\ldots{}
 
-\section{The Class of 1948}\label{y1948}
+\hypertarget{y1948}{%
+\section{The Class of 1948}\label{y1948}}
 
 Our next stop is in 1948. We have to stop here because the \href{https://en.wikipedia.org/wiki/Manchester_Baby}{Manchester Baby} first ran on 21st June 1948. Figure \ref{fig:tomfred-fig} shows Tom and Freddie with the Baby. \citep{lavington}
 
@@ -1378,7 +1483,14 @@ Our next stop is in 1948. We have to stop here because the \href{https://en.wiki
 
 Armed with some double-sided sticky-tape, several empty \href{https://en.wikipedia.org/wiki/Fairy_(brand)}{fairy-liquid bottles}, lots of patience and an idea from \href{https://en.wikipedia.org/wiki/Alan_Turing}{some bloke called Alan Turing}, Tom and Freddie built the world's first \href{https://en.wikipedia.org/wiki/Stored-program_computer}{stored-program computer}. The stored-program was significant as it was the predecessor to what we now call \href{https://en.wikipedia.org/wiki/Random-access_memory}{random-access memory} (RAM), see figure \ref{fig:baby-fig}. \citep{longway-baby}
 
-\label{fig:baby-fig}This video was produced by Google as a tribute to the Manchester Baby --- the first computer to run a program electronically stored in its memory. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/cozcXiSSkwE}{youtu.be/cozcXiSSkwE} \citep{youtube-baby}
+\begin{figure}
+
+{\centering \href{https://www.youtube.com/embed/cozcXiSSkwE}{\includegraphics[width=0.99\linewidth]{duncan-hull_files/figure-latex/baby-fig-1} }
+
+}
+
+\caption{This video was produced by Google as a tribute to the Manchester Baby --- the first computer to run a program electronically stored in its memory. You can also watch the full 7 minute video embedded in this figure at \href{https://youtu.be/cozcXiSSkwE}{youtu.be/cozcXiSSkwE} \citep{youtube-baby}}\label{fig:baby-fig}
+\end{figure}
 
 
 
@@ -1408,13 +1520,21 @@ Whatever your definition, after Tom and Freddie, things were never the same agai
 
 \ldots{} is a direct descendant of the rather strange looking machine in figure \ref{fig:tomfred-fig}. In 2023, the BBC published archive footage of \href{https://en.wikipedia.org/wiki/Tom_Kilburn}{Tom Kilburn} being interviewed by \href{https://en.wikipedia.org/wiki/Brian_Redhead}{Brian Redhead} in 1981 about the big machine and its successors, shown in figure \ref{fig:redhead-fig}.
 
-\label{fig:redhead-fig}Broadcaster \href{https://en.wikipedia.org/wiki/Brian_Redhead}{Brian Redhead} interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. You can also watch this 14 minute video at \href{https://youtu.be/CQ2EBw7AgZY}{youtu.be/CQ2EBw7AgZY} \citep{youtube-redhead} This clip looks \emph{very} dated now (\href{https://www.oxfordreference.com/display/10.1093/acref/9780191827822.001.0001/acref-9780191827822-e-2138}{male, pale and stale}) but provides an interesting window on the past. It was acceptable in the 80s, it was acceptable at the time. \citep{acceptableinthe80s}
+\begin{figure}
+
+{\centering \href{https://www.youtube.com/embed/CQ2EBw7AgZY}{\includegraphics[width=0.99\linewidth]{duncan-hull_files/figure-latex/redhead-fig-1} }
+
+}
+
+\caption{Broadcaster \href{https://en.wikipedia.org/wiki/Brian_Redhead}{Brian Redhead} interviews proud Yorkshireman and Manchester United fan Tom Kilburn in 1981. You can also watch this 14 minute video at \href{https://youtu.be/CQ2EBw7AgZY}{youtu.be/CQ2EBw7AgZY} \citep{youtube-redhead} This clip looks \emph{very} dated now (\href{https://www.oxfordreference.com/display/10.1093/acref/9780191827822.001.0001/acref-9780191827822-e-2138}{male, pale and stale}) but provides an interesting window on the past. It was acceptable in the 80s, it was acceptable at the time. \citep{acceptableinthe80s}}\label{fig:redhead-fig}
+\end{figure}
 
 
 
 You don't need to be a Manchester United supporter or from Yorkshire, like Kilburn was, to appreciate computing. A little basic arithmetic helps illustrate how far we've come since 1948 and 1981.
 
-\subsection{Numbers Speak Louder Than Words}\label{louder}
+\hypertarget{louder}{%
+\subsection{Numbers Speak Louder Than Words}\label{louder}}
 
 What's interesting about the difference between 1948 and now are the changes in the efficiency, size and speed of computers, shown in table \ref{tab:cputable}. It's hard to describe in words the difference between 1948 and now, in this case, the numbers speak much louder than words ever could:
 
@@ -1457,7 +1577,8 @@ Energy efficiency
 
 So where is all this going? What about the future? Let's take a \href{https://en.wikipedia.org/wiki/Long_Now_Foundation}{longer view}, and skip forward from 1948 to 2048\ldots{}
 
-\section{The Class of 2048?}\label{y2048}
+\hypertarget{y2048}{%
+\section{The Class of 2048?}\label{y2048}}
 
 Our next stop is 2048. For the number nerds out there, this year is pleasingly 100 years after 1948 so a sensible place to make our next stop. 2048 is also \texttt{100000000000} in binary (2\textsuperscript{11}) and the maximum number of \textbf{bits} (not \texttt{bytes}) that the Manchester Baby stored in its Cathode Ray Tube (CRT) memory. A whopping 2048 bits, or 256 bytes, with 8 bit bytes! \citep{kilburnphd}
 
@@ -1492,7 +1613,8 @@ Either way, what is known as \href{https://en.wikipedia.org/wiki/Computer_scienc
 
 Prediction is very difficult, especially if it's about the future. Which is a good point to close this essay on.\footnote{Originally written in \textasciitilde2006, for some reason all my quotes were from men. Updated and refreshed in 2021 from the original at \url{https://web.archive.org/web/20060304101200/http://www.cs.man.ac.uk/~hulld/msc2003.html}}
 
-\chapter{Contacting the Future}\label{contact}
+\hypertarget{contact}{%
+\chapter{Contacting the Future}\label{contact}}
 
 \begin{quote}
 The future has arrived --- It's Just Not Evenly Distributed Yet. \citep{gibson}
@@ -1511,7 +1633,8 @@ Unfortunately you can't contact the future, yet. While we wait for the future to
 \caption{Paying homage to \href{https://en.wikipedia.org/wiki/Alan_Turing}{Alan Turing} at a mural on the \href{https://en.wikipedia.org/wiki/A5103_road}{Princess Parkway} by \href{http://tankpetrol.com/}{tankpetrol.com}. According to \href{https://www.manturing.net/jonathan}{Jonathan Swinton}, Turing is the ``patron saint of Manchester'' \citep{manturing}. As a \href{https://en.wikipedia.org/wiki/Symbols_of_Manchester}{Manchester icon}, he is commemorated locally by the \href{https://en.wikipedia.org/wiki/Alan_Turing_Building}{Alan Turing building}, the \href{https://en.wikipedia.org/wiki/Alan_Turing_Memorial}{Alan Turing Memorial}, \href{https://duncan.hull.name/2021/07/07/turings-house/}{some blue plaques} and the \href{https://www.google.com/maps/place/Alan+Turing+Way,+Manchester/}{Alan Turing Way} \citep{turingway}}\label{fig:unnamed-chunk-9}
 \end{figure}
 
-\section{Please Try Reading The Friendly Manual First}\label{rtfm}
+\hypertarget{rtfm}{%
+\section{Please Try Reading The Friendly Manual First}\label{rtfm}}
 
 If you're a student, please make sure you've \href{https://en.wikipedia.org/wiki/RTFM}{Read The Friendly Manual} (RTFM), before asking me or my colleagues. There's a good chance your question will already be answered there, in particular:
 
@@ -1525,7 +1648,8 @@ If you're a student, please make sure you've \href{https://en.wikipedia.org/wiki
   The student support website at \href{https://www.studentsupport.manchester.ac.uk/}{www.studentsupport.manchester.ac.uk}
 \end{itemize}
 
-\section{Student Support}\label{sso}
+\hypertarget{sso}{%
+\section{Student Support}\label{sso}}
 
 If you can't find an answer to your question in section \ref{rtfm}, then get in touch. Bear in mind, I might not be the best person to talk to, depending on what you want. If you're a student, you might be better off contacting student support in person by the neon signs in the \href{https://en.wikipedia.org/wiki/Nancy_Rothwell_Building}{Nancy Rothwell Building}, see figure \ref{fig:sso-fig}.
 
@@ -1587,7 +1711,8 @@ If you provide the following information in your email, they will be able to res
 
 You can do this via \href{https://bit.ly/student-services-enquiry-form}{bit.ly/student-services-enquiry-form}
 
-\section{Office in the Kilburn Building}\label{office}
+\hypertarget{office}{%
+\section{Office in the Kilburn Building}\label{office}}
 
 My office is on the Lower First floor, Room LF25 of the \href{https://en.wikipedia.org/wiki/Kilburn_Building}{Kilburn building} shown in figure \ref{fig:kilburn-fig}. From the Byte cafe on the lower first floor, go through the double doors on the South side of the building and down the ramp. LF25 is at the bottom of the ramp on the right, see \href{https://bit.ly/Kilburn-lower-first-floor}{bit.ly/Kilburn-lower-first-floor}.
 
@@ -1612,7 +1737,8 @@ Details of my office hours can be found in the Wednesday Waggle. 🐝
 
 
 
-\section{Postal Address}\label{postal}
+\hypertarget{postal}{%
+\section{Postal Address}\label{postal}}
 
 Send post by carrier pigeon or snail mail to: 🐌
 
@@ -1637,7 +1763,8 @@ M13 9PL\\
 
 
 
-\section{Kilburn Building Directions}\label{kilburn}
+\hypertarget{kilburn}{%
+\section{Kilburn Building Directions}\label{kilburn}}
 
 The \href{https://en.wikipedia.org/wiki/Kilburn_Building}{Kilburn building} shown in figure \ref{fig:kilburn-fig} is about 20 minutes walk from either \href{https://www.nationalrail.co.uk/stations_destinations/man.aspx}{Manchester Piccadilly} (MAN) or ten minutes from \href{https://www.nationalrail.co.uk/stations/mco/details.aspx}{Manchester Oxford Road} (MCO). Our official postcode (M13 9PL) takes you to \href{http://www.conference.manchester.ac.uk/venues/search/details/?property=10}{University Place} (which looks like a giant tin of baked beans) next door, so you're better of using the \href{https://www.bbc.co.uk/news/uk-england-49319760}{what3words locations} \citep{what3words} below which are more accurate:
 
@@ -1672,7 +1799,8 @@ The \href{https://en.wikipedia.org/wiki/Kilburn_Building}{Kilburn building} show
 
 
 
-\section{Parking at the Kilburn Building}\label{parking}
+\hypertarget{parking}{%
+\section{Parking at the Kilburn Building}\label{parking}}
 
 If you are driving, the nearest car parks are:
 
@@ -1686,7 +1814,8 @@ If you are driving, the nearest car parks are:
   See \href{https://www.estates.manchester.ac.uk/services/operationalservices/carparking/}{estates.manchester.ac.uk/services/operationalservices/carparking}
 \end{itemize}
 
-\section{Duncan's Digital Doppelgängers}\label{tinternet}
+\hypertarget{tinternet}{%
+\section{Duncan's Digital Doppelgängers}\label{tinternet}}
 
 You can connect online with my \href{https://en.wikipedia.org/wiki/Doppelganger:_A_Trip_Into_the_Mirror_World}{digital doppelgängers} on t'internet at:
 
@@ -1721,7 +1850,8 @@ Besides Zoom/Teams, I can also use most other video conferencing software includ
 
 
 
-\chapter{Reading the Future}\label{references}
+\hypertarget{references}{%
+\chapter{Reading the Future}\label{references}}
 
 Here's a list of everything cited in these pages.
 
@@ -1736,6 +1866,6 @@ Here's a list of everything cited in these pages.
 
 
 
-  \bibliography{/Users/user/Documents/GitHub/cdyf/hulld.bib,/Users/user/Documents/GitHub/cdyf/cdyf-playlist.bib,/Users/user/Documents/GitHub/cdyf/cdyf-signposts.bib,/Users/user/Documents/GitHub/cdyf/cdyf-references.bib}
+  \bibliography{/Users/Duncan/Documents/GitHub/cdyf/hulld.bib,/Users/Duncan/Documents/GitHub/cdyf/cdyf-playlist.bib,/Users/Duncan/Documents/GitHub/cdyf/cdyf-signposts.bib,/Users/Duncan/Documents/GitHub/cdyf/cdyf-references.bib}
 
 \end{document}

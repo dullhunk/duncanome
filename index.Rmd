@@ -3,7 +3,7 @@ title: Dr. Duncan Hull
 author: Yours truly, last updated on `r format(Sys.time(), '%d %B, %Y')` 
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [/Users/user/Documents/GitHub/cdyf/hulld.bib, /Users/user/Documents/GitHub/cdyf/cdyf-playlist.bib, /Users/user/Documents/GitHub/cdyf/cdyf-signposts.bib, /Users/user/Documents/GitHub/cdyf/cdyf-references.bib]
+bibliography: [/Users/Duncan/Documents/GitHub/cdyf/hulld.bib, /Users/Duncan/Documents/GitHub/cdyf/cdyf-playlist.bib, /Users/Duncan/Documents/GitHub/cdyf/cdyf-signposts.bib, /Users/Duncan/Documents/GitHub/cdyf/cdyf-references.bib]
 biblio-style: apalike
 link-citations: yes
 fontsize: 12pt

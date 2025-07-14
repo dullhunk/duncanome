@@ -7,6 +7,7 @@ fig:graduating-your-fig
 fig:unnamed-chunk-2
 fig:busy-fig
 fig:ie-fig
+fig:csreputation-fig
 fig:cdyf-fig
 fig:unnamed-chunk-4
 fig:sonic-pi-fig
