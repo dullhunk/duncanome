@@ -15,9 +15,13 @@ knitr::include_graphics("images/turingicon.jpg")
 If you're a student, please make sure you've [Read The Friendly Manual](https://en.wikipedia.org/wiki/RTFM) (RTFM), before asking me or my colleagues. There's a good chance your question will already be answered there, in particular:
 
 <!--[wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main](https://wiki.cs.manchester.ac.uk/index.php/UGHandbook23:Main)-->
-* The Undergraduate (UG) Handbook [bit.ly/UG-handbook-2024-25](https://bit.ly/UG-handbook-2024-25)
-* The Placement handbook [bit.ly/UG-handbook-2024-25](https://bit.ly/UG-handbook-2024-25)
-* The student support website at [www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk/)
+
+* The Undergraduate (UG) Virtual Common Room [bit.ly/UG-VC-2025-26](https://bit.ly/UG-VC-2025-26) and links it contains, in particular: 
+    +  The Undergraduate (UG) Handbook [bit.ly/UG-handbook-2025-26](https://bit.ly/UG-handbook-2025-26)
+    + The Placement Handbook [bit.ly/placement-handbook-2025](https://bit.ly/placement-handbook-2025) 
+    + The Monday Mail [studentnet.cs.manchester.ac.uk/ugt/mondaymail](https://studentnet.cs.manchester.ac.uk/ugt/mondaymail)
+    + The Wednesday Waggle (for jobs) [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/login)
+    + The student support website at [www.studentsupport.manchester.ac.uk](https://www.studentsupport.manchester.ac.uk/)
 
 ## Student Support {#sso}
 

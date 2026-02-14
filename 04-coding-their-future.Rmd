@@ -20,7 +20,7 @@ The University provides schools with a final year student who can teach Computer
 
 ## Why Teach Coding? {#whycode}
 
-Coding, programming, software engineering and computer science - whatever you want to call it, builds key foundational skills and knowledge that **all** students need to learn regardless of their aspirations. Children don't learn to code just to become coders, they learn to code so they can build problem solving skills and develop an understanding how the digital world they inhabit functions. [@peytoncode] Sam Aaron, creator of the [sonic-pi.net](https://sonic-pi.net/) makes this case in figure \@ref(fig:sonic-pi-fig).
+Coding, programming, software engineering and computer science - whatever you want to call it, builds key foundational skills and knowledge that **all** students need to learn regardless of their aspirations. Children don't learn to code just to become coders, they learn to code so they can build problem solving skills and develop an understanding how the digital world they inhabit functions. [@peytoncode;@kidscode], creator of the [sonic-pi.net](https://sonic-pi.net/) makes this case in figure \@ref(fig:sonic-pi-fig).
 
 ```{r sonic-pi-fig, echo = FALSE, fig.align = "center", out.width = "99%", fig.cap = "(ref:sonicpi)"}
 knitr::include_url('https://www.youtube.com/embed/0lTZ8Tuyu5I')
