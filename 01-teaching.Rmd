@@ -62,10 +62,7 @@ If you're in your final year of study, you'll find me:
 
 ## Masters Students {#masters}
 
-If you're doing a Masters degree, you'll find me:
-
-* Leading the course on [Principles of Digital Biology](http://studentnet.cs.manchester.ac.uk/pgt/COMP60532/syllabus/) which covers [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics), [Computational Biolgy](https://en.wikipedia.org/wiki/Computational_biology) and a bit of [medical informatics](https://en.wikipedia.org/wiki/Health_informatics) 🧬
-* Supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This typically involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
+If you're doing a Masters degree, you'll find me supervising [Master of Science](https://www.cs.manchester.ac.uk/study/masters/) projects in Computer Science and Data Science. [@r4ds] This typically involves various combinations of Wikipedia, Wikdata, [SPARQL](https://en.wikipedia.org/wiki/SPARQL) [@ducharme] and chatbots. 🤖 [@myca]
 
 ## PhD Students {#phds}
 
@@ -87,6 +84,8 @@ Previously I have served as:
 * Organiser of the labs for the [software engineering mentoring program](https://www.cs.manchester.ac.uk/connect/business-engagement/industrial-mentoring/)
 * Teaching team member for second year software engineering: `COMP23311` Led by [Suzanne Embury](https://research.manchester.ac.uk/en/persons/suzanne.m.embury) and subsequently [Bijan Parsia](https://research.manchester.ac.uk/en/persons/bijan.parsia)
 * [Second year tutor](https://studentnet.cs.manchester.ac.uk/ugt/year2/) from 2016 through to 2020
+* Leading the course on [Principles of Digital Biology](http://studentnet.cs.manchester.ac.uk/pgt/COMP60532/syllabus/) which covers [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics), [Computational Biolgy](https://en.wikipedia.org/wiki/Computational_biology) and a bit of [medical informatics](https://en.wikipedia.org/wiki/Health_informatics) 🧬
+
 
 
 ## Teaching Awards {#awards}
