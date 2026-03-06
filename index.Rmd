@@ -26,8 +26,8 @@ Hello and welcome to the [Department of Computer Science](https://www.cs.manches
 
 * Developing and delivering *Coding Your Future*: a course & guidebook for students at [cdyf.me](https://www.cdyf.me)
 * Improving students communication skills by enabling them to start [writing their future](https://www.cdyf.me/writing), [debugging their future](https://www.cdyf.me/debugging) and [speaking their future](https://www.cdyf.me/speaking)
-* Engaging with a wide range of employers through [our industry club](https://www.cs.manchester.ac.uk/connect/business-engagement/)
-* Growing and building the teaching community by journal clubbing at [sigcse.cs.manchester.ac.uk](https://sigcse.cs.manchester.ac.uk/) and serving on the board of [uki-sigcse.acm.org](https://uki-sigcse.acm.org/)
+* Engaging with a wide range of employers through our industry club at [industry-club.cs.manchester.ac.uk](https://industry-club.cs.manchester.ac.uk)
+* Serving on the board of [UK ACM SIGCSE](https://uki-sigcse.acm.org) and building the teaching community around it by [journal clubbing](https://uki-sigcse.acm.org/journal-club/) 
 * Supporting local schools both as a school governor and with the project [Coding Their Future](https://personalpages.manchester.ac.uk/staff/duncan.hull/coding-their-future)
 * Updating students weekly on opportunities with the Wednesday Waggle newsletter at [waggle.cs.manchester.ac.uk](https://waggle.cs.manchester.ac.uk/waggle/about) 🐝
 
