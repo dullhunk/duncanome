@@ -78,6 +78,7 @@
 \newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
 \newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs,array}
+\newcounter{none} % for unnumbered tables
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
 \usepackage{etoolbox}
@@ -113,12 +114,12 @@
 \urlstyle{same}
 \hypersetup{
   pdftitle={Dr.~Duncan Hull},
-  pdfauthor={Yours truly, last updated on 21 April, 2026},
+  pdfauthor={Yours truly, last updated on 10 August, 2026},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 \title{Dr.~Duncan Hull}
-\author{Yours truly, last updated on 21 April, 2026}
+\author{Yours truly, last updated on 10 August, 2026}
 \date{}
 
 \begin{document}
@@ -320,7 +321,11 @@ Previously I have served as:
 
 \section{Teaching Awards}\label{awards}
 
-Thanks to all the students at the \href{https://en.wikipedia.org/wiki/University_of_Manchester_Students\%27_Union}{University of Manchester Students' Union} (UMSU) who nominated me for an academic advising champion award in 2024, see \href{https://manchesterstudentsunion.com/awards}{manchesterstudentsunion.com/awards} and figure \ref{fig:su-fig}. These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests. \citep{su2024}
+Thanks to all the students at the \href{https://en.wikipedia.org/wiki/University_of_Manchester_Students\%27_Union}{University of Manchester Students' Union} (UMSU) who nominated me for awards in 2024 \citep{su2024} and 2026 \citep{whyislearninghard}, see \href{https://manchesterstudentsunion.com/awards}{manchesterstudentsunion.com/awards} and figures \ref{fig:su-fig} and \ref{fig:su2-fig}. These annual awards recognise the achievements of staff and students who have gone above and beyond to represent student interests.
+
+\label{fig:su2-fig}Thanks to all the students at the UMSU who nominated me for an embedding employability award \citep{whyislearninghard} and thanks Andrew Mawdsley for recording it. UMSU is the largest students' union in the UK representing over 40,000 students.
+
+
 
 \label{fig:su-fig}Thanks to all the students at the UMSU who nominated me for academic advising award and thanks Sambbhav for recording it. UMSU is the largest students' union in the UK representing over 40,000 students. You can also watch the full 30 second video embedded in this figure at \href{https://youtu.be/pe-M8_lKUz0}{youtu.be/pe-M8\_lKUz0} \citep{youtube-su2024}
 
@@ -1387,6 +1392,7 @@ If you can't find an answer to your question in section \ref{rtfm}, then get in 
 
 You can contact student support using the emails below:
 
+{\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}
   >{\raggedright\arraybackslash}p{(\linewidth - 2\tabcolsep) * \real{0.5000}}@{}}
@@ -1415,6 +1421,7 @@ Student Experience\footnote{for FSE careers bulletin} & \href{mailto:soe.student
 Visas & \href{mailto:visas@manchester.ac.uk}{\nolinkurl{visas@manchester.ac.uk}} \\
 Any Other Business (AOB) & \href{mailto:soe.programmes@manchester.ac.uk}{\nolinkurl{soe.programmes@manchester.ac.uk}} \\
 \end{longtable}
+}
 
 If you provide the following information in your email, they will be able to respond to your query more efficiently:
 
