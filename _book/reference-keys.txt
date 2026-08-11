@@ -13,9 +13,10 @@ fig:unnamed-chunk-3
 fig:unnamed-chunk-4
 fig:srp-fig
 fig:collage-fig
+fig:toddcast-vid
 fig:hearing-fig
 fig:referee-fig
-fig:unnamed-chunk-6
+fig:unnamed-chunk-7
 fig:beatles-fig
 fig:mrskilburn-fig
 fig:msc-fig
@@ -25,12 +26,12 @@ fig:baby-fig
 fig:redhead-fig
 tab:cputable
 fig:bohr-fig
-fig:unnamed-chunk-7
+fig:unnamed-chunk-8
 fig:sso-fig
 fig:kilburn-fig
 fig:kilburnsouth-fig
 fig:kilburnnorth-fig
-fig:unnamed-chunk-8
+fig:unnamed-chunk-9
 fig:shelfie-fig
 teaching
 allyears
@@ -66,6 +67,10 @@ getting-a-head-start
 hearing-your-future
 pro
 subscribing
+spotify
+apple
+youtube
+wherever
 referee
 willyou
 who
